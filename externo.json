@@ -1,0 +1,5398 @@
+{
+  "format": 1,
+  "fuente": "futbolfantasy",
+  "generatedAt": "2026-07-27T13:52:21.835Z",
+  "total": 557,
+  "porNombre": {
+    "carles alena": {
+      "slug": "carles-alena",
+      "nombreNorm": "carles alena",
+      "equipo": "alaves",
+      "probabilidad": 0,
+      "estado": "Clave",
+      "lesionado": true,
+      "duda": true,
+      "sancionado": true
+    },
+    "lucas boye": {
+      "slug": "lucas-boye",
+      "nombreNorm": "lucas boye",
+      "equipo": "alaves",
+      "probabilidad": 380,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "antonio martinez": {
+      "slug": "antonio-martinez",
+      "nombreNorm": "antonio martinez",
+      "equipo": "alaves",
+      "probabilidad": 780,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "antonio sivera": {
+      "slug": "antonio-sivera",
+      "nombreNorm": "antonio sivera",
+      "equipo": "alaves",
+      "probabilidad": 595,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "pablo ibanez": {
+      "slug": "pablo-ibanez",
+      "nombreNorm": "pablo ibanez",
+      "equipo": "alaves",
+      "probabilidad": 970,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "antonio blanco": {
+      "slug": "antonio-blanco",
+      "nombreNorm": "antonio blanco",
+      "equipo": "alaves",
+      "probabilidad": 690,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "abde rebbach": {
+      "slug": "abde-rebbach",
+      "nombreNorm": "abde rebbach",
+      "equipo": "alaves",
+      "probabilidad": 660,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "youssef enriquez": {
+      "slug": "youssef-enriquez",
+      "nombreNorm": "youssef enriquez",
+      "equipo": "alaves",
+      "probabilidad": 660,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jonny castro": {
+      "slug": "jonny-castro",
+      "nombreNorm": "jonny castro",
+      "equipo": "alaves",
+      "probabilidad": 580,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "nahuel tenaglia": {
+      "slug": "nahuel-tenaglia",
+      "nombreNorm": "nahuel tenaglia",
+      "equipo": "alaves",
+      "probabilidad": 190,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ville koski": {
+      "slug": "ville-koski",
+      "nombreNorm": "ville koski",
+      "equipo": "alaves",
+      "probabilidad": 570,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "angel perez 1": {
+      "slug": "angel-perez-1",
+      "nombreNorm": "angel perez 1",
+      "equipo": "alaves",
+      "probabilidad": 380,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "denis suarez": {
+      "slug": "denis-suarez",
+      "nombreNorm": "denis suarez",
+      "equipo": "alaves",
+      "probabilidad": 60,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "carlos benavidez": {
+      "slug": "carlos-benavidez",
+      "nombreNorm": "carlos benavidez",
+      "equipo": "alaves",
+      "probabilidad": 530,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ander guevara": {
+      "slug": "ander-guevara",
+      "nombreNorm": "ander guevara",
+      "equipo": "alaves",
+      "probabilidad": 30,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "moussa diarra 1": {
+      "slug": "moussa-diarra-1",
+      "nombreNorm": "moussa diarra 1",
+      "equipo": "alaves",
+      "probabilidad": 530,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "miguel rodriguez 1": {
+      "slug": "miguel-rodriguez-1",
+      "nombreNorm": "miguel rodriguez 1",
+      "equipo": "alaves",
+      "probabilidad": 920,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "mikel rodriguez": {
+      "slug": "mikel-rodriguez",
+      "nombreNorm": "mikel rodriguez",
+      "equipo": "alaves",
+      "probabilidad": 520,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "hugo novoa": {
+      "slug": "hugo-novoa",
+      "nombreNorm": "hugo novoa",
+      "equipo": "alaves",
+      "probabilidad": 220,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "mariano diaz": {
+      "slug": "mariano-diaz",
+      "nombreNorm": "mariano diaz",
+      "equipo": "alaves",
+      "probabilidad": 10,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jesus owono": {
+      "slug": "jesus-owono",
+      "nombreNorm": "jesus owono",
+      "equipo": "alaves",
+      "probabilidad": 865,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "selu diallo": {
+      "slug": "selu-diallo",
+      "nombreNorm": "selu diallo",
+      "equipo": "alaves",
+      "probabilidad": 870,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "aitor manas": {
+      "slug": "aitor-manas",
+      "nombreNorm": "aitor manas",
+      "equipo": "alaves",
+      "probabilidad": 850,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "nikola maras": {
+      "slug": "nikola-maras",
+      "nombreNorm": "nikola maras",
+      "equipo": "alaves",
+      "probabilidad": 890,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "gustavo albarracin": {
+      "slug": "gustavo-albarracin",
+      "nombreNorm": "gustavo albarracin",
+      "equipo": "alaves",
+      "probabilidad": 780,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "adrian rodriguez": {
+      "slug": "adrian-rodriguez",
+      "nombreNorm": "adrian rodriguez",
+      "equipo": "alaves",
+      "probabilidad": 950,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "facundo garces": {
+      "slug": "facundo-garces",
+      "nombreNorm": "facundo garces",
+      "equipo": "alaves",
+      "probabilidad": 910,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "adrian liso": {
+      "slug": "adrian-liso",
+      "nombreNorm": "adrian liso",
+      "equipo": "sevilla",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": false,
+      "duda": true,
+      "sancionado": false
+    },
+    "tomas mendes": {
+      "slug": "tomas-mendes",
+      "nombreNorm": "tomas mendes",
+      "equipo": "alaves",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "unai simon": {
+      "slug": "unai-simon",
+      "nombreNorm": "unai simon",
+      "equipo": "athletic",
+      "probabilidad": 90,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "dani vivian": {
+      "slug": "dani-vivian",
+      "nombreNorm": "dani vivian",
+      "equipo": "athletic",
+      "probabilidad": 460,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "yeray alvarez": {
+      "slug": "yeray-alvarez",
+      "nombreNorm": "yeray alvarez",
+      "equipo": "athletic",
+      "probabilidad": 460,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "aymeric laporte": {
+      "slug": "aymeric-laporte",
+      "nombreNorm": "aymeric laporte",
+      "equipo": "athletic",
+      "probabilidad": 180,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "yuri berchiche": {
+      "slug": "yuri-berchiche",
+      "nombreNorm": "yuri berchiche",
+      "equipo": "athletic",
+      "probabilidad": 160,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "adama boiro": {
+      "slug": "adama-boiro",
+      "nombreNorm": "adama boiro",
+      "equipo": "athletic",
+      "probabilidad": 160,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "inigo ruiz de galarreta": {
+      "slug": "inigo-ruiz-de-galarreta",
+      "nombreNorm": "inigo ruiz de galarreta",
+      "equipo": "athletic",
+      "probabilidad": 570,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "mikel jauregizar": {
+      "slug": "mikel-jauregizar",
+      "nombreNorm": "mikel jauregizar",
+      "equipo": "athletic",
+      "probabilidad": 780,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "oihan sancet": {
+      "slug": "oihan-sancet",
+      "nombreNorm": "oihan sancet",
+      "equipo": "athletic",
+      "probabilidad": 870,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "nico williams": {
+      "slug": "nico-williams",
+      "nombreNorm": "nico williams",
+      "equipo": "athletic",
+      "probabilidad": 170,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "gorka guruzeta": {
+      "slug": "gorka-guruzeta",
+      "nombreNorm": "gorka guruzeta",
+      "equipo": "athletic",
+      "probabilidad": 870,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "inaki williams": {
+      "slug": "inaki-williams",
+      "nombreNorm": "inaki williams",
+      "equipo": "athletic",
+      "probabilidad": 660,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "robert navarro": {
+      "slug": "robert-navarro",
+      "nombreNorm": "robert navarro",
+      "equipo": "athletic",
+      "probabilidad": 660,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "andoni gorosabel": {
+      "slug": "andoni-gorosabel",
+      "nombreNorm": "andoni gorosabel",
+      "equipo": "athletic",
+      "probabilidad": 450,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "hugo rincon": {
+      "slug": "hugo-rincon",
+      "nombreNorm": "hugo rincon",
+      "equipo": "girona",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jesus areso": {
+      "slug": "jesus-areso",
+      "nombreNorm": "jesus areso",
+      "equipo": "athletic",
+      "probabilidad": 450,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "selton sanchez": {
+      "slug": "selton-sanchez",
+      "nombreNorm": "selton sanchez",
+      "equipo": "athletic",
+      "probabilidad": 530,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "benat prados": {
+      "slug": "benat-prados",
+      "nombreNorm": "benat prados",
+      "equipo": "athletic",
+      "probabilidad": 30,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alex berenguer": {
+      "slug": "alex-berenguer",
+      "nombreNorm": "alex berenguer",
+      "equipo": "athletic",
+      "probabilidad": 530,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alejandro rego": {
+      "slug": "alejandro-rego",
+      "nombreNorm": "alejandro rego",
+      "equipo": "athletic",
+      "probabilidad": 220,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "aitor paredes": {
+      "slug": "aitor-paredes",
+      "nombreNorm": "aitor paredes",
+      "equipo": "athletic",
+      "probabilidad": 520,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "peio canales": {
+      "slug": "peio-canales",
+      "nombreNorm": "peio canales",
+      "equipo": "athletic",
+      "probabilidad": 510,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "nico serrano": {
+      "slug": "nico-serrano",
+      "nombreNorm": "nico serrano",
+      "equipo": "athletic",
+      "probabilidad": 610,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "lvaro djalo": {
+      "slug": "lvaro-djalo",
+      "nombreNorm": "lvaro djalo",
+      "equipo": "athletic",
+      "probabilidad": 510,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alex padilla": {
+      "slug": "alex-padilla",
+      "nombreNorm": "alex padilla",
+      "equipo": "athletic",
+      "probabilidad": 10,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "benat gerenabarrena": {
+      "slug": "benat-gerenabarrena",
+      "nombreNorm": "benat gerenabarrena",
+      "equipo": "athletic",
+      "probabilidad": 730,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "unai vencedor": {
+      "slug": "unai-vencedor",
+      "nombreNorm": "unai vencedor",
+      "equipo": "mallorca",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": true,
+      "sancionado": false
+    },
+    "mikel vesga": {
+      "slug": "mikel-vesga",
+      "nombreNorm": "mikel vesga",
+      "equipo": "mallorca",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": true,
+      "sancionado": false
+    },
+    "maroan sannadi": {
+      "slug": "maroan-sannadi",
+      "nombreNorm": "maroan sannadi",
+      "equipo": "athletic",
+      "probabilidad": 920,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "julen agirrezabala": {
+      "slug": "julen-agirrezabala",
+      "nombreNorm": "julen agirrezabala",
+      "equipo": "athletic",
+      "probabilidad": 870,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "unai egiluz": {
+      "slug": "unai-egiluz",
+      "nombreNorm": "unai egiluz",
+      "equipo": "athletic",
+      "probabilidad": 860,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jan oblak": {
+      "slug": "jan-oblak",
+      "nombreNorm": "jan oblak",
+      "equipo": "atletico",
+      "probabilidad": 890,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "julian lvarez": {
+      "slug": "julian-lvarez",
+      "nombreNorm": "julian lvarez",
+      "equipo": "barcelona",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": true,
+      "sancionado": false
+    },
+    "lex baena": {
+      "slug": "lex-baena",
+      "nombreNorm": "lex baena",
+      "equipo": "atletico",
+      "probabilidad": 50,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alexander sorloth": {
+      "slug": "alexander-sorloth",
+      "nombreNorm": "alexander sorloth",
+      "equipo": "atletico",
+      "probabilidad": 570,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ademola lookman": {
+      "slug": "ademola-lookman",
+      "nombreNorm": "ademola lookman",
+      "equipo": "atletico",
+      "probabilidad": 470,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "giuliano simeone": {
+      "slug": "giuliano-simeone",
+      "nombreNorm": "giuliano simeone",
+      "equipo": "atletico",
+      "probabilidad": 470,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "pablo barrios": {
+      "slug": "pablo-barrios",
+      "nombreNorm": "pablo barrios",
+      "equipo": "atletico",
+      "probabilidad": 180,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "morten hjulmand": {
+      "slug": "morten-hjulmand",
+      "nombreNorm": "morten hjulmand",
+      "equipo": "atletico",
+      "probabilidad": 560,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "koke resurreccion": {
+      "slug": "koke-resurreccion",
+      "nombreNorm": "koke resurreccion",
+      "equipo": "atletico",
+      "probabilidad": 560,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "matteo ruggeri": {
+      "slug": "matteo-ruggeri",
+      "nombreNorm": "matteo ruggeri",
+      "equipo": "atletico",
+      "probabilidad": 750,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alex grimaldo": {
+      "slug": "alex-grimaldo",
+      "nombreNorm": "alex grimaldo",
+      "equipo": "atletico",
+      "probabilidad": 750,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "david hancko": {
+      "slug": "david-hancko",
+      "nombreNorm": "david hancko",
+      "equipo": "atletico",
+      "probabilidad": 870,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "marc pubill": {
+      "slug": "marc-pubill",
+      "nombreNorm": "marc pubill",
+      "equipo": "atletico",
+      "probabilidad": 190,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "marcos llorente": {
+      "slug": "marcos-llorente",
+      "nombreNorm": "marcos llorente",
+      "equipo": "atletico",
+      "probabilidad": 370,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "nahuel molina": {
+      "slug": "nahuel-molina",
+      "nombreNorm": "nahuel molina",
+      "equipo": "atletico",
+      "probabilidad": 940,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "johnny cardoso": {
+      "slug": "johnny-cardoso",
+      "nombreNorm": "johnny cardoso",
+      "equipo": "atletico",
+      "probabilidad": 630,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "robin le normand": {
+      "slug": "robin-le-normand",
+      "nombreNorm": "robin le normand",
+      "equipo": "atletico",
+      "probabilidad": 730,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "obed vargas": {
+      "slug": "obed-vargas",
+      "nombreNorm": "obed vargas",
+      "equipo": "atletico",
+      "probabilidad": 530,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "rodrigo mendoza": {
+      "slug": "rodrigo-mendoza",
+      "nombreNorm": "rodrigo mendoza",
+      "equipo": "atletico",
+      "probabilidad": 220,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "lee kang in": {
+      "slug": "lee-kang-in",
+      "nombreNorm": "lee kang in",
+      "equipo": "atletico",
+      "probabilidad": 420,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "thomas lemar": {
+      "slug": "thomas-lemar",
+      "nombreNorm": "thomas lemar",
+      "equipo": "girona",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jose maria gimenez": {
+      "slug": "jose-maria-gimenez",
+      "nombreNorm": "jose maria gimenez",
+      "equipo": "atletico",
+      "probabilidad": 610,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "juan musso": {
+      "slug": "juan-musso",
+      "nombreNorm": "juan musso",
+      "equipo": "atletico",
+      "probabilidad": 310,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "thiago almada": {
+      "slug": "thiago-almada",
+      "nombreNorm": "thiago almada",
+      "equipo": "atletico",
+      "probabilidad": 710,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "carlos martin": {
+      "slug": "carlos-martin",
+      "nombreNorm": "carlos martin",
+      "equipo": "atletico",
+      "probabilidad": 840,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ferran torres": {
+      "slug": "ferran-torres",
+      "nombreNorm": "ferran torres",
+      "equipo": "barcelona",
+      "probabilidad": 380,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "julio diaz": {
+      "slug": "julio-diaz",
+      "nombreNorm": "julio diaz",
+      "equipo": "sevilla",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": false,
+      "duda": true,
+      "sancionado": false
+    },
+    "hector fort": {
+      "slug": "hector-fort",
+      "nombreNorm": "hector fort",
+      "equipo": "barcelona",
+      "probabilidad": 0,
+      "estado": "Clave",
+      "lesionado": true,
+      "duda": true,
+      "sancionado": true
+    },
+    "pedri gonzalez": {
+      "slug": "pedri-gonzalez",
+      "nombreNorm": "pedri gonzalez",
+      "equipo": "barcelona",
+      "probabilidad": 490,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "joan garcia": {
+      "slug": "joan-garcia",
+      "nombreNorm": "joan garcia",
+      "equipo": "barcelona",
+      "probabilidad": 490,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "lamine yamal": {
+      "slug": "lamine-yamal",
+      "nombreNorm": "lamine yamal",
+      "equipo": "barcelona",
+      "probabilidad": 390,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "anthony gordon": {
+      "slug": "anthony-gordon",
+      "nombreNorm": "anthony gordon",
+      "equipo": "barcelona",
+      "probabilidad": 360,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "raphinha": {
+      "slug": "raphinha",
+      "nombreNorm": "raphinha",
+      "equipo": "barcelona",
+      "probabilidad": 360,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "dani olmo": {
+      "slug": "dani-olmo",
+      "nombreNorm": "dani olmo",
+      "equipo": "barcelona",
+      "probabilidad": 960,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "fermin lopez": {
+      "slug": "fermin-lopez",
+      "nombreNorm": "fermin lopez",
+      "equipo": "barcelona",
+      "probabilidad": 960,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "eric garcia": {
+      "slug": "eric-garcia",
+      "nombreNorm": "eric garcia",
+      "equipo": "barcelona",
+      "probabilidad": 360,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "pablo gavi": {
+      "slug": "pablo-gavi",
+      "nombreNorm": "pablo gavi",
+      "equipo": "barcelona",
+      "probabilidad": 360,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "marc bernal": {
+      "slug": "marc-bernal",
+      "nombreNorm": "marc bernal",
+      "equipo": "barcelona",
+      "probabilidad": 360,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alejandro balde": {
+      "slug": "alejandro-balde",
+      "nombreNorm": "alejandro balde",
+      "equipo": "barcelona",
+      "probabilidad": 770,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "gerard martin": {
+      "slug": "gerard-martin",
+      "nombreNorm": "gerard martin",
+      "equipo": "barcelona",
+      "probabilidad": 690,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "pau cubarsi": {
+      "slug": "pau-cubarsi",
+      "nombreNorm": "pau cubarsi",
+      "equipo": "barcelona",
+      "probabilidad": 480,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jules kounde": {
+      "slug": "jules-kounde",
+      "nombreNorm": "jules kounde",
+      "equipo": "barcelona",
+      "probabilidad": 160,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "karim adeyemi": {
+      "slug": "karim-adeyemi",
+      "nombreNorm": "karim adeyemi",
+      "equipo": "barcelona",
+      "probabilidad": 30,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "xavi espart": {
+      "slug": "xavi-espart",
+      "nombreNorm": "xavi espart",
+      "equipo": "barcelona",
+      "probabilidad": 520,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ronald araujo": {
+      "slug": "ronald-araujo",
+      "nombreNorm": "ronald araujo",
+      "equipo": "barcelona",
+      "probabilidad": 220,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "marc casado": {
+      "slug": "marc-casado",
+      "nombreNorm": "marc casado",
+      "equipo": "barcelona",
+      "probabilidad": 210,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "andreas christensen": {
+      "slug": "andreas-christensen",
+      "nombreNorm": "andreas christensen",
+      "equipo": "barcelona",
+      "probabilidad": 910,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "roony bardghji": {
+      "slug": "roony-bardghji",
+      "nombreNorm": "roony bardghji",
+      "equipo": "barcelona",
+      "probabilidad": 310,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "wojciech szczesny": {
+      "slug": "wojciech-szczesny",
+      "nombreNorm": "wojciech szczesny",
+      "equipo": "barcelona",
+      "probabilidad": 510,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "marc andre ter stegen": {
+      "slug": "marc-andre-ter-stegen",
+      "nombreNorm": "marc andre ter stegen",
+      "equipo": "girona",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "frenkie de jong": {
+      "slug": "frenkie-de-jong",
+      "nombreNorm": "frenkie de jong",
+      "equipo": "barcelona",
+      "probabilidad": 810,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "joao cancelo": {
+      "slug": "joao-cancelo",
+      "nombreNorm": "joao cancelo",
+      "equipo": "barcelona",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": true,
+      "sancionado": false
+    },
+    "jorge salinas": {
+      "slug": "jorge-salinas",
+      "nombreNorm": "jorge salinas",
+      "equipo": "barcelona",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": true,
+      "sancionado": false
+    },
+    "jofre torrents": {
+      "slug": "jofre-torrents",
+      "nombreNorm": "jofre torrents",
+      "equipo": "barcelona",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": true,
+      "sancionado": false
+    },
+    "diego javier llorente": {
+      "slug": "diego-javier-llorente",
+      "nombreNorm": "diego javier llorente",
+      "equipo": "betis",
+      "probabilidad": 0,
+      "estado": "Clave",
+      "lesionado": true,
+      "duda": true,
+      "sancionado": true
+    },
+    "fran garcia": {
+      "slug": "fran-garcia",
+      "nombreNorm": "fran garcia",
+      "equipo": "betis",
+      "probabilidad": 980,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alvaro valles": {
+      "slug": "alvaro-valles",
+      "nombreNorm": "alvaro valles",
+      "equipo": "betis",
+      "probabilidad": 170,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "abde ezzalzouli": {
+      "slug": "abde-ezzalzouli",
+      "nombreNorm": "abde ezzalzouli",
+      "equipo": "betis",
+      "probabilidad": 750,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "rodrigo riquelme": {
+      "slug": "rodrigo-riquelme",
+      "nombreNorm": "rodrigo riquelme",
+      "equipo": "betis",
+      "probabilidad": 750,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "antony": {
+      "slug": "antony",
+      "nombreNorm": "antony",
+      "equipo": "betis",
+      "probabilidad": 280,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "isco alarcon": {
+      "slug": "isco-alarcon",
+      "nombreNorm": "isco alarcon",
+      "equipo": "betis",
+      "probabilidad": 670,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "marc roca": {
+      "slug": "marc-roca",
+      "nombreNorm": "marc roca",
+      "equipo": "betis",
+      "probabilidad": 470,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "pablo fornals": {
+      "slug": "pablo-fornals",
+      "nombreNorm": "pablo fornals",
+      "equipo": "betis",
+      "probabilidad": 880,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "natan": {
+      "slug": "natan",
+      "nombreNorm": "natan",
+      "equipo": "betis",
+      "probabilidad": 880,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "hector bellerin": {
+      "slug": "hector-bellerin",
+      "nombreNorm": "hector bellerin",
+      "equipo": "betis",
+      "probabilidad": 870,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "cucho hernandez": {
+      "slug": "cucho-hernandez",
+      "nombreNorm": "cucho hernandez",
+      "equipo": "betis",
+      "probabilidad": 680,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "facundo bernal": {
+      "slug": "facundo-bernal",
+      "nombreNorm": "facundo bernal",
+      "equipo": "betis",
+      "probabilidad": 730,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "giovani lo celso": {
+      "slug": "giovani-lo-celso",
+      "nombreNorm": "giovani lo celso",
+      "equipo": "betis",
+      "probabilidad": 730,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "lvaro fidalgo": {
+      "slug": "lvaro-fidalgo",
+      "nombreNorm": "lvaro fidalgo",
+      "equipo": "betis",
+      "probabilidad": 530,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ngel ortiz": {
+      "slug": "ngel-ortiz",
+      "nombreNorm": "ngel ortiz",
+      "equipo": "betis",
+      "probabilidad": 730,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "marc bartra": {
+      "slug": "marc-bartra",
+      "nombreNorm": "marc bartra",
+      "equipo": "betis",
+      "probabilidad": 430,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "diego conde": {
+      "slug": "diego-conde",
+      "nombreNorm": "diego conde",
+      "equipo": "betis",
+      "probabilidad": 830,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "pablo garcia 1": {
+      "slug": "pablo-garcia-1",
+      "nombreNorm": "pablo garcia 1",
+      "equipo": "betis",
+      "probabilidad": 520,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "junior firpo": {
+      "slug": "junior-firpo",
+      "nombreNorm": "junior firpo",
+      "equipo": "betis",
+      "probabilidad": 420,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "valentin gomez": {
+      "slug": "valentin-gomez",
+      "nombreNorm": "valentin gomez",
+      "equipo": "betis",
+      "probabilidad": 120,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jose antonio morante": {
+      "slug": "jose-antonio-morante",
+      "nombreNorm": "jose antonio morante",
+      "equipo": "betis",
+      "probabilidad": 10,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "nelson deossa": {
+      "slug": "nelson-deossa",
+      "nombreNorm": "nelson deossa",
+      "equipo": "betis",
+      "probabilidad": 510,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "gonzalo petit": {
+      "slug": "gonzalo-petit",
+      "nombreNorm": "gonzalo petit",
+      "equipo": "betis",
+      "probabilidad": 110,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "iker losada": {
+      "slug": "iker-losada",
+      "nombreNorm": "iker losada",
+      "equipo": "betis",
+      "probabilidad": 750,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "manu gonzalez": {
+      "slug": "manu-gonzalez",
+      "nombreNorm": "manu gonzalez",
+      "equipo": "betis",
+      "probabilidad": 0,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "aitor ruibal": {
+      "slug": "aitor-ruibal",
+      "nombreNorm": "aitor ruibal",
+      "equipo": "betis",
+      "probabilidad": 760,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "morten frendrup": {
+      "slug": "morten-frendrup",
+      "nombreNorm": "morten frendrup",
+      "equipo": "betis",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": true,
+      "sancionado": false
+    },
+    "dani ceballos": {
+      "slug": "dani-ceballos",
+      "nombreNorm": "dani ceballos",
+      "equipo": "betis",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": true,
+      "sancionado": false
+    },
+    "javi galan": {
+      "slug": "javi-galan",
+      "nombreNorm": "javi galan",
+      "equipo": "celta",
+      "probabilidad": 0,
+      "estado": "Clave",
+      "lesionado": true,
+      "duda": true,
+      "sancionado": true
+    },
+    "andrei radu": {
+      "slug": "andrei-radu",
+      "nombreNorm": "andrei radu",
+      "equipo": "celta",
+      "probabilidad": 895,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ferran jutgla": {
+      "slug": "ferran-jutgla",
+      "nombreNorm": "ferran jutgla",
+      "equipo": "celta",
+      "probabilidad": 580,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "iago aspas": {
+      "slug": "iago-aspas",
+      "nombreNorm": "iago aspas",
+      "equipo": "celta",
+      "probabilidad": 650,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "hugo lvarez": {
+      "slug": "hugo-lvarez-",
+      "nombreNorm": "hugo lvarez",
+      "equipo": "celta",
+      "probabilidad": 650,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "williot swedberg": {
+      "slug": "williot-swedberg",
+      "nombreNorm": "williot swedberg",
+      "equipo": "celta",
+      "probabilidad": 750,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "miguel roman": {
+      "slug": "miguel-roman",
+      "nombreNorm": "miguel roman",
+      "equipo": "celta",
+      "probabilidad": 860,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "aleix febas": {
+      "slug": "aleix-febas",
+      "nombreNorm": "aleix febas",
+      "equipo": "celta",
+      "probabilidad": 860,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ilaix moriba": {
+      "slug": "ilaix-moriba",
+      "nombreNorm": "ilaix moriba",
+      "equipo": "celta",
+      "probabilidad": 580,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "sergio carreira": {
+      "slug": "sergio-carreira",
+      "nombreNorm": "sergio carreira",
+      "equipo": "celta",
+      "probabilidad": 260,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "carl starfelt": {
+      "slug": "carl-starfelt",
+      "nombreNorm": "carl starfelt",
+      "equipo": "celta",
+      "probabilidad": 570,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "marcos alonso": {
+      "slug": "marcos-alonso",
+      "nombreNorm": "marcos alonso",
+      "equipo": "celta",
+      "probabilidad": 890,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "javi rueda": {
+      "slug": "javi-rueda",
+      "nombreNorm": "javi rueda",
+      "equipo": "celta",
+      "probabilidad": 60,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "javi rodriguez": {
+      "slug": "javi-rodriguez",
+      "nombreNorm": "javi rodriguez",
+      "equipo": "celta",
+      "probabilidad": 380,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "matias vecino": {
+      "slug": "matias-vecino",
+      "nombreNorm": "matias vecino",
+      "equipo": "celta",
+      "probabilidad": 730,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "yoel lago": {
+      "slug": "yoel-lago",
+      "nombreNorm": "yoel lago",
+      "equipo": "celta",
+      "probabilidad": 530,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "lvaro nunez": {
+      "slug": "lvaro-nunez",
+      "nombreNorm": "lvaro nunez",
+      "equipo": "celta",
+      "probabilidad": 730,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "pablo duran": {
+      "slug": "pablo-duran",
+      "nombreNorm": "pablo duran",
+      "equipo": "celta",
+      "probabilidad": 630,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "carlos dominguez": {
+      "slug": "carlos-dominguez",
+      "nombreNorm": "carlos dominguez",
+      "equipo": "celta",
+      "probabilidad": 720,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jones el abdellaoui": {
+      "slug": "jones-el-abdellaoui",
+      "nombreNorm": "jones el abdellaoui",
+      "equipo": "celta",
+      "probabilidad": 410,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "manu fernandez 1": {
+      "slug": "manu-fernandez-1",
+      "nombreNorm": "manu fernandez 1",
+      "equipo": "celta",
+      "probabilidad": 510,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "borja iglesias": {
+      "slug": "borja-iglesias",
+      "nombreNorm": "borja iglesias",
+      "equipo": "celta",
+      "probabilidad": 710,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ivan villar": {
+      "slug": "ivan-villar",
+      "nombreNorm": "ivan villar",
+      "equipo": "celta",
+      "probabilidad": 835,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "carles perez": {
+      "slug": "carles-perez",
+      "nombreNorm": "carles perez",
+      "equipo": "celta",
+      "probabilidad": 730,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "damian rodriguez": {
+      "slug": "damian-rodriguez",
+      "nombreNorm": "damian rodriguez",
+      "equipo": "celta",
+      "probabilidad": 800,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "unai nunez": {
+      "slug": "unai-nunez",
+      "nombreNorm": "unai nunez",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": false,
+      "sancionado": true
+    },
+    "fer lopez": {
+      "slug": "fer-lopez",
+      "nombreNorm": "fer lopez",
+      "equipo": "celta",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": false,
+      "duda": true,
+      "sancionado": false
+    },
+    "david affengruber": {
+      "slug": "david-affengruber",
+      "nombreNorm": "david affengruber",
+      "equipo": "elche",
+      "probabilidad": 590,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "lucas cepeda": {
+      "slug": "lucas-cepeda",
+      "nombreNorm": "lucas cepeda",
+      "equipo": "elche",
+      "probabilidad": 760,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "abiel osorio": {
+      "slug": "abiel-osorio",
+      "nombreNorm": "abiel osorio",
+      "equipo": "elche",
+      "probabilidad": 760,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "tete morente": {
+      "slug": "tete-morente",
+      "nombreNorm": "tete morente",
+      "equipo": "elche",
+      "probabilidad": 760,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "buba sangare": {
+      "slug": "buba-sangare",
+      "nombreNorm": "buba sangare",
+      "equipo": "elche",
+      "probabilidad": 350,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "victor chust": {
+      "slug": "victor-chust",
+      "nombreNorm": "victor chust",
+      "equipo": "elche",
+      "probabilidad": 480,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "pedro bigas": {
+      "slug": "pedro-bigas",
+      "nombreNorm": "pedro bigas",
+      "equipo": "elche",
+      "probabilidad": 180,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "german valera": {
+      "slug": "german-valera",
+      "nombreNorm": "german valera",
+      "equipo": "elche",
+      "probabilidad": 90,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "gonzalo villar": {
+      "slug": "gonzalo-villar",
+      "nombreNorm": "gonzalo villar",
+      "equipo": "elche",
+      "probabilidad": 180,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "marc aguado": {
+      "slug": "marc-aguado",
+      "nombreNorm": "marc aguado",
+      "equipo": "elche",
+      "probabilidad": 270,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "grady diangana": {
+      "slug": "grady-diangana",
+      "nombreNorm": "grady diangana",
+      "equipo": "elche",
+      "probabilidad": 70,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "matias dituro": {
+      "slug": "matias-dituro",
+      "nombreNorm": "matias dituro",
+      "equipo": "elche",
+      "probabilidad": 190,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "martim neto": {
+      "slug": "martim-neto",
+      "nombreNorm": "martim neto",
+      "equipo": "elche",
+      "probabilidad": 570,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "adam boayar": {
+      "slug": "adam-boayar",
+      "nombreNorm": "adam boayar",
+      "equipo": "elche",
+      "probabilidad": 40,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "john nwankwo": {
+      "slug": "john-nwankwo",
+      "nombreNorm": "john nwankwo",
+      "equipo": "elche",
+      "probabilidad": 240,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "federico redondo": {
+      "slug": "federico-redondo",
+      "nombreNorm": "federico redondo",
+      "equipo": "elche",
+      "probabilidad": 830,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ali houary": {
+      "slug": "-ali-houary",
+      "nombreNorm": "ali houary",
+      "equipo": "elche",
+      "probabilidad": 820,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "rafa nunez": {
+      "slug": "rafa-nunez",
+      "nombreNorm": "rafa nunez",
+      "equipo": "elche",
+      "probabilidad": 820,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "yago santiago": {
+      "slug": "yago-santiago",
+      "nombreNorm": "yago santiago",
+      "equipo": "elche",
+      "probabilidad": 20,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alejandro iturbe": {
+      "slug": "alejandro-iturbe",
+      "nombreNorm": "alejandro iturbe",
+      "equipo": "elche",
+      "probabilidad": 610,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "bambo diaby": {
+      "slug": "bambo-diaby",
+      "nombreNorm": "bambo diaby",
+      "equipo": "elche",
+      "probabilidad": 880,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "matia barzic": {
+      "slug": "matia-barzic",
+      "nombreNorm": "matia barzic",
+      "equipo": "elche",
+      "probabilidad": 900,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "deiver machado": {
+      "slug": "deiver-machado",
+      "nombreNorm": "deiver machado",
+      "equipo": "elche",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": false,
+      "duda": true,
+      "sancionado": false
+    },
+    "owen bosch": {
+      "slug": "-owen-bosch",
+      "nombreNorm": "owen bosch",
+      "equipo": "elche",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": false,
+      "duda": true,
+      "sancionado": false
+    },
+    "josan": {
+      "slug": "josan",
+      "nombreNorm": "josan",
+      "equipo": "elche",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "leandro cabrera": {
+      "slug": "leandro-cabrera",
+      "nombreNorm": "leandro cabrera",
+      "equipo": "espanyol",
+      "probabilidad": 95,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "kike garcia": {
+      "slug": "kike-garcia",
+      "nombreNorm": "kike garcia",
+      "equipo": "espanyol",
+      "probabilidad": 650,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "roberto fernandez 1": {
+      "slug": "roberto-fernandez-1",
+      "nombreNorm": "roberto fernandez 1",
+      "equipo": "espanyol",
+      "probabilidad": 650,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "tyrhys dolan": {
+      "slug": "tyrhys-dolan",
+      "nombreNorm": "tyrhys dolan",
+      "equipo": "espanyol",
+      "probabilidad": 60,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "pere milla": {
+      "slug": "pere-milla",
+      "nombreNorm": "pere milla",
+      "equipo": "espanyol",
+      "probabilidad": 60,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "marko dmitrovic": {
+      "slug": "marko-dmitrovic",
+      "nombreNorm": "marko dmitrovic",
+      "equipo": "espanyol",
+      "probabilidad": 995,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "edu exposito": {
+      "slug": "edu-exposito",
+      "nombreNorm": "edu exposito",
+      "equipo": "espanyol",
+      "probabilidad": 890,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "gabriel moscardo": {
+      "slug": "gabriel-moscardo",
+      "nombreNorm": "gabriel moscardo",
+      "equipo": "espanyol",
+      "probabilidad": 550,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "pol lozano": {
+      "slug": "pol-lozano",
+      "nombreNorm": "pol lozano",
+      "equipo": "espanyol",
+      "probabilidad": 550,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "urko gonzalez de zarate": {
+      "slug": "urko-gonzalez-de-zarate",
+      "nombreNorm": "urko gonzalez de zarate",
+      "equipo": "espanyol",
+      "probabilidad": 980,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "quilindschy hartman": {
+      "slug": "quilindschy-hartman",
+      "nombreNorm": "quilindschy hartman",
+      "equipo": "espanyol",
+      "probabilidad": 370,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "clemens riedel": {
+      "slug": "clemens-riedel",
+      "nombreNorm": "clemens riedel",
+      "equipo": "espanyol",
+      "probabilidad": 680,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "omar el hilali": {
+      "slug": "omar-el-hilali",
+      "nombreNorm": "omar el hilali",
+      "equipo": "espanyol",
+      "probabilidad": 380,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "lex calatrava": {
+      "slug": "lex-calatrava",
+      "nombreNorm": "lex calatrava",
+      "equipo": "espanyol",
+      "probabilidad": 570,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jofre carreras": {
+      "slug": "jofre-carreras",
+      "nombreNorm": "jofre carreras",
+      "equipo": "espanyol",
+      "probabilidad": 530,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jose salinas": {
+      "slug": "jose-salinas",
+      "nombreNorm": "jose salinas",
+      "equipo": "espanyol",
+      "probabilidad": 830,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "pablo ramon": {
+      "slug": "pablo-ramon",
+      "nombreNorm": "pablo ramon",
+      "equipo": "espanyol",
+      "probabilidad": 420,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ruben sanchez 1": {
+      "slug": "ruben-sanchez-1",
+      "nombreNorm": "ruben sanchez 1",
+      "equipo": "espanyol",
+      "probabilidad": 520,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "javier hernandez": {
+      "slug": "javier-hernandez",
+      "nombreNorm": "javier hernandez",
+      "equipo": "espanyol",
+      "probabilidad": 510,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "miguel ngel rubio": {
+      "slug": "miguel-ngel-rubio",
+      "nombreNorm": "miguel ngel rubio",
+      "equipo": "real-oviedo",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": false,
+      "duda": true,
+      "sancionado": false
+    },
+    "ngel fortuno": {
+      "slug": "ngel-fortuno",
+      "nombreNorm": "ngel fortuno",
+      "equipo": "espanyol",
+      "probabilidad": 835,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "marcos fernandez 1": {
+      "slug": "marcos-fernandez-1",
+      "nombreNorm": "marcos fernandez 1",
+      "equipo": "espanyol",
+      "probabilidad": 760,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "rafel bauza": {
+      "slug": "rafel-bauza",
+      "nombreNorm": "rafel bauza",
+      "equipo": "espanyol",
+      "probabilidad": 830,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "roger hinojo": {
+      "slug": "roger-hinojo",
+      "nombreNorm": "roger hinojo",
+      "equipo": "espanyol",
+      "probabilidad": 800,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "javi puado": {
+      "slug": "javi-puado",
+      "nombreNorm": "javi puado",
+      "equipo": "espanyol",
+      "probabilidad": 770,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "bryan zaragoza": {
+      "slug": "bryan-zaragoza",
+      "nombreNorm": "bryan zaragoza",
+      "equipo": "espanyol",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": false,
+      "sancionado": false
+    },
+    "ferran gomez": {
+      "slug": "ferran-gomez",
+      "nombreNorm": "ferran gomez",
+      "equipo": "espanyol",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": false,
+      "sancionado": false
+    },
+    "kiko femenia": {
+      "slug": "kiko-femenia",
+      "nombreNorm": "kiko femenia",
+      "equipo": "getafe",
+      "probabilidad": 0,
+      "estado": "Clave",
+      "lesionado": true,
+      "duda": true,
+      "sancionado": true
+    },
+    "javi munoz": {
+      "slug": "javi-munoz",
+      "nombreNorm": "javi munoz",
+      "equipo": "getafe",
+      "probabilidad": 0,
+      "estado": "Clave",
+      "lesionado": true,
+      "duda": true,
+      "sancionado": true
+    },
+    "abdel abqar": {
+      "slug": "abdel-abqar",
+      "nombreNorm": "abdel abqar",
+      "equipo": "getafe",
+      "probabilidad": 0,
+      "estado": "Clave",
+      "lesionado": true,
+      "duda": true,
+      "sancionado": true
+    },
+    "mario martin": {
+      "slug": "mario-martin",
+      "nombreNorm": "mario martin",
+      "equipo": "getafe",
+      "probabilidad": 780,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "andres garcia": {
+      "slug": "andres-garcia",
+      "nombreNorm": "andres garcia",
+      "equipo": "getafe",
+      "probabilidad": 460,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "zaid romero": {
+      "slug": "zaid-romero",
+      "nombreNorm": "zaid romero",
+      "equipo": "getafe",
+      "probabilidad": 290,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "sebastian boselli": {
+      "slug": "sebastian-boselli",
+      "nombreNorm": "sebastian boselli",
+      "equipo": "getafe",
+      "probabilidad": 370,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "davinchi": {
+      "slug": "davinchi",
+      "nombreNorm": "davinchi",
+      "equipo": "getafe",
+      "probabilidad": 280,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "dakonam djene": {
+      "slug": "dakonam-djene",
+      "nombreNorm": "dakonam djene",
+      "equipo": "getafe",
+      "probabilidad": 890,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "terrats": {
+      "slug": "terrats",
+      "nombreNorm": "terrats",
+      "equipo": "getafe",
+      "probabilidad": 170,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "david soria": {
+      "slug": "david-soria",
+      "nombreNorm": "david soria",
+      "equipo": "getafe",
+      "probabilidad": 295,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "chrisantus uche": {
+      "slug": "chrisantus-uche",
+      "nombreNorm": "chrisantus uche",
+      "equipo": "getafe",
+      "probabilidad": 70,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "martin satriano": {
+      "slug": "martin-satriano",
+      "nombreNorm": "martin satriano",
+      "equipo": "getafe",
+      "probabilidad": 790,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "borja mayoral": {
+      "slug": "borja-mayoral",
+      "nombreNorm": "borja mayoral",
+      "equipo": "getafe",
+      "probabilidad": 230,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "juan berrocal": {
+      "slug": "juan-berrocal",
+      "nombreNorm": "juan berrocal",
+      "equipo": "getafe",
+      "probabilidad": 730,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ismael bekhoucha": {
+      "slug": "ismael-bekhoucha",
+      "nombreNorm": "ismael bekhoucha",
+      "equipo": "getafe",
+      "probabilidad": 630,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jean ives valou": {
+      "slug": "jean-ives-valou",
+      "nombreNorm": "jean ives valou",
+      "equipo": "getafe",
+      "probabilidad": 830,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "lex sancris": {
+      "slug": "lex-sancris",
+      "nombreNorm": "lex sancris",
+      "equipo": "getafe",
+      "probabilidad": 120,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "yvan neyou": {
+      "slug": "yvan-neyou",
+      "nombreNorm": "yvan neyou",
+      "equipo": "getafe",
+      "probabilidad": 10,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jiri letacek": {
+      "slug": "jiri-letacek",
+      "nombreNorm": "jiri letacek",
+      "equipo": "getafe",
+      "probabilidad": 965,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "juanmi jimenez": {
+      "slug": "juanmi-jimenez",
+      "nombreNorm": "juanmi jimenez",
+      "equipo": "getafe",
+      "probabilidad": 720,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "giorgi kochorashvili 1": {
+      "slug": "giorgi-kochorashvili-1",
+      "nombreNorm": "giorgi kochorashvili 1",
+      "equipo": "getafe",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": false,
+      "sancionado": false
+    },
+    "arnau martinez": {
+      "slug": "arnau-martinez",
+      "nombreNorm": "arnau martinez",
+      "equipo": "girona",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ricard artero": {
+      "slug": "ricard-artero",
+      "nombreNorm": "ricard artero",
+      "equipo": "girona",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "cristian portu": {
+      "slug": "cristian-portu",
+      "nombreNorm": "cristian portu",
+      "equipo": "girona",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "vladyslav vanat": {
+      "slug": "vladyslav-vanat",
+      "nombreNorm": "vladyslav vanat",
+      "equipo": "girona",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "azzedine ounahi": {
+      "slug": "azzedine-ounahi",
+      "nombreNorm": "azzedine ounahi",
+      "equipo": "girona",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "axel witsel": {
+      "slug": "axel-witsel",
+      "nombreNorm": "axel witsel",
+      "equipo": "girona",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "donny van de beek": {
+      "slug": "donny-van-de-beek",
+      "nombreNorm": "donny van de beek",
+      "equipo": "girona",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "vitor reis": {
+      "slug": "vitor-reis",
+      "nombreNorm": "vitor reis",
+      "equipo": "girona",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "658 david lopez": {
+      "slug": "658-david-lopez",
+      "nombreNorm": "658 david lopez",
+      "equipo": "girona",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "abel ruiz": {
+      "slug": "abel-ruiz",
+      "nombreNorm": "abel ruiz",
+      "equipo": "girona",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "christian stuani": {
+      "slug": "christian-stuani",
+      "nombreNorm": "christian stuani",
+      "equipo": "girona",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "fran beltran": {
+      "slug": "fran-beltran",
+      "nombreNorm": "fran beltran",
+      "equipo": "girona",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ivan martin": {
+      "slug": "ivan-martin",
+      "nombreNorm": "ivan martin",
+      "equipo": "girona",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "claudio echeverri": {
+      "slug": "claudio-echeverri",
+      "nombreNorm": "claudio echeverri",
+      "equipo": "girona",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "bryan gil": {
+      "slug": "bryan-gil",
+      "nombreNorm": "bryan gil",
+      "equipo": "girona",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "joel roca": {
+      "slug": "joel-roca",
+      "nombreNorm": "joel roca",
+      "equipo": "girona",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alex moreno": {
+      "slug": "alex-moreno",
+      "nombreNorm": "alex moreno",
+      "equipo": "girona",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "daley blind": {
+      "slug": "daley-blind",
+      "nombreNorm": "daley blind",
+      "equipo": "girona",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "paulo gazzaniga": {
+      "slug": "paulo-gazzaniga",
+      "nombreNorm": "paulo gazzaniga",
+      "equipo": "girona",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ruben blanco": {
+      "slug": "ruben-blanco",
+      "nombreNorm": "ruben blanco",
+      "equipo": "girona",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "vladyslav krapyvtsov": {
+      "slug": "vladyslav-krapyvtsov",
+      "nombreNorm": "vladyslav krapyvtsov",
+      "equipo": "girona",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "juan carlos martin": {
+      "slug": "juan-carlos-martin",
+      "nombreNorm": "juan carlos martin",
+      "equipo": "girona",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "viktor tsygankov": {
+      "slug": "viktor-tsygankov",
+      "nombreNorm": "viktor tsygankov",
+      "equipo": "girona",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alejandro frances": {
+      "slug": "alejandro-frances",
+      "nombreNorm": "alejandro frances",
+      "equipo": "girona",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "aissa mandi": {
+      "slug": "aissa-mandi",
+      "nombreNorm": "aissa mandi",
+      "equipo": "levante",
+      "probabilidad": 480,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "carlos lvarez": {
+      "slug": "carlos-lvarez",
+      "nombreNorm": "carlos lvarez",
+      "equipo": "levante",
+      "probabilidad": 860,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "enzo bardelli": {
+      "slug": "enzo-bardelli",
+      "nombreNorm": "enzo bardelli",
+      "equipo": "levante",
+      "probabilidad": 860,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jeremy toljan": {
+      "slug": "jeremy-toljan",
+      "nombreNorm": "jeremy toljan",
+      "equipo": "levante",
+      "probabilidad": 280,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "adrian de la fuente": {
+      "slug": "adrian-de-la-fuente",
+      "nombreNorm": "adrian de la fuente",
+      "equipo": "levante",
+      "probabilidad": 990,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "manu sanchez": {
+      "slug": "manu-sanchez",
+      "nombreNorm": "manu sanchez",
+      "equipo": "levante",
+      "probabilidad": 180,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jon ander olasagasti": {
+      "slug": "jon-ander-olasagasti",
+      "nombreNorm": "jon ander olasagasti",
+      "equipo": "levante",
+      "probabilidad": 690,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "hugo sotelo": {
+      "slug": "hugo-sotelo",
+      "nombreNorm": "hugo sotelo",
+      "equipo": "levante",
+      "probabilidad": 50,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "kervin arriaga": {
+      "slug": "kervin-arriaga",
+      "nombreNorm": "kervin arriaga",
+      "equipo": "levante",
+      "probabilidad": 50,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "pablo campos": {
+      "slug": "pablo-campos",
+      "nombreNorm": "pablo campos",
+      "equipo": "levante",
+      "probabilidad": 890,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "kareem tunde": {
+      "slug": "kareem-tunde",
+      "nombreNorm": "kareem tunde",
+      "equipo": "levante",
+      "probabilidad": 770,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ivan romero": {
+      "slug": "ivan-romero",
+      "nombreNorm": "ivan romero",
+      "equipo": "levante",
+      "probabilidad": 380,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "carlos espi": {
+      "slug": "carlos-espi",
+      "nombreNorm": "carlos espi",
+      "equipo": "levante",
+      "probabilidad": 490,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "paco cortes": {
+      "slug": "paco-cortes",
+      "nombreNorm": "paco cortes",
+      "equipo": "levante",
+      "probabilidad": 840,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "victor garcia 1": {
+      "slug": "victor-garcia-1",
+      "nombreNorm": "victor garcia 1",
+      "equipo": "levante",
+      "probabilidad": 30,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "oriol rey": {
+      "slug": "oriol-rey",
+      "nombreNorm": "oriol rey",
+      "equipo": "levante",
+      "probabilidad": 730,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "unai elgezabal": {
+      "slug": "unai-elgezabal",
+      "nombreNorm": "unai elgezabal",
+      "equipo": "levante",
+      "probabilidad": 520,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "nacho perez 1": {
+      "slug": "nacho-perez-1",
+      "nombreNorm": "nacho perez 1",
+      "equipo": "levante",
+      "probabilidad": 620,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "etta eyong": {
+      "slug": "etta-eyong",
+      "nombreNorm": "etta eyong",
+      "equipo": "levante",
+      "probabilidad": 120,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "dani requena": {
+      "slug": "dani-requena",
+      "nombreNorm": "dani requena",
+      "equipo": "levante",
+      "probabilidad": 610,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jorge cabello": {
+      "slug": "jorge-cabello",
+      "nombreNorm": "jorge cabello",
+      "equipo": "levante",
+      "probabilidad": 310,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alejandro primo": {
+      "slug": "alejandro-primo",
+      "nombreNorm": "alejandro primo",
+      "equipo": "levante",
+      "probabilidad": 710,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "tai abed": {
+      "slug": "tai-abed",
+      "nombreNorm": "tai abed",
+      "equipo": "levante",
+      "probabilidad": 780,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "dani martin 1": {
+      "slug": "dani-martin-1",
+      "nombreNorm": "dani martin 1",
+      "equipo": "levante",
+      "probabilidad": 880,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "roger brugue": {
+      "slug": "roger-brugue",
+      "nombreNorm": "roger brugue",
+      "equipo": "levante",
+      "probabilidad": 740,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "pablo torre": {
+      "slug": "pablo-torre",
+      "nombreNorm": "pablo torre",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "takuma asano": {
+      "slug": "takuma-asano",
+      "nombreNorm": "takuma asano",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "javi llabres": {
+      "slug": "javi-llabres",
+      "nombreNorm": "javi llabres",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "vedat muriqi": {
+      "slug": "vedat-muriqi",
+      "nombreNorm": "vedat muriqi",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "abdon prats": {
+      "slug": "abdon-prats",
+      "nombreNorm": "abdon prats",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "sergi darder": {
+      "slug": "sergi-darder",
+      "nombreNorm": "sergi darder",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "omar mascarell": {
+      "slug": "omar-mascarell",
+      "nombreNorm": "omar mascarell",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jan salas": {
+      "slug": "jan-salas",
+      "nombreNorm": "jan salas",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "leo roman": {
+      "slug": "leo-roman",
+      "nombreNorm": "leo roman",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "lucas bergstrom": {
+      "slug": "lucas-bergstrom",
+      "nombreNorm": "lucas bergstrom",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ivan cuellar": {
+      "slug": "ivan-cuellar",
+      "nombreNorm": "ivan cuellar",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "pablo maffeo": {
+      "slug": "pablo-maffeo",
+      "nombreNorm": "pablo maffeo",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "mateu morey": {
+      "slug": "mateu-morey",
+      "nombreNorm": "mateu morey",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "manuel morlanes": {
+      "slug": "manuel-morlanes",
+      "nombreNorm": "manuel morlanes",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "zito luvumbo 1": {
+      "slug": "zito-luvumbo-1",
+      "nombreNorm": "zito luvumbo 1",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jan virgili": {
+      "slug": "jan-virgili",
+      "nombreNorm": "jan virgili",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "mateo joseph": {
+      "slug": "mateo-joseph",
+      "nombreNorm": "mateo joseph",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jastin kalumba": {
+      "slug": "jastin-kalumba",
+      "nombreNorm": "jastin kalumba",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "antonio raillo": {
+      "slug": "antonio-raillo",
+      "nombreNorm": "antonio raillo",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "david lopez 1": {
+      "slug": "david-lopez-1",
+      "nombreNorm": "david lopez 1",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "johan mojica": {
+      "slug": "johan-mojica",
+      "nombreNorm": "johan mojica",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "antonio lato": {
+      "slug": "antonio-lato",
+      "nombreNorm": "antonio lato",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "martin valjent": {
+      "slug": "martin-valjent",
+      "nombreNorm": "martin valjent",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "marash kumbulla": {
+      "slug": "marash-kumbulla",
+      "nombreNorm": "marash kumbulla",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": false,
+      "sancionado": true
+    },
+    "samu almeida": {
+      "slug": "samu-almeida",
+      "nombreNorm": "samu almeida",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "antonio sanchez": {
+      "slug": "antonio-sanchez",
+      "nombreNorm": "antonio sanchez",
+      "equipo": "mallorca",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "antoniu roca": {
+      "slug": "antoniu-roca",
+      "nombreNorm": "antoniu roca",
+      "equipo": "mallorca",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": true,
+      "sancionado": false
+    },
+    "arnau tenas": {
+      "slug": "arnau-tenas",
+      "nombreNorm": "arnau tenas",
+      "equipo": "mallorca",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": true,
+      "sancionado": false
+    },
+    "urko izeta": {
+      "slug": "urko-izeta",
+      "nombreNorm": "urko izeta",
+      "equipo": "mallorca",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": true,
+      "sancionado": false
+    },
+    "marc domenech": {
+      "slug": "marc-domenech",
+      "nombreNorm": "marc domenech",
+      "equipo": "mallorca",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": true,
+      "sancionado": false
+    },
+    "raul moro": {
+      "slug": "raul-moro",
+      "nombreNorm": "raul moro",
+      "equipo": "osasuna",
+      "probabilidad": 970,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "sergio herrera": {
+      "slug": "sergio-herrera",
+      "nombreNorm": "sergio herrera",
+      "equipo": "osasuna",
+      "probabilidad": 270,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ante budimir": {
+      "slug": "ante-budimir",
+      "nombreNorm": "ante budimir",
+      "equipo": "osasuna",
+      "probabilidad": 90,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ruben garcia": {
+      "slug": "ruben-garcia",
+      "nombreNorm": "ruben garcia",
+      "equipo": "osasuna",
+      "probabilidad": 270,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "aimar oroz": {
+      "slug": "aimar-oroz",
+      "nombreNorm": "aimar oroz",
+      "equipo": "osasuna",
+      "probabilidad": 780,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jon moncayola": {
+      "slug": "jon-moncayola",
+      "nombreNorm": "jon moncayola",
+      "equipo": "osasuna",
+      "probabilidad": 290,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "lucas torro": {
+      "slug": "lucas-torro",
+      "nombreNorm": "lucas torro",
+      "equipo": "osasuna",
+      "probabilidad": 60,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "iker munoz": {
+      "slug": "iker-munoz",
+      "nombreNorm": "iker munoz",
+      "equipo": "osasuna",
+      "probabilidad": 60,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "abel bretones": {
+      "slug": "abel-bretones",
+      "nombreNorm": "abel bretones",
+      "equipo": "osasuna",
+      "probabilidad": 890,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alejandro catena": {
+      "slug": "alejandro-catena",
+      "nombreNorm": "alejandro catena",
+      "equipo": "osasuna",
+      "probabilidad": 480,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "boyomo": {
+      "slug": "boyomo",
+      "nombreNorm": "boyomo",
+      "equipo": "osasuna",
+      "probabilidad": 480,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "valentin rosier": {
+      "slug": "valentin-rosier",
+      "nombreNorm": "valentin rosier",
+      "equipo": "osasuna",
+      "probabilidad": 580,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jorge herrando": {
+      "slug": "jorge-herrando",
+      "nombreNorm": "jorge herrando",
+      "equipo": "osasuna",
+      "probabilidad": 240,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "moi gomez": {
+      "slug": "moi-gomez",
+      "nombreNorm": "moi gomez",
+      "equipo": "osasuna",
+      "probabilidad": 630,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "kike barja": {
+      "slug": "kike-barja",
+      "nombreNorm": "kike barja",
+      "equipo": "osasuna",
+      "probabilidad": 930,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jonathan dubasin": {
+      "slug": "jonathan-dubasin",
+      "nombreNorm": "jonathan dubasin",
+      "equipo": "osasuna",
+      "probabilidad": 130,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "aitor fernandez": {
+      "slug": "aitor-fernandez",
+      "nombreNorm": "aitor fernandez",
+      "equipo": "osasuna",
+      "probabilidad": 230,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "iker benito": {
+      "slug": "iker-benito",
+      "nombreNorm": "iker benito",
+      "equipo": "osasuna",
+      "probabilidad": 620,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "raul garcia 1": {
+      "slug": "raul-garcia-1",
+      "nombreNorm": "raul garcia 1",
+      "equipo": "osasuna",
+      "probabilidad": 220,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "asier osambela": {
+      "slug": "asier-osambela",
+      "nombreNorm": "asier osambela",
+      "equipo": "osasuna",
+      "probabilidad": 620,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "inigo arguibide": {
+      "slug": "inigo-arguibide",
+      "nombreNorm": "inigo arguibide",
+      "equipo": "osasuna",
+      "probabilidad": 780,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "aihen munoz": {
+      "slug": "aihen-munoz",
+      "nombreNorm": "aihen munoz",
+      "equipo": "real-sociedad",
+      "probabilidad": 520,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ruben duarte": {
+      "slug": "ruben-duarte",
+      "nombreNorm": "ruben duarte",
+      "equipo": "sevilla",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": false,
+      "duda": true,
+      "sancionado": false
+    },
+    "pep chavarria": {
+      "slug": "pep-chavarria",
+      "nombreNorm": "pep chavarria",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 490,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alemo": {
+      "slug": "alemo",
+      "nombreNorm": "alemo",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 260,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "sergio camello": {
+      "slug": "sergio-camello",
+      "nombreNorm": "sergio camello",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 260,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "augusto batalla": {
+      "slug": "augusto-batalla",
+      "nombreNorm": "augusto batalla",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 595,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jorge de frutos": {
+      "slug": "jorge-de-frutos",
+      "nombreNorm": "jorge de frutos",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 390,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "pedro diaz": {
+      "slug": "pedro-diaz",
+      "nombreNorm": "pedro diaz",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 60,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "scar valentin": {
+      "slug": "scar-valentin",
+      "nombreNorm": "scar valentin",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 60,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "unai lopez": {
+      "slug": "unai-lopez",
+      "nombreNorm": "unai lopez",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 70,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "pathe ciss": {
+      "slug": "pathe-ciss",
+      "nombreNorm": "pathe ciss",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 670,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "nobel mendy": {
+      "slug": "nobel-mendy",
+      "nombreNorm": "nobel mendy",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 770,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "florian lejeune": {
+      "slug": "florian-lejeune",
+      "nombreNorm": "florian lejeune",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 90,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "andrei florin": {
+      "slug": "andrei-florin",
+      "nombreNorm": "andrei florin",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 390,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alvaro garcia": {
+      "slug": "alvaro-garcia",
+      "nombreNorm": "alvaro garcia",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 780,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "fran perez": {
+      "slug": "fran-perez",
+      "nombreNorm": "fran perez",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 630,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "randy nteka": {
+      "slug": "randy-nteka",
+      "nombreNorm": "randy nteka",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 930,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ivan balliu": {
+      "slug": "ivan-balliu",
+      "nombreNorm": "ivan balliu",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 230,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jozhua vertrouwd": {
+      "slug": "jozhua-vertrouwd",
+      "nombreNorm": "jozhua vertrouwd",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 730,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "pelayo fernandez": {
+      "slug": "pelayo-fernandez",
+      "nombreNorm": "pelayo fernandez",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 310,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "dani cardenas": {
+      "slug": "dani-cardenas",
+      "nombreNorm": "dani cardenas",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 865,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "diego mendez": {
+      "slug": "-diego-mendez",
+      "nombreNorm": "diego mendez",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 820,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "raul de tomas": {
+      "slug": "raul-de-tomas",
+      "nombreNorm": "raul de tomas",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 800,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "miguel angel morro": {
+      "slug": "miguel-angel-morro",
+      "nombreNorm": "miguel angel morro",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 950,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "isi palazon": {
+      "slug": "isi-palazon",
+      "nombreNorm": "isi palazon",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 690,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "luiz felipe": {
+      "slug": "luiz-felipe",
+      "nombreNorm": "luiz felipe",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 870,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "etienne etoo": {
+      "slug": "etienne-etoo",
+      "nombreNorm": "etienne etoo",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": false,
+      "sancionado": true
+    },
+    "samu becerra": {
+      "slug": "samu-becerra",
+      "nombreNorm": "samu becerra",
+      "equipo": "rayo-vallecano",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "trent alexander arnold": {
+      "slug": "trent-alexander-arnold",
+      "nombreNorm": "trent alexander arnold",
+      "equipo": "real-madrid",
+      "probabilidad": 50,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "denzel dumfries": {
+      "slug": "denzel-dumfries",
+      "nombreNorm": "denzel dumfries",
+      "equipo": "real-madrid",
+      "probabilidad": 50,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ibrahima konate": {
+      "slug": "ibrahima-konate",
+      "nombreNorm": "ibrahima konate",
+      "equipo": "real-madrid",
+      "probabilidad": 450,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "antonio rudiger": {
+      "slug": "antonio-rudiger",
+      "nombreNorm": "antonio rudiger",
+      "equipo": "real-madrid",
+      "probabilidad": 450,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "dean huijsen": {
+      "slug": "dean-huijsen",
+      "nombreNorm": "dean huijsen",
+      "equipo": "real-madrid",
+      "probabilidad": 770,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "marc cucurella": {
+      "slug": "marc-cucurella",
+      "nombreNorm": "marc cucurella",
+      "equipo": "real-madrid",
+      "probabilidad": 380,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "federico valverde": {
+      "slug": "federico-valverde",
+      "nombreNorm": "federico valverde",
+      "equipo": "real-madrid",
+      "probabilidad": 280,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "aurelien tchouameni": {
+      "slug": "aurelien-tchouameni",
+      "nombreNorm": "aurelien tchouameni",
+      "equipo": "real-madrid",
+      "probabilidad": 870,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jude bellingham": {
+      "slug": "jude-bellingham",
+      "nombreNorm": "jude bellingham",
+      "equipo": "real-madrid",
+      "probabilidad": 690,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "arda gler": {
+      "slug": "arda-gler",
+      "nombreNorm": "arda gler",
+      "equipo": "real-madrid",
+      "probabilidad": 550,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "bernardo silva": {
+      "slug": "bernardo-silva",
+      "nombreNorm": "bernardo silva",
+      "equipo": "real-madrid",
+      "probabilidad": 550,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "brahim diaz": {
+      "slug": "brahim-diaz",
+      "nombreNorm": "brahim diaz",
+      "equipo": "real-madrid",
+      "probabilidad": 550,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "vinicius junior": {
+      "slug": "vinicius-junior",
+      "nombreNorm": "vinicius junior",
+      "equipo": "real-madrid",
+      "probabilidad": 690,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "kylian mbappe": {
+      "slug": "kylian-mbappe",
+      "nombreNorm": "kylian mbappe",
+      "equipo": "real-madrid",
+      "probabilidad": 90,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "thibaut courtois": {
+      "slug": "thibaut-courtois",
+      "nombreNorm": "thibaut courtois",
+      "equipo": "real-madrid",
+      "probabilidad": 970,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "eduardo camavinga": {
+      "slug": "eduardo-camavinga",
+      "nombreNorm": "eduardo camavinga",
+      "equipo": "real-madrid",
+      "probabilidad": 230,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "raul asencio 1": {
+      "slug": "raul-asencio-1",
+      "nombreNorm": "raul asencio 1",
+      "equipo": "real-madrid",
+      "probabilidad": 430,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "andriy lunin": {
+      "slug": "andriy-lunin",
+      "nombreNorm": "andriy lunin",
+      "equipo": "real-madrid",
+      "probabilidad": 130,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "franco mastantuono": {
+      "slug": "franco-mastantuono",
+      "nombreNorm": "franco mastantuono",
+      "equipo": "real-madrid",
+      "probabilidad": 820,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "lvaro fernandez 1": {
+      "slug": "lvaro-fernandez-1",
+      "nombreNorm": "lvaro fernandez 1",
+      "equipo": "real-madrid",
+      "probabilidad": 620,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "gonzalo garcia": {
+      "slug": "gonzalo-garcia",
+      "nombreNorm": "gonzalo garcia",
+      "equipo": "real-madrid",
+      "probabilidad": 210,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "endrick": {
+      "slug": "endrick",
+      "nombreNorm": "endrick",
+      "equipo": "real-madrid",
+      "probabilidad": 210,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ferland mendy": {
+      "slug": "ferland-mendy",
+      "nombreNorm": "ferland mendy",
+      "equipo": "real-madrid",
+      "probabilidad": 800,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "der milito": {
+      "slug": "der-milito",
+      "nombreNorm": "der milito",
+      "equipo": "real-madrid",
+      "probabilidad": 860,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "thiago pitarch": {
+      "slug": "thiago-pitarch",
+      "nombreNorm": "thiago pitarch",
+      "equipo": "real-madrid",
+      "probabilidad": 790,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "rodrygo goes": {
+      "slug": "rodrygo-goes",
+      "nombreNorm": "rodrygo goes",
+      "equipo": "real-madrid",
+      "probabilidad": 740,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "yan diomande": {
+      "slug": "yan-diomande",
+      "nombreNorm": "yan diomande",
+      "equipo": "real-madrid",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": false,
+      "sancionado": false
+    },
+    "rodri hernandez": {
+      "slug": "rodri-hernandez",
+      "nombreNorm": "rodri hernandez",
+      "equipo": "real-madrid",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": false,
+      "sancionado": false
+    },
+    "victor valdepenas": {
+      "slug": "victor-valdepenas",
+      "nombreNorm": "victor valdepenas",
+      "equipo": "real-madrid",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": false,
+      "sancionado": false
+    },
+    "fran gonzalez 2": {
+      "slug": "fran-gonzalez-2",
+      "nombreNorm": "fran gonzalez 2",
+      "equipo": "sevilla",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": false,
+      "duda": true,
+      "sancionado": false
+    },
+    "cesar palacios": {
+      "slug": "cesar-palacios",
+      "nombreNorm": "cesar palacios",
+      "equipo": "real-madrid",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": false,
+      "sancionado": false
+    },
+    "carlos fernandez": {
+      "slug": "carlos-fernandez",
+      "nombreNorm": "carlos fernandez",
+      "equipo": "real-oviedo",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": false,
+      "duda": true,
+      "sancionado": false
+    },
+    "javi lopez 1": {
+      "slug": "javi-lopez-1",
+      "nombreNorm": "javi lopez 1",
+      "equipo": "real-sociedad",
+      "probabilidad": 830,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "brandon domingues": {
+      "slug": "brandon-domingues",
+      "nombreNorm": "brandon domingues",
+      "equipo": "real-oviedo",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": false,
+      "duda": true,
+      "sancionado": false
+    },
+    "haissem hassan": {
+      "slug": "haissem-hassan",
+      "nombreNorm": "haissem hassan",
+      "equipo": "real-oviedo",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": false,
+      "duda": true,
+      "sancionado": false
+    },
+    "thiago fernandez": {
+      "slug": "thiago-fernandez",
+      "nombreNorm": "thiago fernandez",
+      "equipo": "villarreal",
+      "probabilidad": 750,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "kwasi sibo": {
+      "slug": "kwasi-sibo",
+      "nombreNorm": "kwasi sibo",
+      "equipo": "real-oviedo",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "leander dendoncker": {
+      "slug": "leander-dendoncker",
+      "nombreNorm": "leander dendoncker",
+      "equipo": "real-oviedo",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "rahim alhassane": {
+      "slug": "rahim-alhassane",
+      "nombreNorm": "rahim alhassane",
+      "equipo": "real-oviedo",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "eric bertrand bailly": {
+      "slug": "eric-bertrand-bailly",
+      "nombreNorm": "eric bertrand bailly",
+      "equipo": "real-oviedo",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "david carmo": {
+      "slug": "david-carmo",
+      "nombreNorm": "david carmo",
+      "equipo": "real-oviedo",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "aaron escandell": {
+      "slug": "aaron-escandell",
+      "nombreNorm": "aaron escandell",
+      "equipo": "real-oviedo",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "horatiu moldovan": {
+      "slug": "horatiu-moldovan",
+      "nombreNorm": "horatiu moldovan",
+      "equipo": "real-oviedo",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "nacho vidal": {
+      "slug": "nacho-vidal",
+      "nombreNorm": "nacho vidal",
+      "equipo": "real-oviedo",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "lucas ahijado": {
+      "slug": "lucas-ahijado",
+      "nombreNorm": "lucas ahijado",
+      "equipo": "real-oviedo",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "federico vinas": {
+      "slug": "federico-vinas",
+      "nombreNorm": "federico vinas",
+      "equipo": "real-oviedo",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "thiago borbas": {
+      "slug": "thiago-borbas",
+      "nombreNorm": "thiago borbas",
+      "equipo": "real-oviedo",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alex fores": {
+      "slug": "alex-fores",
+      "nombreNorm": "alex fores",
+      "equipo": "villarreal",
+      "probabilidad": 790,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ilyas chaira": {
+      "slug": "ilyas-chaira",
+      "nombreNorm": "ilyas chaira",
+      "equipo": "real-oviedo",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "luka ilic": {
+      "slug": "luka-ilic",
+      "nombreNorm": "luka ilic",
+      "equipo": "real-oviedo",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ovie ejaria": {
+      "slug": "ovie-ejaria",
+      "nombreNorm": "ovie ejaria",
+      "equipo": "real-oviedo",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alberto reina": {
+      "slug": "alberto-reina",
+      "nombreNorm": "alberto reina",
+      "equipo": "real-oviedo",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "santi cazorla": {
+      "slug": "santi-cazorla",
+      "nombreNorm": "santi cazorla",
+      "equipo": "real-oviedo",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "nicolas fonseca": {
+      "slug": "nicolas-fonseca",
+      "nombreNorm": "nicolas fonseca",
+      "equipo": "real-oviedo",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "santiago colombatto": {
+      "slug": "santiago-colombatto",
+      "nombreNorm": "santiago colombatto",
+      "equipo": "real-oviedo",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "david costas": {
+      "slug": "david-costas",
+      "nombreNorm": "david costas",
+      "equipo": "real-oviedo",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "dani calvo": {
+      "slug": "dani-calvo",
+      "nombreNorm": "dani calvo",
+      "equipo": "real-oviedo",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "sergio gomez": {
+      "slug": "sergio-gomez",
+      "nombreNorm": "sergio gomez",
+      "equipo": "real-sociedad",
+      "probabilidad": 380,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "igor zubeldia": {
+      "slug": "igor-zubeldia",
+      "nombreNorm": "igor zubeldia",
+      "equipo": "real-sociedad",
+      "probabilidad": 180,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jon aramburu": {
+      "slug": "jon-aramburu",
+      "nombreNorm": "jon aramburu",
+      "equipo": "real-sociedad",
+      "probabilidad": 680,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jon martin": {
+      "slug": "jon-martin",
+      "nombreNorm": "jon martin",
+      "equipo": "real-sociedad",
+      "probabilidad": 790,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "benat turrientes": {
+      "slug": "benat-turrientes",
+      "nombreNorm": "benat turrientes",
+      "equipo": "real-sociedad",
+      "probabilidad": 150,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jon gorrotxategi": {
+      "slug": "jon-gorrotxategi",
+      "nombreNorm": "jon gorrotxategi",
+      "equipo": "real-sociedad",
+      "probabilidad": 150,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "carlos soler": {
+      "slug": "carlos-soler",
+      "nombreNorm": "carlos soler",
+      "equipo": "real-sociedad",
+      "probabilidad": 80,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "luka sucic": {
+      "slug": "luka-sucic",
+      "nombreNorm": "luka sucic",
+      "equipo": "real-sociedad",
+      "probabilidad": 550,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "yangel herrera": {
+      "slug": "yangel-herrera",
+      "nombreNorm": "yangel herrera",
+      "equipo": "real-sociedad",
+      "probabilidad": 550,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ander barrenetxea": {
+      "slug": "ander-barrenetxea",
+      "nombreNorm": "ander barrenetxea",
+      "equipo": "real-sociedad",
+      "probabilidad": 550,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "takefusa kubo": {
+      "slug": "takefusa-kubo",
+      "nombreNorm": "takefusa kubo",
+      "equipo": "real-sociedad",
+      "probabilidad": 550,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "goncalo guedes": {
+      "slug": "goncalo-guedes",
+      "nombreNorm": "goncalo guedes",
+      "equipo": "real-sociedad",
+      "probabilidad": 970,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "mikel oyarzabal": {
+      "slug": "mikel-oyarzabal",
+      "nombreNorm": "mikel oyarzabal",
+      "equipo": "real-sociedad",
+      "probabilidad": 180,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alex remiro": {
+      "slug": "alex-remiro",
+      "nombreNorm": "alex remiro",
+      "equipo": "real-sociedad",
+      "probabilidad": 290,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "pablo marin": {
+      "slug": "pablo-marin",
+      "nombreNorm": "pablo marin",
+      "equipo": "real-sociedad",
+      "probabilidad": 830,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "arsen zakharyan": {
+      "slug": "arsen-zakharyan",
+      "nombreNorm": "arsen zakharyan",
+      "equipo": "real-sociedad",
+      "probabilidad": 320,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "orri steinn skarsson": {
+      "slug": "orri-steinn-skarsson",
+      "nombreNorm": "orri steinn skarsson",
+      "equipo": "real-sociedad",
+      "probabilidad": 620,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "luken beitia": {
+      "slug": "luken-beitia",
+      "nombreNorm": "luken beitia",
+      "equipo": "real-sociedad",
+      "probabilidad": 120,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "job ochieng": {
+      "slug": "job-ochieng",
+      "nombreNorm": "job ochieng",
+      "equipo": "real-sociedad",
+      "probabilidad": 510,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "kazunari kita": {
+      "slug": "kazunari-kita",
+      "nombreNorm": "kazunari kita",
+      "equipo": "real-sociedad",
+      "probabilidad": 910,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jon pacheco": {
+      "slug": "jon-pacheco",
+      "nombreNorm": "jon pacheco",
+      "equipo": "real-sociedad",
+      "probabilidad": 410,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "unai marrero": {
+      "slug": "unai-marrero",
+      "nombreNorm": "unai marrero",
+      "equipo": "real-sociedad",
+      "probabilidad": 910,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jon balda": {
+      "slug": "jon-balda",
+      "nombreNorm": "jon balda",
+      "equipo": "real-sociedad",
+      "probabilidad": 740,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "mikel goti": {
+      "slug": "mikel-goti",
+      "nombreNorm": "mikel goti",
+      "equipo": "real-sociedad",
+      "probabilidad": 850,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "inaki ruperez": {
+      "slug": "inaki-ruperez",
+      "nombreNorm": "inaki ruperez",
+      "equipo": "real-sociedad",
+      "probabilidad": 770,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jon karrikaburu": {
+      "slug": "jon-karrikaburu",
+      "nombreNorm": "jon karrikaburu",
+      "equipo": "real-sociedad",
+      "probabilidad": 830,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alvaro odriozola": {
+      "slug": "alvaro-odriozola",
+      "nombreNorm": "alvaro odriozola",
+      "equipo": "real-sociedad",
+      "probabilidad": 750,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "manu bueno": {
+      "slug": "manu-bueno",
+      "nombreNorm": "manu bueno",
+      "equipo": "sevilla",
+      "probabilidad": 0,
+      "estado": "Clave",
+      "lesionado": true,
+      "duda": true,
+      "sancionado": true
+    },
+    "isaac romero": {
+      "slug": "isaac-romero",
+      "nombreNorm": "isaac romero",
+      "equipo": "sevilla",
+      "probabilidad": 380,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "odysseas vlachodimos": {
+      "slug": "odysseas-vlachodimos",
+      "nombreNorm": "odysseas vlachodimos",
+      "equipo": "sevilla",
+      "probabilidad": 195,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "juanlu sanchez": {
+      "slug": "juanlu-sanchez",
+      "nombreNorm": "juanlu sanchez",
+      "equipo": "sevilla",
+      "probabilidad": 670,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jon guridi": {
+      "slug": "jon-guridi",
+      "nombreNorm": "jon guridi",
+      "equipo": "sevilla",
+      "probabilidad": 970,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "lucien agoume": {
+      "slug": "lucien-agoume",
+      "nombreNorm": "lucien agoume",
+      "equipo": "sevilla",
+      "probabilidad": 580,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "djibril sow": {
+      "slug": "djibril-sow",
+      "nombreNorm": "djibril sow",
+      "equipo": "sevilla",
+      "probabilidad": 370,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "gabriel suazo": {
+      "slug": "gabriel-suazo",
+      "nombreNorm": "gabriel suazo",
+      "equipo": "sevilla",
+      "probabilidad": 870,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "kike salas": {
+      "slug": "kike-salas",
+      "nombreNorm": "kike salas",
+      "equipo": "sevilla",
+      "probabilidad": 890,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "andres castrin": {
+      "slug": "andres-castrin",
+      "nombreNorm": "andres castrin",
+      "equipo": "sevilla",
+      "probabilidad": 860,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "arouna sangante": {
+      "slug": "arouna-sangante",
+      "nombreNorm": "arouna sangante",
+      "equipo": "sevilla",
+      "probabilidad": 860,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "juan iglesias": {
+      "slug": "juan-iglesias",
+      "nombreNorm": "juan iglesias",
+      "equipo": "sevilla",
+      "probabilidad": 750,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jose ngel carmona": {
+      "slug": "jose-ngel-carmona",
+      "nombreNorm": "jose ngel carmona",
+      "equipo": "sevilla",
+      "probabilidad": 750,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ruben vargas": {
+      "slug": "ruben-vargas",
+      "nombreNorm": "ruben vargas",
+      "equipo": "sevilla",
+      "probabilidad": 980,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "chidera ejuke": {
+      "slug": "chidera-ejuke",
+      "nombreNorm": "chidera ejuke",
+      "equipo": "sevilla",
+      "probabilidad": 640,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "peque": {
+      "slug": "peque",
+      "nombreNorm": "peque",
+      "equipo": "sevilla",
+      "probabilidad": 230,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "joaquin oso": {
+      "slug": "joaquin-oso",
+      "nombreNorm": "joaquin oso",
+      "equipo": "sevilla",
+      "probabilidad": 330,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "marcao": {
+      "slug": "marcao",
+      "nombreNorm": "marcao",
+      "equipo": "sevilla",
+      "probabilidad": 520,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alfonso gonzalez": {
+      "slug": "alfonso-gonzalez",
+      "nombreNorm": "alfonso gonzalez",
+      "equipo": "sevilla",
+      "probabilidad": 210,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "adria pedrosa": {
+      "slug": "adria-pedrosa",
+      "nombreNorm": "adria pedrosa",
+      "equipo": "sevilla",
+      "probabilidad": 210,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alberto flores": {
+      "slug": "alberto-flores",
+      "nombreNorm": "alberto flores",
+      "equipo": "sevilla",
+      "probabilidad": 875,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "rafa mir": {
+      "slug": "rafa-mir",
+      "nombreNorm": "rafa mir",
+      "equipo": "sevilla",
+      "probabilidad": 910,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "joan jordan": {
+      "slug": "joan-jordan",
+      "nombreNorm": "joan jordan",
+      "equipo": "sevilla",
+      "probabilidad": 850,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "federico gattoni": {
+      "slug": "federico-gattoni",
+      "nombreNorm": "federico gattoni",
+      "equipo": "sevilla",
+      "probabilidad": 830,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "fabio cardoso": {
+      "slug": "fabio-cardoso",
+      "nombreNorm": "fabio cardoso",
+      "equipo": "sevilla",
+      "probabilidad": 870,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "patrik mercado": {
+      "slug": "patrik-mercado",
+      "nombreNorm": "patrik mercado",
+      "equipo": "sevilla",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": false,
+      "duda": true,
+      "sancionado": false
+    },
+    "adrian embarba": {
+      "slug": "adrian-embarba",
+      "nombreNorm": "adrian embarba",
+      "equipo": "sevilla",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": false,
+      "duda": true,
+      "sancionado": false
+    },
+    "cesar tarrega": {
+      "slug": "cesar-tarrega",
+      "nombreNorm": "cesar tarrega",
+      "equipo": "valencia",
+      "probabilidad": 480,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "umar sadiq": {
+      "slug": "umar-sadiq",
+      "nombreNorm": "umar sadiq",
+      "equipo": "valencia",
+      "probabilidad": 150,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "hugo duro": {
+      "slug": "hugo-duro",
+      "nombreNorm": "hugo duro",
+      "equipo": "valencia",
+      "probabilidad": 150,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "stole dimitrievski": {
+      "slug": "stole-dimitrievski",
+      "nombreNorm": "stole dimitrievski",
+      "equipo": "valencia",
+      "probabilidad": 890,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "javi guerra 1": {
+      "slug": "javi-guerra-1",
+      "nombreNorm": "javi guerra 1",
+      "equipo": "valencia",
+      "probabilidad": 790,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ryunosuke sato": {
+      "slug": "ryunosuke-sato",
+      "nombreNorm": "ryunosuke sato",
+      "equipo": "valencia",
+      "probabilidad": 150,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "arnaut danjuma": {
+      "slug": "arnaut-danjuma",
+      "nombreNorm": "arnaut danjuma",
+      "equipo": "valencia",
+      "probabilidad": 150,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "luis rioja": {
+      "slug": "luis-rioja",
+      "nombreNorm": "luis rioja",
+      "equipo": "valencia",
+      "probabilidad": 680,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "aliou dieng": {
+      "slug": "aliou-dieng",
+      "nombreNorm": "aliou dieng",
+      "equipo": "valencia",
+      "probabilidad": 450,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "pepelu": {
+      "slug": "pepelu",
+      "nombreNorm": "pepelu",
+      "equipo": "valencia",
+      "probabilidad": 450,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "filip ugrinic": {
+      "slug": "filip-ugrinic",
+      "nombreNorm": "filip ugrinic",
+      "equipo": "valencia",
+      "probabilidad": 450,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "justin de haas": {
+      "slug": "justin-de-haas",
+      "nombreNorm": "justin de haas",
+      "equipo": "valencia",
+      "probabilidad": 470,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jose gaya": {
+      "slug": "jose-gaya",
+      "nombreNorm": "jose gaya",
+      "equipo": "valencia",
+      "probabilidad": 290,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "guido rodriguez": {
+      "slug": "guido-rodriguez",
+      "nombreNorm": "guido rodriguez",
+      "equipo": "valencia",
+      "probabilidad": 590,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "dimitri foulquier": {
+      "slug": "dimitri-foulquier",
+      "nombreNorm": "dimitri foulquier",
+      "equipo": "valencia",
+      "probabilidad": 350,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "mouctar diakhaby": {
+      "slug": "mouctar-diakhaby",
+      "nombreNorm": "mouctar diakhaby",
+      "equipo": "valencia",
+      "probabilidad": 350,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "andre almeida 1": {
+      "slug": "andre-almeida-1",
+      "nombreNorm": "andre almeida 1",
+      "equipo": "valencia",
+      "probabilidad": 630,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ruben iranzo": {
+      "slug": "ruben-iranzo",
+      "nombreNorm": "ruben iranzo",
+      "equipo": "valencia",
+      "probabilidad": 10,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "iker cordoba": {
+      "slug": "iker-cordoba",
+      "nombreNorm": "iker cordoba",
+      "equipo": "valencia",
+      "probabilidad": 10,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jesus vazquez 1": {
+      "slug": "jesus-vazquez-1",
+      "nombreNorm": "jesus vazquez 1",
+      "equipo": "valencia",
+      "probabilidad": 210,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "daniel raba": {
+      "slug": "daniel-raba",
+      "nombreNorm": "daniel raba",
+      "equipo": "valencia",
+      "probabilidad": 510,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "cristian rivero": {
+      "slug": "cristian-rivero",
+      "nombreNorm": "cristian rivero",
+      "equipo": "valencia",
+      "probabilidad": 810,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alberto mari": {
+      "slug": "alberto-mari",
+      "nombreNorm": "alberto mari",
+      "equipo": "valencia",
+      "probabilidad": 830,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "sergi canos": {
+      "slug": "sergi-canos",
+      "nombreNorm": "sergi canos",
+      "equipo": "valencia",
+      "probabilidad": 770,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "jose manuel copete": {
+      "slug": "jose-manuel-copete",
+      "nombreNorm": "jose manuel copete",
+      "equipo": "valencia",
+      "probabilidad": 900,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "diego lopez 1": {
+      "slug": "diego-lopez-1",
+      "nombreNorm": "diego lopez 1",
+      "equipo": "valencia",
+      "probabilidad": 720,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "daijiro chirino": {
+      "slug": "daijiro-chirino",
+      "nombreNorm": "daijiro chirino",
+      "equipo": "valencia",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": true,
+      "sancionado": false
+    },
+    "bilal laurendon": {
+      "slug": "bilal-laurendon",
+      "nombreNorm": "bilal laurendon",
+      "equipo": "valencia",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": true,
+      "sancionado": false
+    },
+    "kingsley ehizibue": {
+      "slug": "kingsley-ehizibue",
+      "nombreNorm": "kingsley ehizibue",
+      "equipo": "valencia",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": true,
+      "sancionado": false
+    },
+    "vicent abril": {
+      "slug": "vicent-abril",
+      "nombreNorm": "vicent abril",
+      "equipo": "valencia",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": true,
+      "sancionado": false
+    },
+    "mario dominguez": {
+      "slug": "mario-dominguez",
+      "nombreNorm": "mario dominguez",
+      "equipo": "valencia",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": true,
+      "sancionado": false
+    },
+    "cenk zkacar": {
+      "slug": "cenk-zkacar",
+      "nombreNorm": "cenk zkacar",
+      "equipo": "valencia",
+      "probabilidad": 100,
+      "estado": null,
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "juan foyth": {
+      "slug": "juan-foyth",
+      "nombreNorm": "juan foyth",
+      "equipo": "villarreal",
+      "probabilidad": 770,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "georges mikautadze": {
+      "slug": "georges-mikautadze",
+      "nombreNorm": "georges mikautadze",
+      "equipo": "villarreal",
+      "probabilidad": 670,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "luiz junior": {
+      "slug": "luiz-junior",
+      "nombreNorm": "luiz junior",
+      "equipo": "villarreal",
+      "probabilidad": 295,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "nicolas pepe": {
+      "slug": "nicolas-pepe",
+      "nombreNorm": "nicolas pepe",
+      "equipo": "villarreal",
+      "probabilidad": 370,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "gerard moreno": {
+      "slug": "gerard-moreno",
+      "nombreNorm": "gerard moreno",
+      "equipo": "villarreal",
+      "probabilidad": 80,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "santi comesana": {
+      "slug": "santi-comesana",
+      "nombreNorm": "santi comesana",
+      "equipo": "villarreal",
+      "probabilidad": 890,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "pape gueye": {
+      "slug": "pape-gueye",
+      "nombreNorm": "pape gueye",
+      "equipo": "villarreal",
+      "probabilidad": 990,
+      "estado": "Clave",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "renato veiga": {
+      "slug": "renato-veiga",
+      "nombreNorm": "renato veiga",
+      "equipo": "villarreal",
+      "probabilidad": 850,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "pau navarro": {
+      "slug": "pau-navarro",
+      "nombreNorm": "pau navarro",
+      "equipo": "villarreal",
+      "probabilidad": 850,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "carlos romero": {
+      "slug": "carlos-romero",
+      "nombreNorm": "carlos romero",
+      "equipo": "villarreal",
+      "probabilidad": 480,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "santiago mourino": {
+      "slug": "santiago-mourino",
+      "nombreNorm": "santiago mourino",
+      "equipo": "villarreal",
+      "probabilidad": 660,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alex freeman": {
+      "slug": "alex-freeman",
+      "nombreNorm": "alex freeman",
+      "equipo": "villarreal",
+      "probabilidad": 660,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alberto moleiro": {
+      "slug": "alberto-moleiro",
+      "nombreNorm": "alberto moleiro",
+      "equipo": "villarreal",
+      "probabilidad": 180,
+      "estado": "Importante",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "tajon buchanan": {
+      "slug": "tajon-buchanan",
+      "nombreNorm": "tajon buchanan",
+      "equipo": "villarreal",
+      "probabilidad": 330,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "tani oluwaseyi": {
+      "slug": "tani-oluwaseyi",
+      "nombreNorm": "tani oluwaseyi",
+      "equipo": "villarreal",
+      "probabilidad": 730,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ayoze perez": {
+      "slug": "ayoze-perez",
+      "nombreNorm": "ayoze perez",
+      "equipo": "villarreal",
+      "probabilidad": 830,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "sergi cardona": {
+      "slug": "sergi-cardona",
+      "nombreNorm": "sergi cardona",
+      "equipo": "villarreal",
+      "probabilidad": 620,
+      "estado": "Rotación",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "logan costa": {
+      "slug": "logan-costa",
+      "nombreNorm": "logan costa",
+      "equipo": "villarreal",
+      "probabilidad": 20,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "alassane diatta": {
+      "slug": "alassane-diatta",
+      "nombreNorm": "alassane diatta",
+      "equipo": "villarreal",
+      "probabilidad": 10,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "ilias akhomach": {
+      "slug": "ilias-akhomach",
+      "nombreNorm": "ilias akhomach",
+      "equipo": "villarreal",
+      "probabilidad": 510,
+      "estado": "Revulsivo",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "carlos macia": {
+      "slug": "carlos-macia",
+      "nombreNorm": "carlos macia",
+      "equipo": "villarreal",
+      "probabilidad": 10,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "willy kambwala": {
+      "slug": "willy-kambwala",
+      "nombreNorm": "willy kambwala",
+      "equipo": "villarreal",
+      "probabilidad": 210,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "pau cabanes": {
+      "slug": "pau-cabanes",
+      "nombreNorm": "pau cabanes",
+      "equipo": "villarreal",
+      "probabilidad": 790,
+      "estado": "Reserva",
+      "lesionado": false,
+      "duda": false,
+      "sancionado": false
+    },
+    "peter gulacsi": {
+      "slug": "peter-gulacsi",
+      "nombreNorm": "peter gulacsi",
+      "equipo": "villarreal",
+      "probabilidad": 20,
+      "estado": null,
+      "lesionado": true,
+      "duda": false,
+      "sancionado": false
+    }
+  }
+}
