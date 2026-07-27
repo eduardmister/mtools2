@@ -1,1 +1,44 @@
+name: Scraper FutbolFantasy
 
+# Se puede lanzar a mano (para probar) y además corre solo cada día a las 6:00 UTC.
+on:
+  workflow_dispatch:        # botón "Run workflow" para pruebas
+  schedule:
+    - cron: '0 6 * * *'     # cada día a las 06:00 UTC (08:00 en España)
+
+# Permiso para que la Action pueda escribir en el repo (commit del JSON).
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repo
+        uses: actions/checkout@v4
+
+      - name: Instalar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar dependencias
+        working-directory: scraper
+        run: npm install
+
+      - name: Ejecutar el scraper
+        working-directory: scraper
+        run: node scrape.js
+
+      - name: Publicar externo.json en la raíz del repo
+        run: |
+          cp scraper/externo.json ./externo.json
+          echo "Generado externo.json con $(node -e "console.log(require('./externo.json').total)") jugadores"
+
+      - name: Commit del resultado
+        run: |
+          git config user.name "mistertools-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add externo.json
+          git diff --staged --quiet || git commit -m "Actualiza externo.json (alineaciones)"
+          git push
