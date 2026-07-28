@@ -1,46 +1,32 @@
-/* Modo diagnóstico: descarga UNA página y vuelca la estructura HTML de la
- * zona de un jugador, para diseñar bien los selectores. */
 import * as cheerio from 'cheerio';
-
 const UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36';
-
-const res = await fetch('https://www.futbolfantasy.com/laliga/equipos/alaves', {
-  headers: { 'User-Agent': UA }
-});
+const res = await fetch('https://www.futbolfantasy.com/laliga/equipos/alaves', { headers: { 'User-Agent': UA } });
 console.log('status:', res.status);
 const html = await res.text();
-console.log('bytes:', html.length);
-
 const $ = cheerio.load(html);
 
-// Buscar el primer enlace a /jugadores/ que esté en la zona de alineación
-const primer = $('a[href*="/jugadores/"]').first();
-console.log('\n=== Primer enlace a jugador ===');
-console.log('href:', primer.attr('href'));
-console.log('clases del enlace:', primer.attr('class'));
+const elems = $('.elemento_jugador');
+console.log('nº de .elemento_jugador:', elems.length);
 
-// Subir por ancestros mostrando clase y un fragmento de texto
-console.log('\n=== Ancestros (clase | nº hijos | texto[0:60]) ===');
-let n = primer;
-for (let i = 0; i < 8; i++) {
-  n = n.parent();
-  if (!n.length) break;
-  const cls = (n.attr('class') || '(sin clase)').slice(0, 50);
-  const tag = n.prop('tagName');
-  const txt = n.text().replace(/\s+/g,' ').trim().slice(0, 60);
-  console.log(`  [${i}] <${tag}> .${cls} | "${txt}"`);
-}
-
-// Buscar contenedores que parezcan "una tarjeta de jugador"
-console.log('\n=== Clases candidatas a fila de jugador ===');
-const clasesConteo = {};
-$('a[href*="/jugadores/"]').each((_, el) => {
-  let p = $(el).parent();
-  for (let i = 0; i < 5; i++) {
-    const c = p.attr('class');
-    if (c) c.split(/\s+/).forEach(cl => { clasesConteo[cl] = (clasesConteo[cl]||0)+1; });
-    p = p.parent();
-  }
+// Volcar el HTML de los 3 primeros, formateado y recortado
+elems.slice(0, 3).each((i, el) => {
+  console.log('\n========== JUGADOR ' + i + ' ==========');
+  const $el = $(el);
+  // enlace y slug
+  const a = $el.find('a[href*="/jugadores/"]').first();
+  console.log('slug:', (a.attr('href')||'').match(/jugadores\/([^/?#]+)/)?.[1]);
+  console.log('clases del contenedor:', $el.attr('class'));
+  // HTML interno recortado
+  let inner = $el.html().replace(/\s+/g, ' ').replace(/> </g, '>\n<');
+  console.log('--- HTML interno (recortado a 1500 chars) ---');
+  console.log(inner.slice(0, 1500));
+  // texto limpio
+  console.log('--- texto ---');
+  console.log($el.text().replace(/\s+/g,' ').trim().slice(0, 200));
 });
-Object.entries(clasesConteo).sort((a,b)=>b[1]-a[1]).slice(0,20)
-  .forEach(([c,n]) => console.log(`  ${n}x  .${c}`));
+
+// ¿Dónde está el % de probabilidad? Buscar clases con "porcent" o similar
+console.log('\n=== Elementos con % ===');
+$('[class*="porc"], [class*="prob"], [class*="titular"]').slice(0,5).each((_, el) => {
+  console.log('  .' + $(el).attr('class'), '->', $(el).text().trim().slice(0,20));
+});
