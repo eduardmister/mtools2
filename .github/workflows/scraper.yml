@@ -20,7 +20,7 @@ jobs:
         run: npm install
       - name: Ejecutar el scraper
         working-directory: scraper
-        run: node scrape.js
+        run: node diagnostico.js
       - name: Publicar externo.json en la raiz
         run: cp scraper/externo.json ./externo.json
       - name: Commit del resultado
