@@ -50,20 +50,29 @@ function parseEquipo(html, equipo) {
       $(e).text().trim().length > 0).first();
     const estado = estadoEl.text().trim() || null;
 
-    // Rival: tres celdas .rival -> [escudo/ALA] [vs/@] [GET]
-    const rivales = $el.find('.rival').map((_, r) => $(r).text().trim()).get();
-    const rival = rivales.find(t => /^[A-Z]{2,4}$/.test(t) && t !== 'VS') || null;
-    const local = rivales.includes('vs') ? true : (rivales.includes('@') ? false : null);
+    // Celdas .rival: [local] [vs/@] [rival] [icono casa/fuera]
+    // El rival es el 3er equipo (índice 2); el 1º es el propio equipo.
+    const celdasRival = $el.find('.rival');
+    const rivalTxt = celdasRival.eq(2).text().trim();
+    const rival = /^[A-Z]{2,4}$/.test(rivalTxt) ? rivalTxt : null;
+    // Local/visitante: el icono lleva alt "Fuera"/"Casa", o plane-icon = fuera
+    const iconoLugar = celdasRival.eq(3).find('img');
+    const altLugar = (iconoLugar.attr('alt') || '').toLowerCase();
+    const srcLugar = (iconoLugar.attr('src') || iconoLugar.attr('data-src') || '');
+    const local = altLugar.includes('casa') ? true
+                : altLugar.includes('fuera') ? false
+                : /plane/.test(srcLugar) ? false : null;
 
     // Nacionalidad / edad: "28 años"
     const edadTxt = $el.find('.nacionalidad').map((_, e) => $(e).text()).get()
       .find(t => /años/.test(t));
     const edad = edadTxt ? num(edadTxt) : null;
 
-    // Lesión / sanción por clases del contenedor
-    const cls = $el.attr('class') || '';
-    const lesionado = /(^|\s)lesionado(\s|$)/.test(cls) &&
-                      !/lesionado_box/.test(cls);   // clase real, no icono suelto
+    // Lesión: la clase "lesionado" del contenedor la llevan TODOS (es de
+    // plantilla CSS, no una marca real). Solo fiable si hay un icono de estado
+    // dentro del jugador. En pretemporada no los hay, así que suele ser false.
+    const iconoLesion = $el.find('[class*="lesionado_box"], [class*="sancionado"], [class*="duda_box"]');
+    const lesionado = iconoLesion.length > 0;
 
     out.push({
       slug, ffId,
