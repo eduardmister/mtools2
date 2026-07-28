@@ -1,33 +1,32 @@
 import * as cheerio from 'cheerio';
 const UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36';
-const res = await fetch('https://www.futbolfantasy.com/laliga/equipos/alaves', { headers: { 'User-Agent': UA } });
+const res = await fetch('https://www.futbolfantasy.com/laliga/equipos/barcelona', { headers: { 'User-Agent': UA } });
 const $ = cheerio.load(await res.text());
 
-// Solo jugadores reales: los que tienen slug en un enlace jugadores/SLUG
-const reales = $('.elemento_jugador').filter((_, el) =>
-  $(el).find('a.jugador[href*="/jugadores/"]').length > 0);
-console.log('jugadores reales:', reales.length);
+const filas = $('.elemento_jugador').filter((_, el) => $(el).find('a.jugador[href*="/jugadores/"]').length > 0);
+console.log('jugadores:', filas.length);
 
-reales.slice(0, 2).each((i, el) => {
+filas.slice(0, 2).each((i, el) => {
   const $el = $(el);
-  console.log('\n===== JUGADOR', i, '=====');
-  console.log('clases:', $el.attr('class'));
-  const a = $el.find('a.jugador[href*="/jugadores/"]').first();
-  console.log('slug:', (a.attr('href')||'').match(/jugadores\/([^/?#]+)/)?.[1]);
-  console.log('nombre visible:', a.text().replace(/\s+/g,' ').trim());
+  const nombre = $el.find('a.jugador .nombre').text().trim();
+  console.log('\n===== ' + nombre + ' =====');
 
-  // La zona .datos con las columnas
-  const datos = $el.find('.datos').first();
-  console.log('\n--- .datos innerHTML (a 2500) ---');
-  console.log((datos.html()||'(no encontrado)').replace(/\s+/g,' ').replace(/></g,'>\n<').slice(0,2500));
-});
+  // 1) ¿Dónde está "lesionado"? Ver clases del contenedor y de padres
+  console.log('clase del .elemento_jugador:', $el.attr('class'));
+  console.log('¿tiene .lesionado dentro?:', $el.find('.lesionado').length);
+  console.log('¿algún padre tiene lesionado?:',
+    $el.parents().filter((_,p)=>/lesionado/.test($(p).attr('class')||'')).length);
+  // buscar iconos de lesión/sanción DENTRO del jugador
+  const iconos = $el.find('[class*="lesion"], [class*="sancion"], [class*="duda"]');
+  console.log('iconos de estado dentro:', iconos.map((_,e)=>$(e).attr('class')).get().join(' | ') || 'ninguno');
 
-// Buscar la columna de probabilidad concreta
-console.log('\n=== .datos-col dentro del primer jugador ===');
-const j0 = reales.first();
-j0.find('.datos-col, [class*="prob"], [class*="estado"], [class*="dato_"]').each((_, el) => {
-  const c = $(el).attr('class');
-  const t = $(el).text().replace(/\s+/g,' ').trim().slice(0,30);
-  const title = $(el).attr('title') || $(el).find('[title]').attr('title') || '';
-  console.log('  .' + c + ' | txt="' + t + '"' + (title?' | title="'+title+'"':''));
+  // 2) Celdas .rival: volcar todas con su HTML (para ver escudos/texto)
+  console.log('--- celdas .rival ---');
+  $el.find('.rival').each((j, r) => {
+    const $r = $(r);
+    const img = $r.find('img');
+    const alt = img.attr('alt') || img.attr('title') || '';
+    const src = (img.attr('src')||img.attr('data-src')||'').split('/').pop();
+    console.log(`  [${j}] txt="${$r.text().trim()}" imgAlt="${alt}" imgSrc="${src}"`);
+  });
 });
