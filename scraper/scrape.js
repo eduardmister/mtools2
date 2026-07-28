@@ -1,11 +1,7 @@
 /* ============================================================================
- * MisterTools · Scraper de FutbolFantasy  (corre en GitHub Actions)
- *
- * Lee las páginas de equipo de FutbolFantasy (HTML crudo), extrae por jugador
- * la probabilidad de titularidad, estado, lesión/sanción y datos de balón
- * parado, y genera un externo.json que MisterTools consume.
- *
- * NO toca Mister. Solo lee una web pública. Una pasada al día.
+ * MisterTools · Scraper de FutbolFantasy  (GitHub Actions)
+ * Selectores verificados sobre el HTML real (jul 2026).
+ * Solo lee una web pública. Una pasada al día. No toca Mister.
  * ==========================================================================*/
 import * as cheerio from 'cheerio';
 import { writeFileSync } from 'fs';
@@ -16,105 +12,109 @@ const EQUIPOS = [
   'getafe','girona','levante','mallorca','osasuna','rayo-vallecano','real-madrid',
   'real-oviedo','real-sociedad','sevilla','valencia','villarreal'
 ];
-
-const UA = 'Mozilla/5.0 (compatible; MisterToolsBot/1.0; +personal-use)';
+const UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36';
 const sleep = (ms) => new Promise(r => setTimeout(r, ms));
 
 function normalizar(nombre) {
   return (nombre||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'')
     .toLowerCase().replace(/[^a-z0-9\s]/g,'').trim().replace(/\s+/g,' ');
 }
+const num = (t) => { const m = String(t||'').match(/-?\d+/); return m ? parseInt(m[0],10) : null; };
 
-// Parseo por jugador. Cada jugador es un enlace /jugadores/SLUG dentro de una
-// fila de la alineación que contiene su probabilidad (NN%) y su estado.
 function parseEquipo(html, equipo) {
   const $ = cheerio.load(html);
   const out = [];
-  const vistos = new Set();
-  const ESTADOS = ['Clave','Importante','Rotación','Reserva','Revulsivo'];
 
-  $('a[href*="/jugadores/"]').each((_, el) => {
-    const href = $(el).attr('href') || '';
-    const m = href.match(/\/jugadores\/([^/?#]+)/);
-    if (!m) return;
-    const slug = m[1];
-    if (vistos.has(slug)) return;
+  // Solo jugadores reales: tienen a.jugador con enlace a /jugadores/SLUG
+  const filas = $('.elemento_jugador').filter((_, el) =>
+    $(el).find('a.jugador[href*="/jugadores/"]').length > 0);
 
-    // Subimos al contenedor de la fila del jugador (el que lleva su %).
-    let cont = $(el);
-    for (let i = 0; i < 6; i++) {
-      cont = cont.parent();
-      if (/\d{1,3}%/.test(cont.text())) break;
-    }
-    const texto = cont.text();
-    const prob = (texto.match(/(\d{1,3})%/) || [])[1];
-    if (prob === undefined) return;
+  filas.each((_, el) => {
+    const $el = $(el);
+    const a = $el.find('a.jugador[href*="/jugadores/"]').first();
+    const slug = (a.attr('href')||'').match(/jugadores\/([^/?#]+)/)?.[1];
+    if (!slug) return;
 
-    vistos.add(slug);
-    const html_c = cont.html() || '';
-    let estado = null;
-    for (const e of ESTADOS) if (texto.includes(e)) { estado = e; break; }
+    // ID de FutbolFantasy desde la clase jugador-NNNN
+    const idMatch = ($el.attr('class')||'').match(/jugador-(\d+)/);
+    const ffId = idMatch ? idMatch[1] : null;
+
+    const nombre = a.find('.nombre').text().trim() || a.text().trim();
+
+    // Probabilidad: .prob-N -> "60%"
+    const probEl = $el.find('[class*="prob-"]').first();
+    const probabilidad = num(probEl.text());   // 0..100
+
+    // Estado / jerarquía: .jerarquia-N -> "Rotación", "Clave", etc.
+    const estadoEl = $el.find('[class*="jerarquia-"]').filter((_, e) =>
+      $(e).text().trim().length > 0).first();
+    const estado = estadoEl.text().trim() || null;
+
+    // Rival: tres celdas .rival -> [escudo/ALA] [vs/@] [GET]
+    const rivales = $el.find('.rival').map((_, r) => $(r).text().trim()).get();
+    const rival = rivales.find(t => /^[A-Z]{2,4}$/.test(t) && t !== 'VS') || null;
+    const local = rivales.includes('vs') ? true : (rivales.includes('@') ? false : null);
+
+    // Nacionalidad / edad: "28 años"
+    const edadTxt = $el.find('.nacionalidad').map((_, e) => $(e).text()).get()
+      .find(t => /años/.test(t));
+    const edad = edadTxt ? num(edadTxt) : null;
+
+    // Lesión / sanción por clases del contenedor
+    const cls = $el.attr('class') || '';
+    const lesionado = /(^|\s)lesionado(\s|$)/.test(cls) &&
+                      !/lesionado_box/.test(cls);   // clase real, no icono suelto
 
     out.push({
-      slug,
-      nombreNorm: normalizar(slug.replace(/-/g,' ')),
+      slug, ffId,
+      nombreNorm: normalizar(nombre),
       equipo,
-      probabilidad: parseInt(prob, 10),
+      probabilidad,
       estado,
-      lesionado: /lesionado_box/.test(html_c),
-      duda: /duda_box/.test(html_c),
-      sancionado: /sancionado[AR]?_box/.test(html_c)
+      rival, local,
+      edad,
+      lesionado
     });
   });
   return out;
 }
 
 async function main() {
-  // --- Test de acceso: probamos UN equipo antes de recorrerlos todos ---
-  console.log("== Test de acceso a FutbolFantasy ==");
-  try {
-    const t = await fetch(BASE + "espanyol", { headers: { "User-Agent": UA } });
-    console.log("status de prueba:", t.status);
-    if (t.status === 403 || t.status === 429) {
-      console.error("BLOQUEADO (" + t.status + "). Las IPs de GitHub Actions no pasan " +
-        "el filtro de FutbolFantasy. La opción A no es viable; toca la opción C " +
-        "(captura asistida desde tu navegador).");
-      const diag = { format: 1, fuente: "futbolfantasy", bloqueado: true,
-        status: t.status, generatedAt: new Date().toISOString(), total: 0, porNombre: {} };
-      writeFileSync("externo.json", JSON.stringify(diag, null, 2));
-      process.exit(0);   // salida limpia: el diagnóstico es el resultado
-    }
-    console.log("¡Acceso permitido! Procediendo con todos los equipos.");
-  } catch (e) {
-    console.error("Error de red en el test:", e.message);
-    process.exit(1);
+  console.log('== Test de acceso ==');
+  const t = await fetch(BASE + 'alaves', { headers: { 'User-Agent': UA } });
+  console.log('status:', t.status);
+  if (t.status !== 200) {
+    writeFileSync('externo.json', JSON.stringify({ format:2, bloqueado:true, status:t.status, porNombre:{} }));
+    process.exit(0);
   }
 
   const jugadores = [];
   for (const equipo of EQUIPOS) {
     try {
       const res = await fetch(BASE + equipo, { headers: { 'User-Agent': UA } });
-      if (!res.ok) { console.error(equipo, '->', res.status); continue; }
-      const html = await res.text();
-      const parsed = parseEquipo(html, equipo);
-      console.log(equipo, '->', parsed.length, 'jugadores');
+      if (!res.ok) { console.error(equipo, res.status); continue; }
+      const parsed = parseEquipo(await res.text(), equipo);
+      // Cuántos con probabilidad válida (control de calidad)
+      const conProb = parsed.filter(p => p.probabilidad != null && p.probabilidad <= 100).length;
+      console.log(`${equipo}: ${parsed.length} jugadores (${conProb} con prob válida)`);
       jugadores.push(...parsed);
-    } catch (e) {
-      console.error('Error en', equipo, e.message);
-    }
-    await sleep(1500);   // pausa entre equipos, buena vecindad
+    } catch (e) { console.error('Error', equipo, e.message); }
+    await sleep(1500);
   }
 
+  // Control de calidad global
+  const probsMalas = jugadores.filter(j => j.probabilidad != null && j.probabilidad > 100).length;
+  const conEstado = jugadores.filter(j => j.estado).length;
+  console.log(`\n== Calidad: ${jugadores.length} jugadores, ${probsMalas} probabilidades fuera de rango, ${conEstado} con estado ==`);
+
   const salida = {
-    format: 1,
+    format: 2,
     fuente: 'futbolfantasy',
     generatedAt: new Date().toISOString(),
     total: jugadores.length,
-    // Indexado por nombre normalizado para que MisterTools cruce por nombre.
     porNombre: Object.fromEntries(jugadores.map(j => [j.nombreNorm, j]))
   };
   writeFileSync('externo.json', JSON.stringify(salida, null, 2));
-  console.log('\nTotal:', jugadores.length, 'jugadores -> externo.json');
+  console.log('externo.json escrito.');
 }
-
 main();
