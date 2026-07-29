@@ -1,10 +1,10 @@
 {
   "format": 2,
   "generatedBy": "0.14.0",
-  "generatedAt": "2026-07-29T15:18:05.098Z",
+  "generatedAt": "2026-07-29T20:49:07.762Z",
   "community": {
-    "id": null,
-    "name": null,
+    "id": 1933684,
+    "name": "⚽️Hombres Blandengues",
     "maxDebtDivisor": 4
   },
   "players": {
@@ -3264,6 +3264,1596 @@
         "place": "En casa",
         "home": "Atlético",
         "away": "Málaga"
+      },
+      "injury": 0
+    },
+    "13420": {
+      "id": "13420",
+      "name": "Mouctar Diakhaby",
+      "position": 2,
+      "value": 508000,
+      "previousValue": 466000,
+      "points": 0,
+      "avg": 0,
+      "clause": {
+        "floor": 666666.6666666666,
+        "multiplier": 1.5,
+        "value": 1000000,
+        "percentage": 50
+      },
+      "clausesRanking": 386,
+      "pointsHistory": [
+        {
+          "season": "25/26",
+          "points": 31,
+          "avg": 3.875,
+          "id_team": 19,
+          "last_gameweek": 18,
+          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/19.png?version="
+        },
+        {
+          "season": "24/25",
+          "points": 66,
+          "avg": 5.5,
+          "id_team": 19,
+          "last_gameweek": 38,
+          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/19.png?version="
+        },
+        {
+          "season": "23/24",
+          "points": 67,
+          "avg": 4.7857,
+          "id_team": 19,
+          "last_gameweek": 27,
+          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/19.png?version="
+        },
+        {
+          "season": "22/23",
+          "points": 131,
+          "avg": 4.6786,
+          "id_team": 19,
+          "last_gameweek": 38,
+          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/19.png?version="
+        },
+        {
+          "season": "21/22",
+          "points": 87,
+          "avg": 3.1071,
+          "id_team": 19,
+          "last_gameweek": 38,
+          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/19.png?version="
+        },
+        {
+          "season": "20/21",
+          "points": 92,
+          "avg": 3.5385,
+          "id_team": 19,
+          "last_gameweek": 38,
+          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/19.png?version="
+        },
+        {
+          "season": "19/20",
+          "points": 69,
+          "avg": 3.6316,
+          "id_team": 19,
+          "last_gameweek": 37,
+          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/19.png?version="
+        },
+        {
+          "season": "18/19",
+          "points": 94,
+          "avg": 4.2727,
+          "id_team": 19,
+          "last_gameweek": 38,
+          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/19.png?version="
+        }
+      ],
+      "values": [
+        {
+          "time": "Un día",
+          "value": 466000,
+          "change": 42000,
+          "sign": 42
+        },
+        {
+          "time": "Una semana",
+          "value": 297000,
+          "change": 211000,
+          "sign": 211
+        },
+        {
+          "time": "Un mes",
+          "value": 178000,
+          "change": 330000,
+          "sign": 330
+        },
+        {
+          "time": "Un año",
+          "value": 1046000,
+          "change": -538000,
+          "sign": -538
+        }
+      ],
+      "valuesChart": {
+        "points": [
+          {
+            "value": 1046000,
+            "date": "29 jul 2025"
+          },
+          {
+            "value": 1076000,
+            "date": "30 jul 2025"
+          },
+          {
+            "value": 1104000,
+            "date": "31 jul 2025"
+          },
+          {
+            "value": 1143000,
+            "date": "1 ago 2025"
+          },
+          {
+            "value": 1187000,
+            "date": "2 ago 2025"
+          },
+          {
+            "value": 1234000,
+            "date": "3 ago 2025"
+          },
+          {
+            "value": 1284000,
+            "date": "4 ago 2025"
+          },
+          {
+            "value": 1336000,
+            "date": "5 ago 2025"
+          },
+          {
+            "value": 1388000,
+            "date": "6 ago 2025"
+          },
+          {
+            "value": 1441000,
+            "date": "7 ago 2025"
+          },
+          {
+            "value": 1497000,
+            "date": "8 ago 2025"
+          },
+          {
+            "value": 1553000,
+            "date": "9 ago 2025"
+          },
+          {
+            "value": 1610000,
+            "date": "10 ago 2025"
+          },
+          {
+            "value": 1667000,
+            "date": "11 ago 2025"
+          },
+          {
+            "value": 1727000,
+            "date": "12 ago 2025"
+          },
+          {
+            "value": 1790000,
+            "date": "13 ago 2025"
+          },
+          {
+            "value": 1852000,
+            "date": "14 ago 2025"
+          },
+          {
+            "value": 1914000,
+            "date": "15 ago 2025"
+          },
+          {
+            "value": 1967000,
+            "date": "16 ago 2025"
+          },
+          {
+            "value": 2018000,
+            "date": "17 ago 2025"
+          },
+          {
+            "value": 2039000,
+            "date": "18 ago 2025"
+          },
+          {
+            "value": 2035000,
+            "date": "19 ago 2025"
+          },
+          {
+            "value": 1990000,
+            "date": "20 ago 2025"
+          },
+          {
+            "value": 1940000,
+            "date": "21 ago 2025"
+          },
+          {
+            "value": 1886000,
+            "date": "22 ago 2025"
+          },
+          {
+            "value": 1814000,
+            "date": "23 ago 2025"
+          },
+          {
+            "value": 1747000,
+            "date": "24 ago 2025"
+          },
+          {
+            "value": 1690000,
+            "date": "25 ago 2025"
+          },
+          {
+            "value": 1653000,
+            "date": "26 ago 2025"
+          },
+          {
+            "value": 1635000,
+            "date": "27 ago 2025"
+          },
+          {
+            "value": 1613000,
+            "date": "28 ago 2025"
+          },
+          {
+            "value": 1619000,
+            "date": "29 ago 2025"
+          },
+          {
+            "value": 1676000,
+            "date": "30 ago 2025"
+          },
+          {
+            "value": 1742000,
+            "date": "31 ago 2025"
+          },
+          {
+            "value": 1813000,
+            "date": "1 sept 2025"
+          },
+          {
+            "value": 1892000,
+            "date": "2 sept 2025"
+          },
+          {
+            "value": 1972000,
+            "date": "3 sept 2025"
+          },
+          {
+            "value": 2056000,
+            "date": "4 sept 2025"
+          },
+          {
+            "value": 2138000,
+            "date": "5 sept 2025"
+          },
+          {
+            "value": 2219000,
+            "date": "6 sept 2025"
+          },
+          {
+            "value": 2304000,
+            "date": "7 sept 2025"
+          },
+          {
+            "value": 2391000,
+            "date": "8 sept 2025"
+          },
+          {
+            "value": 2480000,
+            "date": "9 sept 2025"
+          },
+          {
+            "value": 2568000,
+            "date": "10 sept 2025"
+          },
+          {
+            "value": 2660000,
+            "date": "11 sept 2025"
+          },
+          {
+            "value": 2749000,
+            "date": "12 sept 2025"
+          },
+          {
+            "value": 2835000,
+            "date": "13 sept 2025"
+          },
+          {
+            "value": 2940000,
+            "date": "14 sept 2025"
+          },
+          {
+            "value": 3050000,
+            "date": "15 sept 2025"
+          },
+          {
+            "value": 3156000,
+            "date": "16 sept 2025"
+          },
+          {
+            "value": 3271000,
+            "date": "17 sept 2025"
+          },
+          {
+            "value": 3388000,
+            "date": "18 sept 2025"
+          },
+          {
+            "value": 3503000,
+            "date": "19 sept 2025"
+          },
+          {
+            "value": 3598000,
+            "date": "20 sept 2025"
+          },
+          {
+            "value": 3741000,
+            "date": "21 sept 2025"
+          },
+          {
+            "value": 3905000,
+            "date": "22 sept 2025"
+          },
+          {
+            "value": 4080000,
+            "date": "23 sept 2025"
+          },
+          {
+            "value": 4257000,
+            "date": "24 sept 2025"
+          },
+          {
+            "value": 4422000,
+            "date": "25 sept 2025"
+          },
+          {
+            "value": 4614000,
+            "date": "26 sept 2025"
+          },
+          {
+            "value": 4796000,
+            "date": "27 sept 2025"
+          },
+          {
+            "value": 4992000,
+            "date": "28 sept 2025"
+          },
+          {
+            "value": 5202000,
+            "date": "29 sept 2025"
+          },
+          {
+            "value": 5300000,
+            "date": "30 sept 2025"
+          },
+          {
+            "value": 5394000,
+            "date": "1 oct 2025"
+          },
+          {
+            "value": 5487000,
+            "date": "2 oct 2025"
+          },
+          {
+            "value": 5576000,
+            "date": "3 oct 2025"
+          },
+          {
+            "value": 5651000,
+            "date": "4 oct 2025"
+          },
+          {
+            "value": 5706000,
+            "date": "5 oct 2025"
+          },
+          {
+            "value": 5736000,
+            "date": "6 oct 2025"
+          },
+          {
+            "value": 5772000,
+            "date": "7 oct 2025"
+          },
+          {
+            "value": 5783000,
+            "date": "8 oct 2025"
+          },
+          {
+            "value": 5753000,
+            "date": "9 oct 2025"
+          },
+          {
+            "value": 5660000,
+            "date": "10 oct 2025"
+          },
+          {
+            "value": 5526000,
+            "date": "11 oct 2025"
+          },
+          {
+            "value": 5399000,
+            "date": "12 oct 2025"
+          },
+          {
+            "value": 5267000,
+            "date": "13 oct 2025"
+          },
+          {
+            "value": 5145000,
+            "date": "14 oct 2025"
+          },
+          {
+            "value": 5021000,
+            "date": "15 oct 2025"
+          },
+          {
+            "value": 4898000,
+            "date": "16 oct 2025"
+          },
+          {
+            "value": 4659000,
+            "date": "17 oct 2025"
+          },
+          {
+            "value": 4436000,
+            "date": "18 oct 2025"
+          },
+          {
+            "value": 4225000,
+            "date": "19 oct 2025"
+          },
+          {
+            "value": 4027000,
+            "date": "20 oct 2025"
+          },
+          {
+            "value": 3840000,
+            "date": "21 oct 2025"
+          },
+          {
+            "value": 3680000,
+            "date": "22 oct 2025"
+          },
+          {
+            "value": 3538000,
+            "date": "23 oct 2025"
+          },
+          {
+            "value": 3374000,
+            "date": "24 oct 2025"
+          },
+          {
+            "value": 3231000,
+            "date": "25 oct 2025"
+          },
+          {
+            "value": 3083000,
+            "date": "26 oct 2025"
+          },
+          {
+            "value": 2940000,
+            "date": "27 oct 2025"
+          },
+          {
+            "value": 2807000,
+            "date": "28 oct 2025"
+          },
+          {
+            "value": 2711000,
+            "date": "29 oct 2025"
+          },
+          {
+            "value": 2609000,
+            "date": "30 oct 2025"
+          },
+          {
+            "value": 2505000,
+            "date": "31 oct 2025"
+          },
+          {
+            "value": 2393000,
+            "date": "1 nov 2025"
+          },
+          {
+            "value": 2286000,
+            "date": "2 nov 2025"
+          },
+          {
+            "value": 2184000,
+            "date": "3 nov 2025"
+          },
+          {
+            "value": 2085000,
+            "date": "4 nov 2025"
+          },
+          {
+            "value": 2012000,
+            "date": "5 nov 2025"
+          },
+          {
+            "value": 1944000,
+            "date": "6 nov 2025"
+          },
+          {
+            "value": 1875000,
+            "date": "7 nov 2025"
+          },
+          {
+            "value": 1810000,
+            "date": "8 nov 2025"
+          },
+          {
+            "value": 1741000,
+            "date": "9 nov 2025"
+          },
+          {
+            "value": 1670000,
+            "date": "10 nov 2025"
+          },
+          {
+            "value": 1622000,
+            "date": "11 nov 2025"
+          },
+          {
+            "value": 1579000,
+            "date": "12 nov 2025"
+          },
+          {
+            "value": 1540000,
+            "date": "13 nov 2025"
+          },
+          {
+            "value": 1499000,
+            "date": "14 nov 2025"
+          },
+          {
+            "value": 1440000,
+            "date": "15 nov 2025"
+          },
+          {
+            "value": 1385000,
+            "date": "16 nov 2025"
+          },
+          {
+            "value": 1331000,
+            "date": "17 nov 2025"
+          },
+          {
+            "value": 1273000,
+            "date": "18 nov 2025"
+          },
+          {
+            "value": 1217000,
+            "date": "19 nov 2025"
+          },
+          {
+            "value": 1161000,
+            "date": "20 nov 2025"
+          },
+          {
+            "value": 1109000,
+            "date": "21 nov 2025"
+          },
+          {
+            "value": 1065000,
+            "date": "22 nov 2025"
+          },
+          {
+            "value": 1020000,
+            "date": "23 nov 2025"
+          },
+          {
+            "value": 981000,
+            "date": "24 nov 2025"
+          },
+          {
+            "value": 912000,
+            "date": "25 nov 2025"
+          },
+          {
+            "value": 872000,
+            "date": "26 nov 2025"
+          },
+          {
+            "value": 846000,
+            "date": "27 nov 2025"
+          },
+          {
+            "value": 819000,
+            "date": "28 nov 2025"
+          },
+          {
+            "value": 778000,
+            "date": "29 nov 2025"
+          },
+          {
+            "value": 737000,
+            "date": "30 nov 2025"
+          },
+          {
+            "value": 713000,
+            "date": "1 dic 2025"
+          },
+          {
+            "value": 688000,
+            "date": "2 dic 2025"
+          },
+          {
+            "value": 662000,
+            "date": "3 dic 2025"
+          },
+          {
+            "value": 635000,
+            "date": "4 dic 2025"
+          },
+          {
+            "value": 612000,
+            "date": "5 dic 2025"
+          },
+          {
+            "value": 577000,
+            "date": "6 dic 2025"
+          },
+          {
+            "value": 540000,
+            "date": "7 dic 2025"
+          },
+          {
+            "value": 507000,
+            "date": "8 dic 2025"
+          },
+          {
+            "value": 472000,
+            "date": "9 dic 2025"
+          },
+          {
+            "value": 445000,
+            "date": "10 dic 2025"
+          },
+          {
+            "value": 431000,
+            "date": "11 dic 2025"
+          },
+          {
+            "value": 415000,
+            "date": "12 dic 2025"
+          },
+          {
+            "value": 374000,
+            "date": "13 dic 2025"
+          },
+          {
+            "value": 346000,
+            "date": "14 dic 2025"
+          },
+          {
+            "value": 315000,
+            "date": "15 dic 2025"
+          },
+          {
+            "value": 283000,
+            "date": "16 dic 2025"
+          },
+          {
+            "value": 287000,
+            "date": "17 dic 2025"
+          },
+          {
+            "value": 314000,
+            "date": "18 dic 2025"
+          },
+          {
+            "value": 348000,
+            "date": "19 dic 2025"
+          },
+          {
+            "value": 378000,
+            "date": "20 dic 2025"
+          },
+          {
+            "value": 401000,
+            "date": "21 dic 2025"
+          },
+          {
+            "value": 431000,
+            "date": "22 dic 2025"
+          },
+          {
+            "value": 472000,
+            "date": "23 dic 2025"
+          },
+          {
+            "value": 523000,
+            "date": "24 dic 2025"
+          },
+          {
+            "value": 550000,
+            "date": "25 dic 2025"
+          },
+          {
+            "value": 575000,
+            "date": "26 dic 2025"
+          },
+          {
+            "value": 593000,
+            "date": "27 dic 2025"
+          },
+          {
+            "value": 612000,
+            "date": "28 dic 2025"
+          },
+          {
+            "value": 632000,
+            "date": "29 dic 2025"
+          },
+          {
+            "value": 655000,
+            "date": "30 dic 2025"
+          },
+          {
+            "value": 678000,
+            "date": "31 dic 2025"
+          },
+          {
+            "value": 689000,
+            "date": "1 ene 2026"
+          },
+          {
+            "value": 710000,
+            "date": "2 ene 2026"
+          },
+          {
+            "value": 731000,
+            "date": "3 ene 2026"
+          },
+          {
+            "value": 755000,
+            "date": "4 ene 2026"
+          },
+          {
+            "value": 766000,
+            "date": "5 ene 2026"
+          },
+          {
+            "value": 773000,
+            "date": "6 ene 2026"
+          },
+          {
+            "value": 718000,
+            "date": "7 ene 2026"
+          },
+          {
+            "value": 650000,
+            "date": "8 ene 2026"
+          },
+          {
+            "value": 585000,
+            "date": "9 ene 2026"
+          },
+          {
+            "value": 529000,
+            "date": "10 ene 2026"
+          },
+          {
+            "value": 479000,
+            "date": "11 ene 2026"
+          },
+          {
+            "value": 383000,
+            "date": "12 ene 2026"
+          },
+          {
+            "value": 309000,
+            "date": "13 ene 2026"
+          },
+          {
+            "value": 247000,
+            "date": "14 ene 2026"
+          },
+          {
+            "value": 160000,
+            "date": "15 ene 2026"
+          },
+          {
+            "value": 203000,
+            "date": "16 ene 2026"
+          },
+          {
+            "value": 160000,
+            "date": "17 ene 2026"
+          },
+          {
+            "value": 160000,
+            "date": "18 ene 2026"
+          },
+          {
+            "value": 160000,
+            "date": "19 ene 2026"
+          },
+          {
+            "value": 187000,
+            "date": "20 ene 2026"
+          },
+          {
+            "value": 160000,
+            "date": "21 ene 2026"
+          },
+          {
+            "value": 184000,
+            "date": "22 ene 2026"
+          },
+          {
+            "value": 177000,
+            "date": "23 ene 2026"
+          },
+          {
+            "value": 193000,
+            "date": "24 ene 2026"
+          },
+          {
+            "value": 178000,
+            "date": "25 ene 2026"
+          },
+          {
+            "value": 160000,
+            "date": "26 ene 2026"
+          },
+          {
+            "value": 181000,
+            "date": "27 ene 2026"
+          },
+          {
+            "value": 160000,
+            "date": "28 ene 2026"
+          },
+          {
+            "value": 160000,
+            "date": "29 ene 2026"
+          },
+          {
+            "value": 181000,
+            "date": "30 ene 2026"
+          },
+          {
+            "value": 160000,
+            "date": "31 ene 2026"
+          },
+          {
+            "value": 160000,
+            "date": "1 feb 2026"
+          },
+          {
+            "value": 160000,
+            "date": "2 feb 2026"
+          },
+          {
+            "value": 165000,
+            "date": "3 feb 2026"
+          },
+          {
+            "value": 169000,
+            "date": "4 feb 2026"
+          },
+          {
+            "value": 160000,
+            "date": "5 feb 2026"
+          },
+          {
+            "value": 160000,
+            "date": "6 feb 2026"
+          },
+          {
+            "value": 182000,
+            "date": "7 feb 2026"
+          },
+          {
+            "value": 182000,
+            "date": "8 feb 2026"
+          },
+          {
+            "value": 160000,
+            "date": "9 feb 2026"
+          },
+          {
+            "value": 160000,
+            "date": "10 feb 2026"
+          },
+          {
+            "value": 178000,
+            "date": "11 feb 2026"
+          },
+          {
+            "value": 210000,
+            "date": "12 feb 2026"
+          },
+          {
+            "value": 160000,
+            "date": "13 feb 2026"
+          },
+          {
+            "value": 160000,
+            "date": "14 feb 2026"
+          },
+          {
+            "value": 160000,
+            "date": "15 feb 2026"
+          },
+          {
+            "value": 167000,
+            "date": "16 feb 2026"
+          },
+          {
+            "value": 189000,
+            "date": "17 feb 2026"
+          },
+          {
+            "value": 160000,
+            "date": "18 feb 2026"
+          },
+          {
+            "value": 160000,
+            "date": "19 feb 2026"
+          },
+          {
+            "value": 160000,
+            "date": "20 feb 2026"
+          },
+          {
+            "value": 160000,
+            "date": "21 feb 2026"
+          },
+          {
+            "value": 170000,
+            "date": "22 feb 2026"
+          },
+          {
+            "value": 203000,
+            "date": "23 feb 2026"
+          },
+          {
+            "value": 160000,
+            "date": "24 feb 2026"
+          },
+          {
+            "value": 160000,
+            "date": "25 feb 2026"
+          },
+          {
+            "value": 160000,
+            "date": "26 feb 2026"
+          },
+          {
+            "value": 160000,
+            "date": "27 feb 2026"
+          },
+          {
+            "value": 179000,
+            "date": "28 feb 2026"
+          },
+          {
+            "value": 160000,
+            "date": "1 mar 2026"
+          },
+          {
+            "value": 166000,
+            "date": "2 mar 2026"
+          },
+          {
+            "value": 179000,
+            "date": "3 mar 2026"
+          },
+          {
+            "value": 167000,
+            "date": "4 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "5 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "6 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "7 mar 2026"
+          },
+          {
+            "value": 204000,
+            "date": "8 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "9 mar 2026"
+          },
+          {
+            "value": 199000,
+            "date": "10 mar 2026"
+          },
+          {
+            "value": 187000,
+            "date": "11 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "12 mar 2026"
+          },
+          {
+            "value": 187000,
+            "date": "13 mar 2026"
+          },
+          {
+            "value": 209000,
+            "date": "14 mar 2026"
+          },
+          {
+            "value": 166000,
+            "date": "15 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "16 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "17 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "18 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "19 mar 2026"
+          },
+          {
+            "value": 163000,
+            "date": "20 mar 2026"
+          },
+          {
+            "value": 207000,
+            "date": "21 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "22 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "23 mar 2026"
+          },
+          {
+            "value": 185000,
+            "date": "24 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "25 mar 2026"
+          },
+          {
+            "value": 172000,
+            "date": "26 mar 2026"
+          },
+          {
+            "value": 178000,
+            "date": "27 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "28 mar 2026"
+          },
+          {
+            "value": 167000,
+            "date": "29 mar 2026"
+          },
+          {
+            "value": 167000,
+            "date": "30 mar 2026"
+          },
+          {
+            "value": 184000,
+            "date": "31 mar 2026"
+          },
+          {
+            "value": 167000,
+            "date": "1 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "2 abr 2026"
+          },
+          {
+            "value": 196000,
+            "date": "3 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "4 abr 2026"
+          },
+          {
+            "value": 195000,
+            "date": "5 abr 2026"
+          },
+          {
+            "value": 175000,
+            "date": "6 abr 2026"
+          },
+          {
+            "value": 201000,
+            "date": "7 abr 2026"
+          },
+          {
+            "value": 174000,
+            "date": "8 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "9 abr 2026"
+          },
+          {
+            "value": 185000,
+            "date": "10 abr 2026"
+          },
+          {
+            "value": 186000,
+            "date": "11 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "12 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "13 abr 2026"
+          },
+          {
+            "value": 172000,
+            "date": "14 abr 2026"
+          },
+          {
+            "value": 192000,
+            "date": "15 abr 2026"
+          },
+          {
+            "value": 175000,
+            "date": "16 abr 2026"
+          },
+          {
+            "value": 186000,
+            "date": "17 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "18 abr 2026"
+          },
+          {
+            "value": 188000,
+            "date": "19 abr 2026"
+          },
+          {
+            "value": 175000,
+            "date": "20 abr 2026"
+          },
+          {
+            "value": 175000,
+            "date": "21 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "22 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "23 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "24 abr 2026"
+          },
+          {
+            "value": 186000,
+            "date": "25 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "26 abr 2026"
+          },
+          {
+            "value": 172000,
+            "date": "27 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "28 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "29 abr 2026"
+          },
+          {
+            "value": 180000,
+            "date": "30 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "1 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "2 may 2026"
+          },
+          {
+            "value": 197000,
+            "date": "3 may 2026"
+          },
+          {
+            "value": 196000,
+            "date": "4 may 2026"
+          },
+          {
+            "value": 178000,
+            "date": "5 may 2026"
+          },
+          {
+            "value": 203000,
+            "date": "6 may 2026"
+          },
+          {
+            "value": 204000,
+            "date": "7 may 2026"
+          },
+          {
+            "value": 207000,
+            "date": "8 may 2026"
+          },
+          {
+            "value": 164000,
+            "date": "9 may 2026"
+          },
+          {
+            "value": 201000,
+            "date": "10 may 2026"
+          },
+          {
+            "value": 184000,
+            "date": "11 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "12 may 2026"
+          },
+          {
+            "value": 186000,
+            "date": "13 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "14 may 2026"
+          },
+          {
+            "value": 210000,
+            "date": "15 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "16 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "17 may 2026"
+          },
+          {
+            "value": 192000,
+            "date": "18 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "19 may 2026"
+          },
+          {
+            "value": 208000,
+            "date": "20 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "21 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "22 may 2026"
+          },
+          {
+            "value": 174000,
+            "date": "23 may 2026"
+          },
+          {
+            "value": 172000,
+            "date": "24 may 2026"
+          },
+          {
+            "value": 161000,
+            "date": "25 may 2026"
+          },
+          {
+            "value": 187000,
+            "date": "26 may 2026"
+          },
+          {
+            "value": 167000,
+            "date": "27 may 2026"
+          },
+          {
+            "value": 198000,
+            "date": "28 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "29 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "30 may 2026"
+          },
+          {
+            "value": 210000,
+            "date": "31 may 2026"
+          },
+          {
+            "value": 168000,
+            "date": "1 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "2 jun 2026"
+          },
+          {
+            "value": 185000,
+            "date": "3 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "4 jun 2026"
+          },
+          {
+            "value": 197000,
+            "date": "5 jun 2026"
+          },
+          {
+            "value": 167000,
+            "date": "6 jun 2026"
+          },
+          {
+            "value": 182000,
+            "date": "7 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "8 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "9 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "10 jun 2026"
+          },
+          {
+            "value": 210000,
+            "date": "11 jun 2026"
+          },
+          {
+            "value": 168000,
+            "date": "12 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "13 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "14 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "15 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "16 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "17 jun 2026"
+          },
+          {
+            "value": 207000,
+            "date": "18 jun 2026"
+          },
+          {
+            "value": 166000,
+            "date": "19 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "20 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "21 jun 2026"
+          },
+          {
+            "value": 178000,
+            "date": "22 jun 2026"
+          },
+          {
+            "value": 200000,
+            "date": "23 jun 2026"
+          },
+          {
+            "value": 171000,
+            "date": "24 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "25 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "26 jun 2026"
+          },
+          {
+            "value": 175000,
+            "date": "27 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "28 jun 2026"
+          },
+          {
+            "value": 178000,
+            "date": "29 jun 2026"
+          },
+          {
+            "value": 182000,
+            "date": "30 jun 2026"
+          },
+          {
+            "value": 165000,
+            "date": "1 jul 2026"
+          },
+          {
+            "value": 206000,
+            "date": "2 jul 2026"
+          },
+          {
+            "value": 165000,
+            "date": "3 jul 2026"
+          },
+          {
+            "value": 169000,
+            "date": "4 jul 2026"
+          },
+          {
+            "value": 163000,
+            "date": "5 jul 2026"
+          },
+          {
+            "value": 160000,
+            "date": "6 jul 2026"
+          },
+          {
+            "value": 204000,
+            "date": "7 jul 2026"
+          },
+          {
+            "value": 213000,
+            "date": "8 jul 2026"
+          },
+          {
+            "value": 203000,
+            "date": "9 jul 2026"
+          },
+          {
+            "value": 176000,
+            "date": "10 jul 2026"
+          },
+          {
+            "value": 160000,
+            "date": "11 jul 2026"
+          },
+          {
+            "value": 168000,
+            "date": "12 jul 2026"
+          },
+          {
+            "value": 160000,
+            "date": "13 jul 2026"
+          },
+          {
+            "value": 167000,
+            "date": "14 jul 2026"
+          },
+          {
+            "value": 169000,
+            "date": "15 jul 2026"
+          },
+          {
+            "value": 165000,
+            "date": "16 jul 2026"
+          },
+          {
+            "value": 166000,
+            "date": "17 jul 2026"
+          },
+          {
+            "value": 195000,
+            "date": "18 jul 2026"
+          },
+          {
+            "value": 224000,
+            "date": "19 jul 2026"
+          },
+          {
+            "value": 261000,
+            "date": "20 jul 2026"
+          },
+          {
+            "value": 278000,
+            "date": "21 jul 2026"
+          },
+          {
+            "value": 297000,
+            "date": "22 jul 2026"
+          },
+          {
+            "value": 318000,
+            "date": "23 jul 2026"
+          },
+          {
+            "value": 335000,
+            "date": "24 jul 2026"
+          },
+          {
+            "value": 361000,
+            "date": "25 jul 2026"
+          },
+          {
+            "value": 392000,
+            "date": "26 jul 2026"
+          },
+          {
+            "value": 425000,
+            "date": "27 jul 2026"
+          },
+          {
+            "value": 466000,
+            "date": "28 jul 2026"
+          },
+          {
+            "value": 508000,
+            "date": "29 jul 2026"
+          }
+        ],
+        "max": {
+          "value": 5783000,
+          "date": "8 oct 2025"
+        },
+        "min": {
+          "value": 160000,
+          "date": "1 feb 2026"
+        }
+      },
+      "nextMatch": {
+        "place": "En casa",
+        "home": "Valencia",
+        "away": "Celta"
       },
       "injury": 0
     },
@@ -12921,6 +14511,57 @@
       },
       "injury": 0
     },
+    "48210": {
+      "id": "48210",
+      "name": "Jonathan Dubasin",
+      "position": 4,
+      "value": 883000,
+      "previousValue": 850000,
+      "points": 0,
+      "avg": 0,
+      "clause": {
+        "floor": 883000,
+        "multiplier": 1.5,
+        "value": 1324500,
+        "percentage": 50
+      },
+      "clausesRanking": 461,
+      "pointsHistory": [],
+      "values": [
+        {
+          "time": "Un día",
+          "value": 850000,
+          "change": 33000,
+          "sign": 33
+        }
+      ],
+      "valuesChart": {
+        "points": [
+          {
+            "value": 850000,
+            "date": "28 jul 2026"
+          },
+          {
+            "value": 883000,
+            "date": "29 jul 2026"
+          }
+        ],
+        "max": {
+          "value": 883000,
+          "date": "29 jul 2026"
+        },
+        "min": {
+          "value": 850000,
+          "date": "28 jul 2026"
+        }
+      },
+      "nextMatch": {
+        "place": "Fuera",
+        "home": "Celta",
+        "away": "Osasuna"
+      },
+      "injury": 0
+    },
     "49329": {
       "id": "49329",
       "name": "Pep Chavarría",
@@ -22233,17 +23874,17 @@
       "id": "59395",
       "name": "Pedro Díaz",
       "position": 3,
-      "value": 650000,
-      "previousValue": 621000,
+      "value": 683000,
+      "previousValue": 650000,
       "points": 0,
       "avg": 0,
       "clause": {
-        "floor": 666666.6666666666,
+        "floor": 683000,
         "multiplier": 1.5,
-        "value": 1000000,
+        "value": 1024500,
         "percentage": 50
       },
-      "clausesRanking": 189,
+      "clausesRanking": 166,
       "pointsHistory": [
         {
           "season": "25/26",
@@ -22265,35 +23906,31 @@
       "values": [
         {
           "time": "Un día",
-          "value": 621000,
-          "change": 29000,
-          "sign": 29
+          "value": 650000,
+          "change": 33000,
+          "sign": 33
         },
         {
           "time": "Una semana",
-          "value": 421000,
-          "change": 229000,
-          "sign": 229
+          "value": 446000,
+          "change": 237000,
+          "sign": 237
         },
         {
           "time": "Un mes",
           "value": 161000,
-          "change": 489000,
-          "sign": 489
+          "change": 522000,
+          "sign": 522
         },
         {
           "time": "Un año",
-          "value": 3617000,
-          "change": -2967000,
-          "sign": "-2.967.000"
+          "value": 3711000,
+          "change": -3028000,
+          "sign": "-3.028.000"
         }
       ],
       "valuesChart": {
         "points": [
-          {
-            "value": 3617000,
-            "date": "28 jul 2025"
-          },
           {
             "value": 3711000,
             "date": "29 jul 2025"
@@ -23753,6 +25390,10 @@
           {
             "value": 650000,
             "date": "28 jul 2026"
+          },
+          {
+            "value": 683000,
+            "date": "29 jul 2026"
           }
         ],
         "max": {
@@ -33969,6 +35610,806 @@
       },
       "injury": 0
     },
+    "68593": {
+      "id": "68593",
+      "name": "Lucas Cepeda",
+      "position": 4,
+      "value": 615000,
+      "previousValue": 585000,
+      "points": 0,
+      "avg": 0,
+      "clause": {
+        "floor": 666666.6666666666,
+        "multiplier": 1.5,
+        "value": 1000000,
+        "percentage": 50
+      },
+      "clausesRanking": 141,
+      "pointsHistory": [
+        {
+          "season": "25/26",
+          "points": 40,
+          "avg": 4,
+          "id_team": 23,
+          "last_gameweek": 37,
+          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/23.png?version="
+        }
+      ],
+      "values": [
+        {
+          "time": "Un día",
+          "value": 585000,
+          "change": 30000,
+          "sign": 30
+        },
+        {
+          "time": "Una semana",
+          "value": 362000,
+          "change": 253000,
+          "sign": 253
+        },
+        {
+          "time": "Un mes",
+          "value": 160000,
+          "change": 455000,
+          "sign": 455
+        }
+      ],
+      "valuesChart": {
+        "points": [
+          {
+            "value": 750000,
+            "date": "27 ene 2026"
+          },
+          {
+            "value": 752000,
+            "date": "28 ene 2026"
+          },
+          {
+            "value": 769000,
+            "date": "29 ene 2026"
+          },
+          {
+            "value": 782000,
+            "date": "30 ene 2026"
+          },
+          {
+            "value": 796000,
+            "date": "31 ene 2026"
+          },
+          {
+            "value": 797000,
+            "date": "1 feb 2026"
+          },
+          {
+            "value": 785000,
+            "date": "2 feb 2026"
+          },
+          {
+            "value": 755000,
+            "date": "3 feb 2026"
+          },
+          {
+            "value": 722000,
+            "date": "4 feb 2026"
+          },
+          {
+            "value": 695000,
+            "date": "5 feb 2026"
+          },
+          {
+            "value": 669000,
+            "date": "6 feb 2026"
+          },
+          {
+            "value": 629000,
+            "date": "7 feb 2026"
+          },
+          {
+            "value": 592000,
+            "date": "8 feb 2026"
+          },
+          {
+            "value": 543000,
+            "date": "9 feb 2026"
+          },
+          {
+            "value": 502000,
+            "date": "10 feb 2026"
+          },
+          {
+            "value": 471000,
+            "date": "11 feb 2026"
+          },
+          {
+            "value": 415000,
+            "date": "12 feb 2026"
+          },
+          {
+            "value": 379000,
+            "date": "13 feb 2026"
+          },
+          {
+            "value": 375000,
+            "date": "14 feb 2026"
+          },
+          {
+            "value": 347000,
+            "date": "15 feb 2026"
+          },
+          {
+            "value": 317000,
+            "date": "16 feb 2026"
+          },
+          {
+            "value": 300000,
+            "date": "17 feb 2026"
+          },
+          {
+            "value": 295000,
+            "date": "18 feb 2026"
+          },
+          {
+            "value": 301000,
+            "date": "19 feb 2026"
+          },
+          {
+            "value": 318000,
+            "date": "20 feb 2026"
+          },
+          {
+            "value": 331000,
+            "date": "21 feb 2026"
+          },
+          {
+            "value": 333000,
+            "date": "22 feb 2026"
+          },
+          {
+            "value": 328000,
+            "date": "23 feb 2026"
+          },
+          {
+            "value": 310000,
+            "date": "24 feb 2026"
+          },
+          {
+            "value": 306000,
+            "date": "25 feb 2026"
+          },
+          {
+            "value": 295000,
+            "date": "26 feb 2026"
+          },
+          {
+            "value": 303000,
+            "date": "27 feb 2026"
+          },
+          {
+            "value": 294000,
+            "date": "28 feb 2026"
+          },
+          {
+            "value": 271000,
+            "date": "1 mar 2026"
+          },
+          {
+            "value": 260000,
+            "date": "2 mar 2026"
+          },
+          {
+            "value": 231000,
+            "date": "3 mar 2026"
+          },
+          {
+            "value": 200000,
+            "date": "4 mar 2026"
+          },
+          {
+            "value": 163000,
+            "date": "5 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "6 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "7 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "8 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "9 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "10 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "11 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "12 mar 2026"
+          },
+          {
+            "value": 171000,
+            "date": "13 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "14 mar 2026"
+          },
+          {
+            "value": 206000,
+            "date": "15 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "16 mar 2026"
+          },
+          {
+            "value": 206000,
+            "date": "17 mar 2026"
+          },
+          {
+            "value": 169000,
+            "date": "18 mar 2026"
+          },
+          {
+            "value": 200000,
+            "date": "19 mar 2026"
+          },
+          {
+            "value": 175000,
+            "date": "20 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "21 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "22 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "23 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "24 mar 2026"
+          },
+          {
+            "value": 209000,
+            "date": "25 mar 2026"
+          },
+          {
+            "value": 186000,
+            "date": "26 mar 2026"
+          },
+          {
+            "value": 202000,
+            "date": "27 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "28 mar 2026"
+          },
+          {
+            "value": 198000,
+            "date": "29 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "30 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "31 mar 2026"
+          },
+          {
+            "value": 160000,
+            "date": "1 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "2 abr 2026"
+          },
+          {
+            "value": 203000,
+            "date": "3 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "4 abr 2026"
+          },
+          {
+            "value": 166000,
+            "date": "5 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "6 abr 2026"
+          },
+          {
+            "value": 197000,
+            "date": "7 abr 2026"
+          },
+          {
+            "value": 202000,
+            "date": "8 abr 2026"
+          },
+          {
+            "value": 167000,
+            "date": "9 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "10 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "11 abr 2026"
+          },
+          {
+            "value": 163000,
+            "date": "12 abr 2026"
+          },
+          {
+            "value": 168000,
+            "date": "13 abr 2026"
+          },
+          {
+            "value": 162000,
+            "date": "14 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "15 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "16 abr 2026"
+          },
+          {
+            "value": 161000,
+            "date": "17 abr 2026"
+          },
+          {
+            "value": 165000,
+            "date": "18 abr 2026"
+          },
+          {
+            "value": 165000,
+            "date": "19 abr 2026"
+          },
+          {
+            "value": 163000,
+            "date": "20 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "21 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "22 abr 2026"
+          },
+          {
+            "value": 174000,
+            "date": "23 abr 2026"
+          },
+          {
+            "value": 184000,
+            "date": "24 abr 2026"
+          },
+          {
+            "value": 180000,
+            "date": "25 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "26 abr 2026"
+          },
+          {
+            "value": 185000,
+            "date": "27 abr 2026"
+          },
+          {
+            "value": 167000,
+            "date": "28 abr 2026"
+          },
+          {
+            "value": 160000,
+            "date": "29 abr 2026"
+          },
+          {
+            "value": 161000,
+            "date": "30 abr 2026"
+          },
+          {
+            "value": 177000,
+            "date": "1 may 2026"
+          },
+          {
+            "value": 193000,
+            "date": "2 may 2026"
+          },
+          {
+            "value": 177000,
+            "date": "3 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "4 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "5 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "6 may 2026"
+          },
+          {
+            "value": 209000,
+            "date": "7 may 2026"
+          },
+          {
+            "value": 186000,
+            "date": "8 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "9 may 2026"
+          },
+          {
+            "value": 175000,
+            "date": "10 may 2026"
+          },
+          {
+            "value": 189000,
+            "date": "11 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "12 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "13 may 2026"
+          },
+          {
+            "value": 205000,
+            "date": "14 may 2026"
+          },
+          {
+            "value": 194000,
+            "date": "15 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "16 may 2026"
+          },
+          {
+            "value": 205000,
+            "date": "17 may 2026"
+          },
+          {
+            "value": 161000,
+            "date": "18 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "19 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "20 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "21 may 2026"
+          },
+          {
+            "value": 205000,
+            "date": "22 may 2026"
+          },
+          {
+            "value": 173000,
+            "date": "23 may 2026"
+          },
+          {
+            "value": 171000,
+            "date": "24 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "25 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "26 may 2026"
+          },
+          {
+            "value": 167000,
+            "date": "27 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "28 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "29 may 2026"
+          },
+          {
+            "value": 160000,
+            "date": "30 may 2026"
+          },
+          {
+            "value": 206000,
+            "date": "31 may 2026"
+          },
+          {
+            "value": 165000,
+            "date": "1 jun 2026"
+          },
+          {
+            "value": 173000,
+            "date": "2 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "3 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "4 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "5 jun 2026"
+          },
+          {
+            "value": 210000,
+            "date": "6 jun 2026"
+          },
+          {
+            "value": 168000,
+            "date": "7 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "8 jun 2026"
+          },
+          {
+            "value": 196000,
+            "date": "9 jun 2026"
+          },
+          {
+            "value": 178000,
+            "date": "10 jun 2026"
+          },
+          {
+            "value": 168000,
+            "date": "11 jun 2026"
+          },
+          {
+            "value": 200000,
+            "date": "12 jun 2026"
+          },
+          {
+            "value": 167000,
+            "date": "13 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "14 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "15 jun 2026"
+          },
+          {
+            "value": 187000,
+            "date": "16 jun 2026"
+          },
+          {
+            "value": 180000,
+            "date": "17 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "18 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "19 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "20 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "21 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "22 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "23 jun 2026"
+          },
+          {
+            "value": 175000,
+            "date": "24 jun 2026"
+          },
+          {
+            "value": 190000,
+            "date": "25 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "26 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "27 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "28 jun 2026"
+          },
+          {
+            "value": 160000,
+            "date": "29 jun 2026"
+          },
+          {
+            "value": 176000,
+            "date": "30 jun 2026"
+          },
+          {
+            "value": 193000,
+            "date": "1 jul 2026"
+          },
+          {
+            "value": 168000,
+            "date": "2 jul 2026"
+          },
+          {
+            "value": 160000,
+            "date": "3 jul 2026"
+          },
+          {
+            "value": 161000,
+            "date": "4 jul 2026"
+          },
+          {
+            "value": 177000,
+            "date": "5 jul 2026"
+          },
+          {
+            "value": 168000,
+            "date": "6 jul 2026"
+          },
+          {
+            "value": 161000,
+            "date": "7 jul 2026"
+          },
+          {
+            "value": 160000,
+            "date": "8 jul 2026"
+          },
+          {
+            "value": 160000,
+            "date": "9 jul 2026"
+          },
+          {
+            "value": 160000,
+            "date": "10 jul 2026"
+          },
+          {
+            "value": 160000,
+            "date": "11 jul 2026"
+          },
+          {
+            "value": 162000,
+            "date": "12 jul 2026"
+          },
+          {
+            "value": 161000,
+            "date": "13 jul 2026"
+          },
+          {
+            "value": 175000,
+            "date": "14 jul 2026"
+          },
+          {
+            "value": 185000,
+            "date": "15 jul 2026"
+          },
+          {
+            "value": 209000,
+            "date": "16 jul 2026"
+          },
+          {
+            "value": 240000,
+            "date": "17 jul 2026"
+          },
+          {
+            "value": 282000,
+            "date": "18 jul 2026"
+          },
+          {
+            "value": 299000,
+            "date": "19 jul 2026"
+          },
+          {
+            "value": 310000,
+            "date": "20 jul 2026"
+          },
+          {
+            "value": 337000,
+            "date": "21 jul 2026"
+          },
+          {
+            "value": 362000,
+            "date": "22 jul 2026"
+          },
+          {
+            "value": 396000,
+            "date": "23 jul 2026"
+          },
+          {
+            "value": 431000,
+            "date": "24 jul 2026"
+          },
+          {
+            "value": 478000,
+            "date": "25 jul 2026"
+          },
+          {
+            "value": 526000,
+            "date": "26 jul 2026"
+          },
+          {
+            "value": 555000,
+            "date": "27 jul 2026"
+          },
+          {
+            "value": 585000,
+            "date": "28 jul 2026"
+          },
+          {
+            "value": 615000,
+            "date": "29 jul 2026"
+          }
+        ],
+        "max": {
+          "value": 797000,
+          "date": "1 feb 2026"
+        },
+        "min": {
+          "value": 160000,
+          "date": "1 abr 2026"
+        }
+      },
+      "nextMatch": {
+        "place": "Fuera",
+        "home": "Deportivo da Coruña",
+        "away": "Elche"
+      },
+      "injury": 0
+    },
     "70638": {
       "id": "70638",
       "name": "Anthony Gordon",
@@ -35569,8 +38010,8 @@
       "id": "71007",
       "name": "Dani Sánchez",
       "position": 2,
-      "value": 218000,
-      "previousValue": 204000,
+      "value": 231000,
+      "previousValue": 227000,
       "points": 0,
       "avg": 0,
       "clause": {
@@ -35579,26 +38020,26 @@
         "value": 1000000,
         "percentage": 50
       },
-      "clausesRanking": 350,
+      "clausesRanking": 353,
       "pointsHistory": [],
       "values": [
         {
           "time": "Un día",
-          "value": 204000,
-          "change": 14000,
-          "sign": 14
+          "value": 227000,
+          "change": 4000,
+          "sign": 4
         },
         {
           "time": "Una semana",
-          "value": 160000,
-          "change": 58000,
-          "sign": 58
+          "value": 187000,
+          "change": 44000,
+          "sign": 44
         },
         {
           "time": "Un mes",
-          "value": 160000,
-          "change": 58000,
-          "sign": 58
+          "value": 190000,
+          "change": 41000,
+          "sign": 41
         }
       ],
       "valuesChart": {
@@ -35750,11 +38191,19 @@
           {
             "value": 218000,
             "date": "27 jul 2026"
+          },
+          {
+            "value": 227000,
+            "date": "28 jul 2026"
+          },
+          {
+            "value": 231000,
+            "date": "29 jul 2026"
           }
         ],
         "max": {
-          "value": 218000,
-          "date": "27 jul 2026"
+          "value": 231000,
+          "date": "29 jul 2026"
         },
         "min": {
           "value": 160000,
@@ -35788,30 +38237,30 @@
       "id": "71142",
       "name": "Aliou Dieng",
       "position": 3,
-      "value": 914000,
-      "previousValue": 878000,
+      "value": 950000,
+      "previousValue": 914000,
       "points": 0,
       "avg": 0,
       "clause": {
-        "floor": 914000,
+        "floor": 950000,
         "multiplier": 1.5,
-        "value": 1371000,
+        "value": 1425000,
         "percentage": 50
       },
-      "clausesRanking": 221,
+      "clausesRanking": 203,
       "pointsHistory": [],
       "values": [
         {
           "time": "Un día",
-          "value": 878000,
+          "value": 914000,
           "change": 36000,
           "sign": 36
         },
         {
           "time": "Una semana",
-          "value": 710000,
-          "change": 204000,
-          "sign": 204
+          "value": 732000,
+          "change": 218000,
+          "sign": 218
         }
       ],
       "valuesChart": {
@@ -35903,11 +38352,15 @@
           {
             "value": 914000,
             "date": "28 jul 2026"
+          },
+          {
+            "value": 950000,
+            "date": "29 jul 2026"
           }
         ],
         "max": {
-          "value": 914000,
-          "date": "28 jul 2026"
+          "value": 950000,
+          "date": "29 jul 2026"
         },
         "min": {
           "value": 588000,
@@ -36282,7 +38735,7 @@
       ]
     },
     "12902": {
-      "n": "R. de Tomás",
+      "n": "Raúl de Tomás",
       "s": [
         [
           "2026-07-27",
@@ -36331,7 +38784,7 @@
       ]
     },
     "13420": {
-      "n": "M. Diakhaby",
+      "n": "Mouctar Diakhaby",
       "s": [
         [
           "2026-07-28",
@@ -36380,7 +38833,7 @@
       ]
     },
     "15342": {
-      "n": "Ander Barrenetxea",
+      "n": "A. Barrenetxea",
       "s": [
         [
           "2026-07-27",
@@ -36722,7 +39175,7 @@
       ]
     },
     "27865": {
-      "n": "J. Areso",
+      "n": "Jesús Areso",
       "s": [
         [
           "2026-07-28",
@@ -36934,7 +39387,7 @@
       ]
     },
     "48210": {
-      "n": "J. Dubasin",
+      "n": "Jonathan Dubasin",
       "s": [
         [
           "2026-07-28",
@@ -37593,7 +40046,7 @@
       ]
     },
     "64364": {
-      "n": "F. Mastantuono",
+      "n": "Franco Mastantuono",
       "s": [
         [
           "2026-07-28",
@@ -37791,7 +40244,7 @@
       ]
     },
     "68593": {
-      "n": "L. Cepeda",
+      "n": "Lucas Cepeda",
       "s": [
         [
           "2026-07-29",
@@ -37909,7 +40362,7 @@
       ]
     },
     "70931": {
-      "n": "M. Gueye",
+      "n": "Maguette Gueye",
       "s": [
         [
           "2026-07-27",
@@ -38396,7 +40849,7 @@
       "toName": "manu"
     },
     "950573418": {
-      "ts": 1784896184208,
+      "ts": 1784899240390,
       "playerId": "19927",
       "playerName": "Raúl García de Haro",
       "price": 1050000,
@@ -38406,7 +40859,7 @@
       "toName": "escuriola"
     },
     "950602329": {
-      "ts": 1784982584208,
+      "ts": 1784985640390,
       "playerId": "19727",
       "playerName": "Rodrigo Riquelme",
       "price": 1000000,
@@ -38416,7 +40869,7 @@
       "toName": "antonio gomez"
     },
     "950722145": {
-      "ts": 1781267384207,
+      "ts": 1785155380390,
       "playerId": "70930",
       "playerName": "Gustavo Puerta",
       "price": 5148000,
@@ -38436,7 +40889,7 @@
       "toName": "jorgedihe "
     },
     "950724775": {
-      "ts": 1785159138348,
+      "ts": 1785162970848,
       "playerId": "70931",
       "playerName": "Maguette Gueye",
       "price": 1432500,
@@ -38446,7 +40899,7 @@
       "toName": "jose manuel"
     },
     "950794208": {
-      "ts": 1785254094246,
+      "ts": 1785252836318,
       "playerId": "63",
       "playerName": "Marc Bartra",
       "price": 1245000,
