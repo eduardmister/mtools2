@@ -1,7 +1,7 @@
 {
   "format": 2,
-  "generatedBy": "0.11.0",
-  "generatedAt": "2026-07-29T11:30:48.286Z",
+  "generatedBy": "0.14.0",
+  "generatedAt": "2026-07-29T15:18:05.098Z",
   "community": {
     "id": null,
     "name": null,
@@ -11181,8 +11181,8 @@
       "id": "35924",
       "name": "Jesús Owono",
       "position": 1,
-      "value": 180000,
-      "previousValue": 174000,
+      "value": 190000,
+      "previousValue": 180000,
       "points": 0,
       "avg": 0,
       "clause": {
@@ -11191,7 +11191,7 @@
         "value": 1000000,
         "percentage": 50
       },
-      "clausesRanking": 358,
+      "clausesRanking": 438,
       "pointsHistory": [
         {
           "season": "24/25",
@@ -11221,15 +11221,15 @@
       "values": [
         {
           "time": "Un día",
-          "value": 174000,
-          "change": 6000,
-          "sign": 6
+          "value": 180000,
+          "change": 10000,
+          "sign": 10
         },
         {
           "time": "Una semana",
-          "value": 198000,
-          "change": -18000,
-          "sign": -18
+          "value": 186000,
+          "change": 4000,
+          "sign": 4
         }
       ],
       "valuesChart": {
@@ -11341,6 +11341,10 @@
           {
             "value": 180000,
             "date": "28 jul 2026"
+          },
+          {
+            "value": 190000,
+            "date": "29 jul 2026"
           }
         ],
         "max": {
@@ -37046,6 +37050,10 @@
         [
           "2026-07-28",
           523000
+        ],
+        [
+          "2026-07-29",
+          548000
         ]
       ]
     },
@@ -37775,6 +37783,10 @@
         [
           "2026-07-28",
           547000
+        ],
+        [
+          "2026-07-29",
+          572000
         ]
       ]
     },
@@ -38442,6 +38454,48 @@
       "fromName": "raulgp3",
       "toId": "12714021",
       "toName": "escuriola"
+    }
+  },
+  "rivalBalances": {
+    "12713977": {
+      "saldo": -14371487,
+      "maxBid": 3983513,
+      "name": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
+    },
+    "12714005": {
+      "saldo": -8244632,
+      "maxBid": 6125868,
+      "name": "raulgp3"
+    },
+    "12714010": {
+      "saldo": -2039330,
+      "maxBid": 12760170,
+      "name": "Donbom"
+    },
+    "12714016": {
+      "saldo": -11711361,
+      "maxBid": 2034639,
+      "name": "Manu"
+    },
+    "12714021": {
+      "saldo": -3974680,
+      "maxBid": 7239820,
+      "name": "escuriola"
+    },
+    "12715076": {
+      "saldo": 12653880,
+      "maxBid": 25167880,
+      "name": "José Manuel"
+    },
+    "12717108": {
+      "saldo": -10628883,
+      "maxBid": 4166367,
+      "name": "Eduard"
+    },
+    "14515082": {
+      "saldo": 5622218,
+      "maxBid": 17973468,
+      "name": "Antonio Gómez"
     }
   }
 }
