@@ -11,10 +11,10 @@ const BASE = 'https://www.futbolfantasy.com/laliga/equipos/';
 // Descendidos (fuera): Oviedo, Levante, Elche.
 // OJO: los slugs de equipos nuevos deben verificarse en futbolfantasy.com/laliga/equipos/
 const EQUIPOS = [
-  'alaves','athletic','atletico','barcelona','betis','celta','deportivo','espanyol',
-  'getafe','girona','malaga','mallorca','osasuna','racing','rayo-vallecano','real-madrid',
-  'real-sociedad','sevilla','valencia','villarreal'
-];
+  'alaves','athletic','atletico','barcelona','betis','celta','deportivo','elche',
+  'espanyol','getafe','levante','malaga','osasuna','racing','rayo-vallecano',
+  'real-madrid','real-sociedad','sevilla','valencia','villarreal'
+]
 // Slugs alternativos a probar si el principal da 404 (equipos nuevos).
 const SLUG_ALTERNATIVAS = {
   'deportivo': ['deportivo','rc-deportivo','deportivo-la-coruna','dep'],
