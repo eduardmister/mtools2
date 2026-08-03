@@ -7,11 +7,20 @@ import * as cheerio from 'cheerio';
 import { writeFileSync } from 'fs';
 
 const BASE = 'https://www.futbolfantasy.com/laliga/equipos/';
+// Temporada 26/27. Ascendidos: Racing, Deportivo, Málaga.
+// Descendidos (fuera): Oviedo, Levante, Elche.
+// OJO: los slugs de equipos nuevos deben verificarse en futbolfantasy.com/laliga/equipos/
 const EQUIPOS = [
-  'alaves','athletic','atletico','barcelona','betis','celta','elche','espanyol',
-  'getafe','girona','levante','mallorca','osasuna','rayo-vallecano','real-madrid',
-  'real-oviedo','real-sociedad','sevilla','valencia','villarreal'
+  'alaves','athletic','atletico','barcelona','betis','celta','deportivo','espanyol',
+  'getafe','girona','malaga','mallorca','osasuna','racing','rayo-vallecano','real-madrid',
+  'real-sociedad','sevilla','valencia','villarreal'
 ];
+// Slugs alternativos a probar si el principal da 404 (equipos nuevos).
+const SLUG_ALTERNATIVAS = {
+  'deportivo': ['deportivo','rc-deportivo','deportivo-la-coruna','dep'],
+  'malaga': ['malaga','malaga-cf'],
+  'racing': ['racing','racing-santander','real-racing-club','racing-de-santander']
+};
 const UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36';
 const sleep = (ms) => new Promise(r => setTimeout(r, ms));
 
@@ -98,11 +107,24 @@ async function main() {
   }
 
   const jugadores = [];
+  const slugsUsados = {};
   for (const equipo of EQUIPOS) {
     try {
-      const res = await fetch(BASE + equipo, { headers: { 'User-Agent': UA } });
-      if (!res.ok) { console.error(equipo, res.status); continue; }
-      const parsed = parseEquipo(await res.text(), equipo);
+      // Probar el slug principal y, si falla, las alternativas conocidas.
+      const candidatos = SLUG_ALTERNATIVAS[equipo] || [equipo];
+      let res = null, slugOk = null, html = null;
+      for (const cand of candidatos) {
+        const r = await fetch(BASE + cand, { headers: { 'User-Agent': UA } });
+        if (r.ok) {
+          const txt = await r.text();
+          // Verificar que la página tiene jugadores (no es un 404 con 200)
+          if (txt.includes('elemento_jugador')) { res = r; slugOk = cand; html = txt; break; }
+        }
+        await sleep(400);
+      }
+      if (!res) { console.error(equipo, '-> NINGÚN slug válido de:', candidatos.join(',')); continue; }
+      slugsUsados[equipo] = slugOk;
+      const parsed = parseEquipo(html, equipo);
       // Cuántos con probabilidad válida (control de calidad)
       const conProb = parsed.filter(p => p.probabilidad != null && p.probabilidad <= 100).length;
       console.log(`${equipo}: ${parsed.length} jugadores (${conProb} con prob válida)`);
@@ -125,5 +147,7 @@ async function main() {
   };
   writeFileSync('externo.json', JSON.stringify(salida, null, 2));
   console.log('externo.json escrito.');
+  console.log('Slugs usados para equipos con alternativas:',
+    JSON.stringify(slugsUsados));
 }
 main();
