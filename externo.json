@@ -1,8 +1,8 @@
 {
   "format": 2,
   "fuente": "futbolfantasy",
-  "generatedAt": "2026-08-06T12:31:35.838Z",
-  "total": 510,
+  "generatedAt": "2026-08-07T09:37:08.852Z",
+  "total": 511,
   "porNombre": {
     "carles alena": {
       "slug": "carles-alena",
@@ -1677,7 +1677,7 @@
       "ffId": "5978",
       "nombreNorm": "ionut radu",
       "equipo": "celta",
-      "probabilidad": 95,
+      "probabilidad": 90,
       "estado": "Clave",
       "rival": "OSA",
       "local": null,
@@ -1900,6 +1900,18 @@
       "edad": 21,
       "lesionado": false
     },
+    "altay bayindir": {
+      "slug": "altay-bayindir",
+      "ffId": "9012",
+      "nombreNorm": "altay bayindir",
+      "equipo": "celta",
+      "probabilidad": 10,
+      "estado": null,
+      "rival": "OSA",
+      "local": null,
+      "edad": 28,
+      "lesionado": false
+    },
     "manu fernandez": {
       "slug": "manu-fernandez-1",
       "ffId": "16003",
@@ -1924,18 +1936,6 @@
       "edad": 33,
       "lesionado": false
     },
-    "ivan villar": {
-      "slug": "ivan-villar",
-      "ffId": "3255",
-      "nombreNorm": "ivan villar",
-      "equipo": "celta",
-      "probabilidad": 5,
-      "estado": "Reserva",
-      "rival": "OSA",
-      "local": null,
-      "edad": 29,
-      "lesionado": false
-    },
     "carles perez": {
       "slug": "carles-perez",
       "ffId": "6606",
@@ -1948,16 +1948,28 @@
       "edad": 28,
       "lesionado": false
     },
-    "unai nunez": {
-      "slug": "unai-nunez",
-      "ffId": "3785",
-      "nombreNorm": "unai nunez",
+    "ivan villar": {
+      "slug": "ivan-villar",
+      "ffId": "3255",
+      "nombreNorm": "ivan villar",
       "equipo": "celta",
       "probabilidad": 0,
-      "estado": "Descarte",
+      "estado": "Reserva",
       "rival": "OSA",
       "local": null,
       "edad": 29,
+      "lesionado": false
+    },
+    "lucas noubi": {
+      "slug": "lucas-noubi",
+      "ffId": "16099",
+      "nombreNorm": "lucas noubi",
+      "equipo": "deportivo",
+      "probabilidad": 80,
+      "estado": "Importante",
+      "rival": "ELC",
+      "local": null,
+      "edad": 21,
       "lesionado": false
     },
     "pierreemerick aubameyang": {
@@ -1996,16 +2008,16 @@
       "edad": 29,
       "lesionado": false
     },
-    "lucas noubi": {
-      "slug": "lucas-noubi",
-      "ffId": "16099",
-      "nombreNorm": "lucas noubi",
+    "ximo navarro": {
+      "slug": "ximo-navarro",
+      "ffId": "392",
+      "nombreNorm": "ximo navarro",
       "equipo": "deportivo",
-      "probabilidad": 80,
-      "estado": "Importante",
+      "probabilidad": 60,
+      "estado": "Rotación",
       "rival": "ELC",
       "local": null,
-      "edad": 21,
+      "edad": 36,
       "lesionado": false
     },
     "lorenzo amatucci": {
@@ -2020,40 +2032,28 @@
       "edad": 22,
       "lesionado": false
     },
-    "ximo navarro": {
-      "slug": "ximo-navarro",
-      "ffId": "392",
-      "nombreNorm": "ximo navarro",
+    "luismi cruz": {
+      "slug": "luismi-cruz",
+      "ffId": "9772",
+      "nombreNorm": "luismi cruz",
       "equipo": "deportivo",
-      "probabilidad": 60,
-      "estado": "Rotación",
+      "probabilidad": 70,
+      "estado": "Importante",
       "rival": "ELC",
       "local": null,
-      "edad": 36,
+      "edad": 25,
       "lesionado": false
     },
-    "giacomo quagliata": {
-      "slug": "giacomo-quagliata",
-      "ffId": "10473",
-      "nombreNorm": "giacomo quagliata",
+    "bil nsongo": {
+      "slug": "bil-nsongo",
+      "ffId": "16863",
+      "nombreNorm": "bil nsongo",
       "equipo": "deportivo",
       "probabilidad": 50,
       "estado": "Rotación",
       "rival": "ELC",
       "local": null,
-      "edad": 26,
-      "lesionado": false
-    },
-    "leo roman": {
-      "slug": "leo-roman",
-      "ffId": "9405",
-      "nombreNorm": "leo roman",
-      "equipo": "deportivo",
-      "probabilidad": 80,
-      "estado": "Importante",
-      "rival": "ELC",
-      "local": null,
-      "edad": 26,
+      "edad": 21,
       "lesionado": false
     },
     "adria altimira": {
@@ -2068,40 +2068,28 @@
       "edad": 25,
       "lesionado": false
     },
-    "yeremay hernandez": {
-      "slug": "yeremay-hernandez",
-      "ffId": "13974",
-      "nombreNorm": "yeremay hernandez",
+    "leo roman": {
+      "slug": "leo-roman",
+      "ffId": "9405",
+      "nombreNorm": "leo roman",
       "equipo": "deportivo",
-      "probabilidad": 60,
-      "estado": "Clave",
-      "rival": "ELC",
-      "local": null,
-      "edad": 23,
-      "lesionado": false
-    },
-    "luismi cruz": {
-      "slug": "luismi-cruz",
-      "ffId": "9772",
-      "nombreNorm": "luismi cruz",
-      "equipo": "deportivo",
-      "probabilidad": 50,
+      "probabilidad": 80,
       "estado": "Importante",
       "rival": "ELC",
       "local": null,
-      "edad": 25,
+      "edad": 26,
       "lesionado": false
     },
-    "jonathan asp jensen": {
-      "slug": "jonathan-asp-jensen",
-      "ffId": "15351",
-      "nombreNorm": "jonathan asp jensen",
+    "giacomo quagliata": {
+      "slug": "giacomo-quagliata",
+      "ffId": "10473",
+      "nombreNorm": "giacomo quagliata",
       "equipo": "deportivo",
       "probabilidad": 50,
       "estado": "Rotación",
       "rival": "ELC",
       "local": null,
-      "edad": 20,
+      "edad": 26,
       "lesionado": false
     },
     "diego villares": {
@@ -2128,16 +2116,16 @@
       "edad": 29,
       "lesionado": false
     },
-    "bil nsongo": {
-      "slug": "bil-nsongo",
-      "ffId": "16863",
-      "nombreNorm": "bil nsongo",
+    "yeremay hernandez": {
+      "slug": "yeremay-hernandez",
+      "ffId": "13974",
+      "nombreNorm": "yeremay hernandez",
       "equipo": "deportivo",
       "probabilidad": 50,
-      "estado": "Rotación",
+      "estado": "Clave",
       "rival": "ELC",
       "local": null,
-      "edad": 21,
+      "edad": 23,
       "lesionado": false
     },
     "bright ede": {
@@ -2150,6 +2138,18 @@
       "rival": "ELC",
       "local": null,
       "edad": 19,
+      "lesionado": false
+    },
+    "jonathan asp jensen": {
+      "slug": "jonathan-asp-jensen",
+      "ffId": "15351",
+      "nombreNorm": "jonathan asp jensen",
+      "equipo": "deportivo",
+      "probabilidad": 40,
+      "estado": "Rotación",
+      "rival": "ELC",
+      "local": null,
+      "edad": 20,
       "lesionado": false
     },
     "teun gijselhart": {
@@ -2548,6 +2548,18 @@
       "edad": 25,
       "lesionado": false
     },
+    "javi morcillo": {
+      "slug": "javi-morcillo",
+      "ffId": "17495",
+      "nombreNorm": "javi morcillo",
+      "equipo": "elche",
+      "probabilidad": 10,
+      "estado": null,
+      "rival": "DEP",
+      "local": false,
+      "edad": 20,
+      "lesionado": false
+    },
     "alejandro iturbe": {
       "slug": "alejandro-iturbe",
       "ffId": "9759",
@@ -2606,6 +2618,18 @@
       "rival": "DEP",
       "local": false,
       "edad": 22,
+      "lesionado": false
+    },
+    "quilindschy hartman": {
+      "slug": "quilindschy-hartman",
+      "ffId": "11467",
+      "nombreNorm": "quilindschy hartman",
+      "equipo": "espanyol",
+      "probabilidad": 70,
+      "estado": "Importante",
+      "rival": "LEV",
+      "local": null,
+      "edad": 24,
       "lesionado": false
     },
     "roberto fernandez": {
@@ -2685,7 +2709,7 @@
       "ffId": "16308",
       "nombreNorm": "clemens riedel",
       "equipo": "espanyol",
-      "probabilidad": 90,
+      "probabilidad": 60,
       "estado": "Importante",
       "rival": "LEV",
       "local": null,
@@ -2702,18 +2726,6 @@
       "rival": "LEV",
       "local": null,
       "edad": 35,
-      "lesionado": false
-    },
-    "quilindschy hartman": {
-      "slug": "quilindschy-hartman",
-      "ffId": "11467",
-      "nombreNorm": "quilindschy hartman",
-      "equipo": "espanyol",
-      "probabilidad": 70,
-      "estado": "Importante",
-      "rival": "LEV",
-      "local": null,
-      "edad": 24,
       "lesionado": false
     },
     "omar el hilali": {
@@ -2774,6 +2786,18 @@
       "rival": "LEV",
       "local": null,
       "edad": 26,
+      "lesionado": false
+    },
+    "unai nunez": {
+      "slug": "unai-nunez",
+      "ffId": "3785",
+      "nombreNorm": "unai nunez",
+      "equipo": "espanyol",
+      "probabilidad": 50,
+      "estado": "Rotación",
+      "rival": "LEV",
+      "local": null,
+      "edad": 29,
       "lesionado": false
     },
     "marcos fernandez": {
@@ -2884,6 +2908,18 @@
       "edad": 28,
       "lesionado": false
     },
+    "martin satriano": {
+      "slug": "martin-satriano",
+      "ffId": "8496",
+      "nombreNorm": "martin satriano",
+      "equipo": "getafe",
+      "probabilidad": 90,
+      "estado": "Clave",
+      "rival": "ALA",
+      "local": false,
+      "edad": 25,
+      "lesionado": false
+    },
     "mario martin": {
       "slug": "mario-martin",
       "ffId": "11202",
@@ -2894,90 +2930,6 @@
       "rival": "ALA",
       "local": false,
       "edad": 22,
-      "lesionado": false
-    },
-    "kiko femenia": {
-      "slug": "kiko-femenia",
-      "ffId": "3178",
-      "nombreNorm": "kiko femenia",
-      "equipo": "getafe",
-      "probabilidad": 60,
-      "estado": "Rotación",
-      "rival": "ALA",
-      "local": false,
-      "edad": 35,
-      "lesionado": false
-    },
-    "abdel abqar": {
-      "slug": "abdel-abqar",
-      "ffId": "5083",
-      "nombreNorm": "abdel abqar",
-      "equipo": "getafe",
-      "probabilidad": 70,
-      "estado": "Rotación",
-      "rival": "ALA",
-      "local": false,
-      "edad": 27,
-      "lesionado": false
-    },
-    "zaid romero": {
-      "slug": "zaid-romero",
-      "ffId": "14210",
-      "nombreNorm": "zaid romero",
-      "equipo": "getafe",
-      "probabilidad": 90,
-      "estado": "Clave",
-      "rival": "ALA",
-      "local": false,
-      "edad": 26,
-      "lesionado": false
-    },
-    "sebastian boselli": {
-      "slug": "sebastian-boselli",
-      "ffId": "17161",
-      "nombreNorm": "sebastian boselli",
-      "equipo": "getafe",
-      "probabilidad": 60,
-      "estado": "Rotación",
-      "rival": "ALA",
-      "local": false,
-      "edad": 22,
-      "lesionado": false
-    },
-    "davinchi": {
-      "slug": "davinchi",
-      "ffId": "16004",
-      "nombreNorm": "davinchi",
-      "equipo": "getafe",
-      "probabilidad": 80,
-      "estado": "Importante",
-      "rival": "ALA",
-      "local": false,
-      "edad": 18,
-      "lesionado": false
-    },
-    "dakonam djene": {
-      "slug": "dakonam-djene",
-      "ffId": "3881",
-      "nombreNorm": "dakonam djene",
-      "equipo": "getafe",
-      "probabilidad": 90,
-      "estado": "Clave",
-      "rival": "ALA",
-      "local": false,
-      "edad": 34,
-      "lesionado": false
-    },
-    "ramon terrats": {
-      "slug": "terrats",
-      "ffId": "8944",
-      "nombreNorm": "ramon terrats",
-      "equipo": "getafe",
-      "probabilidad": 80,
-      "estado": "Importante",
-      "rival": "ALA",
-      "local": false,
-      "edad": 25,
       "lesionado": false
     },
     "david soria": {
@@ -2992,28 +2944,88 @@
       "edad": 33,
       "lesionado": false
     },
-    "christantus uche": {
-      "slug": "chrisantus-uche",
-      "ffId": "13780",
-      "nombreNorm": "christantus uche",
+    "ramon terrats": {
+      "slug": "terrats",
+      "ffId": "8944",
+      "nombreNorm": "ramon terrats",
       "equipo": "getafe",
-      "probabilidad": 70,
+      "probabilidad": 80,
       "estado": "Importante",
       "rival": "ALA",
       "local": false,
-      "edad": 23,
+      "edad": 25,
       "lesionado": false
     },
-    "martin satriano": {
-      "slug": "martin-satriano",
-      "ffId": "8496",
-      "nombreNorm": "martin satriano",
+    "dakonam djene": {
+      "slug": "dakonam-djene",
+      "ffId": "3881",
+      "nombreNorm": "dakonam djene",
       "equipo": "getafe",
       "probabilidad": 90,
       "estado": "Clave",
       "rival": "ALA",
       "local": false,
-      "edad": 25,
+      "edad": 34,
+      "lesionado": false
+    },
+    "davinchi": {
+      "slug": "davinchi",
+      "ffId": "16004",
+      "nombreNorm": "davinchi",
+      "equipo": "getafe",
+      "probabilidad": 80,
+      "estado": "Importante",
+      "rival": "ALA",
+      "local": false,
+      "edad": 18,
+      "lesionado": false
+    },
+    "sebastian boselli": {
+      "slug": "sebastian-boselli",
+      "ffId": "17161",
+      "nombreNorm": "sebastian boselli",
+      "equipo": "getafe",
+      "probabilidad": 70,
+      "estado": "Rotación",
+      "rival": "ALA",
+      "local": false,
+      "edad": 22,
+      "lesionado": false
+    },
+    "zaid romero": {
+      "slug": "zaid-romero",
+      "ffId": "14210",
+      "nombreNorm": "zaid romero",
+      "equipo": "getafe",
+      "probabilidad": 90,
+      "estado": "Clave",
+      "rival": "ALA",
+      "local": false,
+      "edad": 26,
+      "lesionado": false
+    },
+    "abdel abqar": {
+      "slug": "abdel-abqar",
+      "ffId": "5083",
+      "nombreNorm": "abdel abqar",
+      "equipo": "getafe",
+      "probabilidad": 70,
+      "estado": "Rotación",
+      "rival": "ALA",
+      "local": false,
+      "edad": 27,
+      "lesionado": false
+    },
+    "kiko femenia": {
+      "slug": "kiko-femenia",
+      "ffId": "3178",
+      "nombreNorm": "kiko femenia",
+      "equipo": "getafe",
+      "probabilidad": 50,
+      "estado": "Rotación",
+      "rival": "ALA",
+      "local": false,
+      "edad": 35,
       "lesionado": false
     },
     "andres garcia": {
@@ -3021,11 +3033,23 @@
       "ffId": "11916",
       "nombreNorm": "andres garcia",
       "equipo": "getafe",
-      "probabilidad": 50,
+      "probabilidad": 70,
       "estado": "Rotación",
       "rival": "ALA",
       "local": false,
       "edad": 23,
+      "lesionado": false
+    },
+    "borja mayoral": {
+      "slug": "borja-mayoral",
+      "ffId": "1989",
+      "nombreNorm": "borja mayoral",
+      "equipo": "getafe",
+      "probabilidad": 40,
+      "estado": "Revulsivo",
+      "rival": "ALA",
+      "local": false,
+      "edad": 29,
       "lesionado": false
     },
     "saba sazonov": {
@@ -3040,16 +3064,16 @@
       "edad": 24,
       "lesionado": false
     },
-    "borja mayoral": {
-      "slug": "borja-mayoral",
-      "ffId": "1989",
-      "nombreNorm": "borja mayoral",
+    "christantus uche": {
+      "slug": "chrisantus-uche",
+      "ffId": "13780",
+      "nombreNorm": "christantus uche",
       "equipo": "getafe",
       "probabilidad": 30,
-      "estado": "Revulsivo",
+      "estado": "Importante",
       "rival": "ALA",
       "local": false,
-      "edad": 29,
+      "edad": 23,
       "lesionado": false
     },
     "juan berrocal": {
@@ -3148,112 +3172,16 @@
       "edad": 33,
       "lesionado": false
     },
-    "jon ander olasagasti": {
-      "slug": "jon-ander-olasagasti",
-      "ffId": "8961",
-      "nombreNorm": "jon ander olasagasti",
-      "equipo": "levante",
-      "probabilidad": 80,
-      "estado": "Clave",
-      "rival": "ESP",
-      "local": false,
-      "edad": 25,
-      "lesionado": false
-    },
-    "carlos alvarez": {
-      "slug": "carlos-lvarez",
-      "ffId": "8646",
-      "nombreNorm": "carlos alvarez",
-      "equipo": "levante",
-      "probabilidad": 60,
-      "estado": "Importante",
-      "rival": "ESP",
-      "local": false,
-      "edad": 23,
-      "lesionado": false
-    },
-    "jeremy toljan": {
-      "slug": "jeremy-toljan",
-      "ffId": "4976",
-      "nombreNorm": "jeremy toljan",
-      "equipo": "levante",
-      "probabilidad": 80,
-      "estado": "Clave",
-      "rival": "ESP",
-      "local": false,
-      "edad": 31,
-      "lesionado": false
-    },
-    "adrian de la fuente": {
-      "slug": "adrian-de-la-fuente",
-      "ffId": "6346",
-      "nombreNorm": "adrian de la fuente",
-      "equipo": "levante",
-      "probabilidad": 90,
-      "estado": "Clave",
-      "rival": "ESP",
-      "local": false,
-      "edad": 27,
-      "lesionado": false
-    },
-    "aissa mandi": {
-      "slug": "aissa-mandi",
-      "ffId": "1566",
-      "nombreNorm": "aissa mandi",
-      "equipo": "levante",
-      "probabilidad": 80,
-      "estado": "Clave",
-      "rival": "ESP",
-      "local": false,
-      "edad": 34,
-      "lesionado": false
-    },
-    "manu sanchez": {
-      "slug": "manu-sanchez",
-      "ffId": "6605",
-      "nombreNorm": "manu sanchez",
-      "equipo": "levante",
-      "probabilidad": 80,
-      "estado": "Importante",
-      "rival": "ESP",
-      "local": false,
-      "edad": 25,
-      "lesionado": false
-    },
-    "hugo sotelo": {
-      "slug": "hugo-sotelo",
-      "ffId": "8988",
-      "nombreNorm": "hugo sotelo",
-      "equipo": "levante",
-      "probabilidad": 50,
-      "estado": "Rotación",
-      "rival": "ESP",
-      "local": false,
-      "edad": 22,
-      "lesionado": false
-    },
-    "mathew ryan": {
-      "slug": "mat-ryan",
-      "ffId": "1743",
-      "nombreNorm": "mathew ryan",
-      "equipo": "levante",
-      "probabilidad": 90,
-      "estado": "Clave",
-      "rival": "ESP",
-      "local": false,
-      "edad": 34,
-      "lesionado": false
-    },
-    "kareem tunde": {
-      "slug": "kareem-tunde",
-      "ffId": "16022",
-      "nombreNorm": "kareem tunde",
+    "karl etta eyong": {
+      "slug": "etta-eyong",
+      "ffId": "10326",
+      "nombreNorm": "karl etta eyong",
       "equipo": "levante",
       "probabilidad": 70,
       "estado": "Importante",
       "rival": "ESP",
       "local": false,
-      "edad": 20,
+      "edad": 22,
       "lesionado": false
     },
     "ivan romero": {
@@ -3268,16 +3196,112 @@
       "edad": 25,
       "lesionado": false
     },
-    "karl etta eyong": {
-      "slug": "etta-eyong",
-      "ffId": "10326",
-      "nombreNorm": "karl etta eyong",
+    "kareem tunde": {
+      "slug": "kareem-tunde",
+      "ffId": "16022",
+      "nombreNorm": "kareem tunde",
       "equipo": "levante",
-      "probabilidad": 90,
+      "probabilidad": 70,
       "estado": "Importante",
       "rival": "ESP",
       "local": false,
+      "edad": 20,
+      "lesionado": false
+    },
+    "mathew ryan": {
+      "slug": "mat-ryan",
+      "ffId": "1743",
+      "nombreNorm": "mathew ryan",
+      "equipo": "levante",
+      "probabilidad": 90,
+      "estado": "Clave",
+      "rival": "ESP",
+      "local": false,
+      "edad": 34,
+      "lesionado": false
+    },
+    "hugo sotelo": {
+      "slug": "hugo-sotelo",
+      "ffId": "8988",
+      "nombreNorm": "hugo sotelo",
+      "equipo": "levante",
+      "probabilidad": 50,
+      "estado": "Rotación",
+      "rival": "ESP",
+      "local": false,
       "edad": 22,
+      "lesionado": false
+    },
+    "manu sanchez": {
+      "slug": "manu-sanchez",
+      "ffId": "6605",
+      "nombreNorm": "manu sanchez",
+      "equipo": "levante",
+      "probabilidad": 80,
+      "estado": "Importante",
+      "rival": "ESP",
+      "local": false,
+      "edad": 25,
+      "lesionado": false
+    },
+    "jon ander olasagasti": {
+      "slug": "jon-ander-olasagasti",
+      "ffId": "8961",
+      "nombreNorm": "jon ander olasagasti",
+      "equipo": "levante",
+      "probabilidad": 80,
+      "estado": "Clave",
+      "rival": "ESP",
+      "local": false,
+      "edad": 25,
+      "lesionado": false
+    },
+    "aissa mandi": {
+      "slug": "aissa-mandi",
+      "ffId": "1566",
+      "nombreNorm": "aissa mandi",
+      "equipo": "levante",
+      "probabilidad": 80,
+      "estado": "Clave",
+      "rival": "ESP",
+      "local": false,
+      "edad": 34,
+      "lesionado": false
+    },
+    "adrian de la fuente": {
+      "slug": "adrian-de-la-fuente",
+      "ffId": "6346",
+      "nombreNorm": "adrian de la fuente",
+      "equipo": "levante",
+      "probabilidad": 90,
+      "estado": "Clave",
+      "rival": "ESP",
+      "local": false,
+      "edad": 27,
+      "lesionado": false
+    },
+    "jeremy toljan": {
+      "slug": "jeremy-toljan",
+      "ffId": "4976",
+      "nombreNorm": "jeremy toljan",
+      "equipo": "levante",
+      "probabilidad": 80,
+      "estado": "Clave",
+      "rival": "ESP",
+      "local": false,
+      "edad": 31,
+      "lesionado": false
+    },
+    "carlos alvarez": {
+      "slug": "carlos-lvarez",
+      "ffId": "8646",
+      "nombreNorm": "carlos alvarez",
+      "equipo": "levante",
+      "probabilidad": 60,
+      "estado": "Importante",
+      "rival": "ESP",
+      "local": false,
+      "edad": 23,
       "lesionado": false
     },
     "enzo bardelli": {
@@ -4516,6 +4540,66 @@
       "edad": 29,
       "lesionado": false
     },
+    "jude bellingham": {
+      "slug": "jude-bellingham",
+      "ffId": "8386",
+      "nombreNorm": "jude bellingham",
+      "equipo": "real-madrid",
+      "probabilidad": 70,
+      "estado": "Clave",
+      "rival": "ESP",
+      "local": false,
+      "edad": 23,
+      "lesionado": false
+    },
+    "thibaut courtois": {
+      "slug": "thibaut-courtois",
+      "ffId": "59",
+      "nombreNorm": "thibaut courtois",
+      "equipo": "real-madrid",
+      "probabilidad": 70,
+      "estado": "Clave",
+      "rival": "ESP",
+      "local": false,
+      "edad": 34,
+      "lesionado": false
+    },
+    "kylian mbappe": {
+      "slug": "kylian-mbappe",
+      "ffId": "3429",
+      "nombreNorm": "kylian mbappe",
+      "equipo": "real-madrid",
+      "probabilidad": 70,
+      "estado": "Dios",
+      "rival": "ESP",
+      "local": false,
+      "edad": 27,
+      "lesionado": false
+    },
+    "vinicius junior": {
+      "slug": "vinicius-junior",
+      "ffId": "5565",
+      "nombreNorm": "vinicius junior",
+      "equipo": "real-madrid",
+      "probabilidad": 90,
+      "estado": "Clave",
+      "rival": "ESP",
+      "local": false,
+      "edad": 26,
+      "lesionado": false
+    },
+    "yan diomande": {
+      "slug": "yan-diomande",
+      "ffId": "15342",
+      "nombreNorm": "yan diomande",
+      "equipo": "real-madrid",
+      "probabilidad": 50,
+      "estado": "Rotación",
+      "rival": "ESP",
+      "local": false,
+      "edad": 19,
+      "lesionado": false
+    },
     "aurelien tchouameni": {
       "slug": "aurelien-tchouameni",
       "ffId": "9669",
@@ -4526,6 +4610,30 @@
       "rival": "ESP",
       "local": false,
       "edad": 26,
+      "lesionado": false
+    },
+    "federico valverde": {
+      "slug": "federico-valverde",
+      "ffId": "3758",
+      "nombreNorm": "federico valverde",
+      "equipo": "real-madrid",
+      "probabilidad": 90,
+      "estado": "Clave",
+      "rival": "ESP",
+      "local": false,
+      "edad": 28,
+      "lesionado": false
+    },
+    "marc cucurella": {
+      "slug": "marc-cucurella",
+      "ffId": "5013",
+      "nombreNorm": "marc cucurella",
+      "equipo": "real-madrid",
+      "probabilidad": 70,
+      "estado": "Clave",
+      "rival": "ESP",
+      "local": false,
+      "edad": 28,
       "lesionado": false
     },
     "trent alexanderarnold": {
@@ -4564,90 +4672,6 @@
       "edad": 21,
       "lesionado": false
     },
-    "marc cucurella": {
-      "slug": "marc-cucurella",
-      "ffId": "5013",
-      "nombreNorm": "marc cucurella",
-      "equipo": "real-madrid",
-      "probabilidad": 80,
-      "estado": "Clave",
-      "rival": "ESP",
-      "local": false,
-      "edad": 28,
-      "lesionado": false
-    },
-    "federico valverde": {
-      "slug": "federico-valverde",
-      "ffId": "3758",
-      "nombreNorm": "federico valverde",
-      "equipo": "real-madrid",
-      "probabilidad": 80,
-      "estado": "Clave",
-      "rival": "ESP",
-      "local": false,
-      "edad": 28,
-      "lesionado": false
-    },
-    "jude bellingham": {
-      "slug": "jude-bellingham",
-      "ffId": "8386",
-      "nombreNorm": "jude bellingham",
-      "equipo": "real-madrid",
-      "probabilidad": 90,
-      "estado": "Clave",
-      "rival": "ESP",
-      "local": false,
-      "edad": 23,
-      "lesionado": false
-    },
-    "arda guler": {
-      "slug": "arda-gler",
-      "ffId": "11439",
-      "nombreNorm": "arda guler",
-      "equipo": "real-madrid",
-      "probabilidad": 50,
-      "estado": "Importante",
-      "rival": "ESP",
-      "local": false,
-      "edad": 21,
-      "lesionado": false
-    },
-    "vinicius junior": {
-      "slug": "vinicius-junior",
-      "ffId": "5565",
-      "nombreNorm": "vinicius junior",
-      "equipo": "real-madrid",
-      "probabilidad": 90,
-      "estado": "Clave",
-      "rival": "ESP",
-      "local": false,
-      "edad": 26,
-      "lesionado": false
-    },
-    "kylian mbappe": {
-      "slug": "kylian-mbappe",
-      "ffId": "3429",
-      "nombreNorm": "kylian mbappe",
-      "equipo": "real-madrid",
-      "probabilidad": 90,
-      "estado": "Dios",
-      "rival": "ESP",
-      "local": false,
-      "edad": 27,
-      "lesionado": false
-    },
-    "thibaut courtois": {
-      "slug": "thibaut-courtois",
-      "ffId": "59",
-      "nombreNorm": "thibaut courtois",
-      "equipo": "real-madrid",
-      "probabilidad": 70,
-      "estado": "Clave",
-      "rival": "ESP",
-      "local": false,
-      "edad": 34,
-      "lesionado": false
-    },
     "antonio rudiger": {
       "slug": "antonio-rudiger",
       "ffId": "2536",
@@ -4684,16 +4708,40 @@
       "edad": 31,
       "lesionado": false
     },
+    "arda guler": {
+      "slug": "arda-gler",
+      "ffId": "11439",
+      "nombreNorm": "arda guler",
+      "equipo": "real-madrid",
+      "probabilidad": 50,
+      "estado": "Rotación",
+      "rival": "ESP",
+      "local": false,
+      "edad": 21,
+      "lesionado": false
+    },
     "eduardo camavinga": {
       "slug": "eduardo-camavinga",
       "ffId": "8479",
       "nombreNorm": "eduardo camavinga",
       "equipo": "real-madrid",
-      "probabilidad": 30,
+      "probabilidad": 40,
       "estado": "Rotación",
       "rival": "ESP",
       "local": false,
       "edad": 23,
+      "lesionado": false
+    },
+    "carlos espi": {
+      "slug": "carlos-espi",
+      "ffId": "12870",
+      "nombreNorm": "carlos espi",
+      "equipo": "real-madrid",
+      "probabilidad": 30,
+      "estado": "Revulsivo",
+      "rival": "ESP",
+      "local": false,
+      "edad": 21,
       "lesionado": false
     },
     "brahim diaz": {
@@ -4702,10 +4750,22 @@
       "nombreNorm": "brahim diaz",
       "equipo": "real-madrid",
       "probabilidad": 30,
-      "estado": "Rotación",
+      "estado": "Revulsivo",
       "rival": "ESP",
       "local": false,
       "edad": 27,
+      "lesionado": false
+    },
+    "alvaro f carreras": {
+      "slug": "lvaro-fernandez-1",
+      "ffId": "10176",
+      "nombreNorm": "alvaro f carreras",
+      "equipo": "real-madrid",
+      "probabilidad": 30,
+      "estado": "Rotación",
+      "rival": "ESP",
+      "local": false,
+      "edad": 23,
       "lesionado": false
     },
     "andriy lunin": {
@@ -4720,52 +4780,28 @@
       "edad": 27,
       "lesionado": false
     },
-    "franco mastantuono": {
-      "slug": "franco-mastantuono",
-      "ffId": "15437",
-      "nombreNorm": "franco mastantuono",
-      "equipo": "real-madrid",
-      "probabilidad": 20,
-      "estado": "Revulsivo",
-      "rival": "ESP",
-      "local": false,
-      "edad": 18,
-      "lesionado": false
-    },
-    "alvaro f carreras": {
-      "slug": "lvaro-fernandez-1",
-      "ffId": "10176",
-      "nombreNorm": "alvaro f carreras",
-      "equipo": "real-madrid",
-      "probabilidad": 20,
-      "estado": "Rotación",
-      "rival": "ESP",
-      "local": false,
-      "edad": 23,
-      "lesionado": false
-    },
-    "carlos espi": {
-      "slug": "carlos-espi",
-      "ffId": "12870",
-      "nombreNorm": "carlos espi",
-      "equipo": "real-madrid",
-      "probabilidad": 10,
-      "estado": "Revulsivo",
-      "rival": "ESP",
-      "local": false,
-      "edad": 21,
-      "lesionado": false
-    },
     "endrick": {
       "slug": "endrick",
       "ffId": "13564",
       "nombreNorm": "endrick",
       "equipo": "real-madrid",
       "probabilidad": 10,
-      "estado": "Reserva",
+      "estado": "Revulsivo",
       "rival": "ESP",
       "local": false,
       "edad": 20,
+      "lesionado": false
+    },
+    "franco mastantuono": {
+      "slug": "franco-mastantuono",
+      "ffId": "15437",
+      "nombreNorm": "franco mastantuono",
+      "equipo": "real-madrid",
+      "probabilidad": 0,
+      "estado": "Descarte",
+      "rival": "ESP",
+      "local": false,
+      "edad": 18,
       "lesionado": false
     },
     "ferland mendy": {
@@ -5176,6 +5212,66 @@
       "edad": 30,
       "lesionado": false
     },
+    "gabriel suazo": {
+      "slug": "gabriel-suazo",
+      "ffId": "12358",
+      "nombreNorm": "gabriel suazo",
+      "equipo": "sevilla",
+      "probabilidad": 60,
+      "estado": "Importante",
+      "rival": "RAY",
+      "local": null,
+      "edad": 28,
+      "lesionado": false
+    },
+    "ruben vargas": {
+      "slug": "ruben-vargas",
+      "ffId": "9125",
+      "nombreNorm": "ruben vargas",
+      "equipo": "sevilla",
+      "probabilidad": 70,
+      "estado": "Clave",
+      "rival": "RAY",
+      "local": null,
+      "edad": 28,
+      "lesionado": false
+    },
+    "lucien agoume": {
+      "slug": "lucien-agoume",
+      "ffId": "7249",
+      "nombreNorm": "lucien agoume",
+      "equipo": "sevilla",
+      "probabilidad": 80,
+      "estado": "Clave",
+      "rival": "RAY",
+      "local": null,
+      "edad": 24,
+      "lesionado": false
+    },
+    "arouna sangante": {
+      "slug": "arouna-sangante",
+      "ffId": "18014",
+      "nombreNorm": "arouna sangante",
+      "equipo": "sevilla",
+      "probabilidad": 50,
+      "estado": "Rotación",
+      "rival": "RAY",
+      "local": null,
+      "edad": 24,
+      "lesionado": false
+    },
+    "odysseas vlachodimos": {
+      "slug": "odysseas-vlachodimos",
+      "ffId": "6235",
+      "nombreNorm": "odysseas vlachodimos",
+      "equipo": "sevilla",
+      "probabilidad": 90,
+      "estado": "Clave",
+      "rival": "RAY",
+      "local": null,
+      "edad": 32,
+      "lesionado": false
+    },
     "kike salas": {
       "slug": "kike-salas",
       "ffId": "9931",
@@ -5194,10 +5290,34 @@
       "nombreNorm": "jon guridi",
       "equipo": "sevilla",
       "probabilidad": 70,
-      "estado": "Rotación",
+      "estado": "Importante",
       "rival": "RAY",
       "local": null,
       "edad": 31,
+      "lesionado": false
+    },
+    "juan iglesias": {
+      "slug": "juan-iglesias",
+      "ffId": "8686",
+      "nombreNorm": "juan iglesias",
+      "equipo": "sevilla",
+      "probabilidad": 60,
+      "estado": "Importante",
+      "rival": "RAY",
+      "local": null,
+      "edad": 28,
+      "lesionado": false
+    },
+    "nico guillen": {
+      "slug": "nico-guillen",
+      "ffId": "13865",
+      "nombreNorm": "nico guillen",
+      "equipo": "sevilla",
+      "probabilidad": 50,
+      "estado": "Revulsivo",
+      "rival": "RAY",
+      "local": null,
+      "edad": null,
       "lesionado": false
     },
     "isaac romero": {
@@ -5212,100 +5332,28 @@
       "edad": 26,
       "lesionado": false
     },
-    "odysseas vlachodimos": {
-      "slug": "odysseas-vlachodimos",
-      "ffId": "6235",
-      "nombreNorm": "odysseas vlachodimos",
-      "equipo": "sevilla",
-      "probabilidad": 95,
-      "estado": "Clave",
-      "rival": "RAY",
-      "local": null,
-      "edad": 32,
-      "lesionado": false
-    },
     "miguel sierra": {
       "slug": "miguel-sierra",
       "ffId": "16236",
       "nombreNorm": "miguel sierra",
       "equipo": "sevilla",
       "probabilidad": 50,
-      "estado": null,
+      "estado": "Revulsivo",
       "rival": "RAY",
       "local": null,
       "edad": null,
       "lesionado": false
     },
-    "juan iglesias": {
-      "slug": "juan-iglesias",
-      "ffId": "8686",
-      "nombreNorm": "juan iglesias",
-      "equipo": "sevilla",
-      "probabilidad": 60,
-      "estado": "Rotación",
-      "rival": "RAY",
-      "local": null,
-      "edad": 28,
-      "lesionado": false
-    },
-    "nico guillen": {
-      "slug": "nico-guillen",
-      "ffId": "13865",
-      "nombreNorm": "nico guillen",
-      "equipo": "sevilla",
-      "probabilidad": 50,
-      "estado": null,
-      "rival": "RAY",
-      "local": null,
-      "edad": null,
-      "lesionado": false
-    },
-    "gabriel suazo": {
-      "slug": "gabriel-suazo",
-      "ffId": "12358",
-      "nombreNorm": "gabriel suazo",
-      "equipo": "sevilla",
-      "probabilidad": 60,
-      "estado": "Importante",
-      "rival": "RAY",
-      "local": null,
-      "edad": 28,
-      "lesionado": false
-    },
-    "arouna sangante": {
-      "slug": "arouna-sangante",
-      "ffId": "18014",
-      "nombreNorm": "arouna sangante",
+    "peque": {
+      "slug": "peque",
+      "ffId": "10341",
+      "nombreNorm": "peque",
       "equipo": "sevilla",
       "probabilidad": 50,
       "estado": "Rotación",
       "rival": "RAY",
       "local": null,
-      "edad": 24,
-      "lesionado": false
-    },
-    "lucien agoume": {
-      "slug": "lucien-agoume",
-      "ffId": "7249",
-      "nombreNorm": "lucien agoume",
-      "equipo": "sevilla",
-      "probabilidad": 80,
-      "estado": "Clave",
-      "rival": "RAY",
-      "local": null,
-      "edad": 24,
-      "lesionado": false
-    },
-    "ruben vargas": {
-      "slug": "ruben-vargas",
-      "ffId": "9125",
-      "nombreNorm": "ruben vargas",
-      "equipo": "sevilla",
-      "probabilidad": 70,
-      "estado": "Clave",
-      "rival": "RAY",
-      "local": null,
-      "edad": 28,
+      "edad": 23,
       "lesionado": false
     },
     "andres castrin": {
@@ -5320,28 +5368,16 @@
       "edad": 23,
       "lesionado": false
     },
-    "juanlu sanchez": {
-      "slug": "juanlu-sanchez",
-      "ffId": "7779",
-      "nombreNorm": "juanlu sanchez",
+    "joaquin oso": {
+      "slug": "joaquin-oso",
+      "ffId": "12596",
+      "nombreNorm": "joaquin oso",
       "equipo": "sevilla",
       "probabilidad": 50,
-      "estado": "Importante",
+      "estado": "Rotación",
       "rival": "RAY",
       "local": null,
-      "edad": 22,
-      "lesionado": false
-    },
-    "djibril sow": {
-      "slug": "djibril-sow",
-      "ffId": "3357",
-      "nombreNorm": "djibril sow",
-      "equipo": "sevilla",
-      "probabilidad": 40,
-      "estado": "Importante",
-      "rival": "RAY",
-      "local": null,
-      "edad": 29,
+      "edad": 23,
       "lesionado": false
     },
     "julio diaz": {
@@ -5356,30 +5392,6 @@
       "edad": 21,
       "lesionado": false
     },
-    "chidera ejuke": {
-      "slug": "chidera-ejuke",
-      "ffId": "12042",
-      "nombreNorm": "chidera ejuke",
-      "equipo": "sevilla",
-      "probabilidad": 40,
-      "estado": "Revulsivo",
-      "rival": "RAY",
-      "local": null,
-      "edad": 28,
-      "lesionado": false
-    },
-    "joaquin oso": {
-      "slug": "joaquin-oso",
-      "ffId": "12596",
-      "nombreNorm": "joaquin oso",
-      "equipo": "sevilla",
-      "probabilidad": 40,
-      "estado": "Rotación",
-      "rival": "RAY",
-      "local": null,
-      "edad": 23,
-      "lesionado": false
-    },
     "jose angel carmona": {
       "slug": "jose-ngel-carmona",
       "ffId": "9317",
@@ -5392,16 +5404,16 @@
       "edad": 24,
       "lesionado": false
     },
-    "peque": {
-      "slug": "peque",
-      "ffId": "10341",
-      "nombreNorm": "peque",
+    "manu bueno": {
+      "slug": "manu-bueno",
+      "ffId": "11180",
+      "nombreNorm": "manu bueno",
       "equipo": "sevilla",
-      "probabilidad": 30,
-      "estado": "Revulsivo",
+      "probabilidad": 20,
+      "estado": "Reserva",
       "rival": "RAY",
       "local": null,
-      "edad": 23,
+      "edad": 22,
       "lesionado": false
     },
     "marcao": {
@@ -5416,6 +5428,18 @@
       "edad": 30,
       "lesionado": false
     },
+    "fran gonzalez": {
+      "slug": "fran-gonzalez-2",
+      "ffId": "11554",
+      "nombreNorm": "fran gonzalez",
+      "equipo": "sevilla",
+      "probabilidad": 10,
+      "estado": "Reserva",
+      "rival": "RAY",
+      "local": null,
+      "edad": 21,
+      "lesionado": false
+    },
     "alfonso gonzalez": {
       "slug": "alfonso-gonzalez",
       "ffId": "8703",
@@ -5428,28 +5452,16 @@
       "edad": 27,
       "lesionado": false
     },
-    "fran gonzalez": {
-      "slug": "fran-gonzalez-2",
-      "ffId": "11554",
-      "nombreNorm": "fran gonzalez",
+    "chidera ejuke": {
+      "slug": "chidera-ejuke",
+      "ffId": "12042",
+      "nombreNorm": "chidera ejuke",
       "equipo": "sevilla",
-      "probabilidad": 5,
-      "estado": "Reserva",
+      "probabilidad": 10,
+      "estado": "Descarte",
       "rival": "RAY",
       "local": null,
-      "edad": 21,
-      "lesionado": false
-    },
-    "manu bueno": {
-      "slug": "manu-bueno",
-      "ffId": "11180",
-      "nombreNorm": "manu bueno",
-      "equipo": "sevilla",
-      "probabilidad": 0,
-      "estado": "Reserva",
-      "rival": "RAY",
-      "local": null,
-      "edad": 22,
+      "edad": 28,
       "lesionado": false
     },
     "joan jordan": {
@@ -5470,7 +5482,7 @@
       "nombreNorm": "adria pedrosa",
       "equipo": "sevilla",
       "probabilidad": 0,
-      "estado": "Reserva",
+      "estado": "Descarte",
       "rival": "RAY",
       "local": null,
       "edad": 28,
@@ -5554,7 +5566,7 @@
       "nombreNorm": "ryunosuke sato",
       "equipo": "valencia",
       "probabilidad": 70,
-      "estado": "Rotación",
+      "estado": "Importante",
       "rival": "CEL",
       "local": null,
       "edad": 19,
@@ -5566,7 +5578,7 @@
       "nombreNorm": "arnaut danjuma",
       "equipo": "valencia",
       "probabilidad": 50,
-      "estado": "Revulsivo",
+      "estado": "Rotación",
       "rival": "CEL",
       "local": null,
       "edad": 29,
@@ -5674,7 +5686,7 @@
       "nombreNorm": "mouctar diakhaby",
       "equipo": "valencia",
       "probabilidad": 50,
-      "estado": "Reserva",
+      "estado": "Rotación",
       "rival": "CEL",
       "local": null,
       "edad": 29,
@@ -5710,7 +5722,7 @@
       "nombreNorm": "andre almeida",
       "equipo": "valencia",
       "probabilidad": 30,
-      "estado": "Reserva",
+      "estado": "Revulsivo",
       "rival": "CEL",
       "local": null,
       "edad": 26,
@@ -5758,7 +5770,7 @@
       "nombreNorm": "daniel raba",
       "equipo": "valencia",
       "probabilidad": 10,
-      "estado": "Reserva",
+      "estado": "Revulsivo",
       "rival": "CEL",
       "local": null,
       "edad": 30,
@@ -5974,7 +5986,7 @@
       "nombreNorm": "carlos macia",
       "equipo": "villarreal",
       "probabilidad": 40,
-      "estado": "Reserva",
+      "estado": "Rotación",
       "rival": "RAC",
       "local": false,
       "edad": 17,
@@ -5998,7 +6010,7 @@
       "nombreNorm": "ayoze perez",
       "equipo": "villarreal",
       "probabilidad": 40,
-      "estado": "Revulsivo",
+      "estado": "Rotación",
       "rival": "RAC",
       "local": false,
       "edad": 33,
@@ -6034,7 +6046,7 @@
       "nombreNorm": "tani oluwaseyi",
       "equipo": "villarreal",
       "probabilidad": 30,
-      "estado": "Rotación",
+      "estado": "Revulsivo",
       "rival": "RAC",
       "local": false,
       "edad": 26,
@@ -6070,7 +6082,7 @@
       "nombreNorm": "alassane diatta",
       "equipo": "villarreal",
       "probabilidad": 10,
-      "estado": "Reserva",
+      "estado": "Revulsivo",
       "rival": "RAC",
       "local": false,
       "edad": null,
@@ -6106,7 +6118,7 @@
       "nombreNorm": "alex fores",
       "equipo": "villarreal",
       "probabilidad": 0,
-      "estado": "Reserva",
+      "estado": "Descarte",
       "rival": "RAC",
       "local": false,
       "edad": 25,
