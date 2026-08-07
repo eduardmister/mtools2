@@ -1,10 +1,10 @@
 {
   "format": 2,
-  "generatedBy": "0.25.0",
-  "generatedAt": "2026-08-06T06:01:11.238Z",
+  "generatedBy": "0.25.2",
+  "generatedAt": "2026-08-07T21:15:56.045Z",
   "community": {
-    "id": 1933684,
-    "name": "⚽️Hombres Blandengues",
+    "id": null,
+    "name": null,
     "maxDebtDivisor": 4
   },
   "players": {
@@ -7565,17 +7565,17 @@
       "id": "6065",
       "name": "Pere Milla",
       "position": 4,
-      "value": 1661000,
-      "previousValue": 1593000,
+      "value": 1732000,
+      "previousValue": 1661000,
       "points": 0,
       "avg": 0,
       "clause": {
-        "floor": 1661000,
+        "floor": 1732000,
         "multiplier": 1.5,
-        "value": 2491500,
+        "value": 2598000,
         "percentage": 50
       },
-      "clausesRanking": 13,
+      "clausesRanking": 15,
       "pointsHistory": [
         {
           "season": "25/26",
@@ -7629,35 +7629,31 @@
       "values": [
         {
           "time": "Un día",
-          "value": 1593000,
-          "change": 68000,
-          "sign": 68
+          "value": 1661000,
+          "change": 71000,
+          "sign": 71
         },
         {
           "time": "Una semana",
-          "value": 1250000,
-          "change": 411000,
-          "sign": 411
+          "value": 1289000,
+          "change": 443000,
+          "sign": 443
         },
         {
           "time": "Un mes",
-          "value": 419000,
-          "change": 1242000,
-          "sign": "+1.242.000"
+          "value": 453000,
+          "change": 1279000,
+          "sign": "+1.279.000"
         },
         {
           "time": "Un año",
-          "value": 671000,
-          "change": 990000,
-          "sign": 990
+          "value": 687000,
+          "change": 1045000,
+          "sign": "+1.045.000"
         }
       ],
       "valuesChart": {
         "points": [
-          {
-            "value": 671000,
-            "date": "6 ago 2025"
-          },
           {
             "value": 687000,
             "date": "7 ago 2025"
@@ -9117,6 +9113,10 @@
           {
             "value": 1661000,
             "date": "6 ago 2026"
+          },
+          {
+            "value": 1732000,
+            "date": "7 ago 2026"
           }
         ],
         "max": {
@@ -18991,17 +18991,17 @@
       "id": "18109",
       "name": "Luis Rioja",
       "position": 3,
-      "value": 5915000,
-      "previousValue": 5890000,
+      "value": 5881000,
+      "previousValue": 5915000,
       "points": 0,
       "avg": 0,
       "clause": {
-        "floor": 5915000,
+        "floor": 5881000,
         "multiplier": 1.5,
-        "value": 8872500,
+        "value": 8821500,
         "percentage": 50
       },
-      "clausesRanking": 279,
+      "clausesRanking": 291,
       "pointsHistory": [
         {
           "season": "25/26",
@@ -19063,35 +19063,31 @@
       "values": [
         {
           "time": "Un día",
-          "value": 5890000,
-          "change": 25000,
-          "sign": 25
+          "value": 5915000,
+          "change": -34000,
+          "sign": -34
         },
         {
           "time": "Una semana",
-          "value": 5445000,
-          "change": 470000,
-          "sign": 470
+          "value": 5488000,
+          "change": 393000,
+          "sign": 393
         },
         {
           "time": "Un mes",
-          "value": 3510000,
-          "change": 2405000,
-          "sign": "+2.405.000"
+          "value": 3563000,
+          "change": 2318000,
+          "sign": "+2.318.000"
         },
         {
           "time": "Un año",
-          "value": 9398000,
-          "change": -3483000,
-          "sign": "-3.483.000"
+          "value": 9472000,
+          "change": -3591000,
+          "sign": "-3.591.000"
         }
       ],
       "valuesChart": {
         "points": [
-          {
-            "value": 9398000,
-            "date": "6 ago 2025"
-          },
           {
             "value": 9472000,
             "date": "7 ago 2025"
@@ -20551,6 +20547,10 @@
           {
             "value": 5915000,
             "date": "6 ago 2026"
+          },
+          {
+            "value": 5881000,
+            "date": "7 ago 2026"
           }
         ],
         "max": {
@@ -26275,17 +26275,17 @@
       "id": "22956",
       "name": "Sergio Gómez",
       "position": 2,
-      "value": 3877000,
-      "previousValue": 3736000,
+      "value": 4030000,
+      "previousValue": 3877000,
       "points": 0,
       "avg": 0,
       "clause": {
-        "floor": 4004847,
+        "floor": 4030000,
         "multiplier": 1.5,
-        "value": 6007270.5,
+        "value": 6045000,
         "percentage": 50
       },
-      "clausesRanking": 205,
+      "clausesRanking": 216,
       "pointsHistory": [
         {
           "season": "25/26",
@@ -26315,35 +26315,31 @@
       "values": [
         {
           "time": "Un día",
-          "value": 3736000,
-          "change": 141000,
-          "sign": 141
+          "value": 3877000,
+          "change": 153000,
+          "sign": 153
         },
         {
           "time": "Una semana",
-          "value": 3020000,
-          "change": 857000,
-          "sign": 857
+          "value": 3100000,
+          "change": 930000,
+          "sign": 930
         },
         {
           "time": "Un mes",
-          "value": 1820000,
-          "change": 2057000,
-          "sign": "+2.057.000"
+          "value": 1845000,
+          "change": 2185000,
+          "sign": "+2.185.000"
         },
         {
           "time": "Un año",
-          "value": 9270000,
-          "change": -5393000,
-          "sign": "-5.393.000"
+          "value": 9313000,
+          "change": -5283000,
+          "sign": "-5.283.000"
         }
       ],
       "valuesChart": {
         "points": [
-          {
-            "value": 9270000,
-            "date": "6 ago 2025"
-          },
           {
             "value": 9313000,
             "date": "7 ago 2025"
@@ -27803,6 +27799,10 @@
           {
             "value": 3877000,
             "date": "6 ago 2026"
+          },
+          {
+            "value": 4030000,
+            "date": "7 ago 2026"
           }
         ],
         "max": {
@@ -38533,17 +38533,17 @@
       "id": "48194",
       "name": "Williot Swedberg",
       "position": 3,
-      "value": 1474000,
-      "previousValue": 1416000,
+      "value": 1533000,
+      "previousValue": 1474000,
       "points": 0,
       "avg": 0,
       "clause": {
-        "floor": 1474000,
+        "floor": 1533000,
         "multiplier": 2.5,
-        "value": 3685000,
+        "value": 3832500,
         "percentage": 150
       },
-      "clausesRanking": 39,
+      "clausesRanking": 40,
       "pointsHistory": [
         {
           "season": "25/26",
@@ -38581,35 +38581,31 @@
       "values": [
         {
           "time": "Un día",
-          "value": 1416000,
-          "change": 58000,
-          "sign": 58
+          "value": 1474000,
+          "change": 59000,
+          "sign": 59
         },
         {
           "time": "Una semana",
-          "value": 1125000,
-          "change": 349000,
-          "sign": 349
+          "value": 1158000,
+          "change": 375000,
+          "sign": 375
         },
         {
           "time": "Un mes",
-          "value": 346000,
-          "change": 1128000,
-          "sign": "+1.128.000"
+          "value": 372000,
+          "change": 1161000,
+          "sign": "+1.161.000"
         },
         {
           "time": "Un año",
-          "value": 1346000,
-          "change": 128000,
-          "sign": 128
+          "value": 1378000,
+          "change": 155000,
+          "sign": 155
         }
       ],
       "valuesChart": {
         "points": [
-          {
-            "value": 1346000,
-            "date": "6 ago 2025"
-          },
           {
             "value": 1378000,
             "date": "7 ago 2025"
@@ -40069,6 +40065,10 @@
           {
             "value": 1474000,
             "date": "6 ago 2026"
+          },
+          {
+            "value": 1533000,
+            "date": "7 ago 2026"
           }
         ],
         "max": {
@@ -43370,17 +43370,17 @@
       "id": "56578",
       "name": "Johnny Cardoso",
       "position": 3,
-      "value": 913000,
-      "previousValue": 851000,
+      "value": 976000,
+      "previousValue": 913000,
       "points": 0,
       "avg": 0,
       "clause": {
-        "floor": 913000,
+        "floor": 976000,
         "multiplier": 1.5,
-        "value": 1369500,
+        "value": 1464000,
         "percentage": 50
       },
-      "clausesRanking": 139,
+      "clausesRanking": 133,
       "pointsHistory": [
         {
           "season": "25/26",
@@ -43410,35 +43410,31 @@
       "values": [
         {
           "time": "Un día",
-          "value": 851000,
-          "change": 62000,
-          "sign": 62
+          "value": 913000,
+          "change": 63000,
+          "sign": 63
         },
         {
           "time": "Una semana",
-          "value": 591000,
-          "change": 322000,
-          "sign": 322
+          "value": 613000,
+          "change": 363000,
+          "sign": 363
         },
         {
           "time": "Un mes",
-          "value": 277000,
-          "change": 636000,
-          "sign": 636
+          "value": 293000,
+          "change": 683000,
+          "sign": 683
         },
         {
           "time": "Un año",
-          "value": 9992000,
-          "change": -9079000,
-          "sign": "-9.079.000"
+          "value": 10019000,
+          "change": -9043000,
+          "sign": "-9.043.000"
         }
       ],
       "valuesChart": {
         "points": [
-          {
-            "value": 9992000,
-            "date": "6 ago 2025"
-          },
           {
             "value": 10019000,
             "date": "7 ago 2025"
@@ -44898,6 +44894,10 @@
           {
             "value": 913000,
             "date": "6 ago 2026"
+          },
+          {
+            "value": 976000,
+            "date": "7 ago 2026"
           }
         ],
         "max": {
@@ -44936,15 +44936,15 @@
       "id": "56632",
       "name": "Isaac Romero",
       "position": 4,
-      "value": 1360000,
-      "previousValue": 1303000,
+      "value": 1417000,
+      "previousValue": 1360000,
       "points": 0,
       "avg": 0,
       "clause": {
-        "floor": 1360000,
-        "multiplier": 2.5,
-        "value": 3400000,
-        "percentage": 150
+        "floor": 1417000,
+        "multiplier": 3,
+        "value": 4251000,
+        "percentage": 200
       },
       "clausesRanking": 12,
       "pointsHistory": [
@@ -44976,35 +44976,31 @@
       "values": [
         {
           "time": "Un día",
-          "value": 1303000,
+          "value": 1360000,
           "change": 57000,
           "sign": 57
         },
         {
           "time": "Una semana",
-          "value": 1032000,
-          "change": 328000,
-          "sign": 328
+          "value": 1062000,
+          "change": 355000,
+          "sign": 355
         },
         {
           "time": "Un mes",
-          "value": 261000,
-          "change": 1099000,
-          "sign": "+1.099.000"
+          "value": 264000,
+          "change": 1153000,
+          "sign": "+1.153.000"
         },
         {
           "time": "Un año",
-          "value": 1431000,
-          "change": -71000,
-          "sign": -71
+          "value": 1474000,
+          "change": -57000,
+          "sign": -57
         }
       ],
       "valuesChart": {
         "points": [
-          {
-            "value": 1431000,
-            "date": "6 ago 2025"
-          },
           {
             "value": 1474000,
             "date": "7 ago 2025"
@@ -46464,6 +46460,10 @@
           {
             "value": 1360000,
             "date": "6 ago 2026"
+          },
+          {
+            "value": 1417000,
+            "date": "7 ago 2026"
           }
         ],
         "max": {
@@ -48068,17 +48068,17 @@
       "id": "58125",
       "name": "Mario Martín",
       "position": 3,
-      "value": 1260000,
-      "previousValue": 1214000,
+      "value": 1307000,
+      "previousValue": 1260000,
       "points": 0,
       "avg": 0,
       "clause": {
-        "floor": 1260000,
+        "floor": 1307000,
         "multiplier": 2,
-        "value": 2520000,
+        "value": 2614000,
         "percentage": 100
       },
-      "clausesRanking": 58,
+      "clausesRanking": 51,
       "pointsHistory": [
         {
           "season": "25/26",
@@ -48108,35 +48108,31 @@
       "values": [
         {
           "time": "Un día",
-          "value": 1214000,
-          "change": 46000,
-          "sign": 46
+          "value": 1260000,
+          "change": 47000,
+          "sign": 47
         },
         {
           "time": "Una semana",
-          "value": 878000,
-          "change": 382000,
-          "sign": 382
+          "value": 924000,
+          "change": 383000,
+          "sign": 383
         },
         {
           "time": "Un mes",
-          "value": 277000,
-          "change": 983000,
-          "sign": 983
+          "value": 284000,
+          "change": 1023000,
+          "sign": "+1.023.000"
         },
         {
           "time": "Un año",
-          "value": 453000,
-          "change": 807000,
-          "sign": 807
+          "value": 489000,
+          "change": 818000,
+          "sign": 818
         }
       ],
       "valuesChart": {
         "points": [
-          {
-            "value": 453000,
-            "date": "6 ago 2025"
-          },
           {
             "value": 489000,
             "date": "7 ago 2025"
@@ -49596,6 +49592,10 @@
           {
             "value": 1260000,
             "date": "6 ago 2026"
+          },
+          {
+            "value": 1307000,
+            "date": "7 ago 2026"
           }
         ],
         "max": {
@@ -49650,8 +49650,8 @@
       "id": "58954",
       "name": "Kylian Mbappé",
       "position": 4,
-      "value": 24629000,
-      "previousValue": 24633000,
+      "value": 24619000,
+      "previousValue": 24626000,
       "points": 0,
       "avg": 0,
       "clause": {
@@ -49660,7 +49660,7 @@
         "value": 46800000,
         "percentage": 50
       },
-      "clausesRanking": 123,
+      "clausesRanking": 126,
       "pointsHistory": [
         {
           "season": "25/26",
@@ -49682,39 +49682,31 @@
       "values": [
         {
           "time": "Un día",
-          "value": 24633000,
-          "change": -4000,
-          "sign": -4
+          "value": 24626000,
+          "change": -7000,
+          "sign": -7
         },
         {
           "time": "Una semana",
-          "value": 24661000,
-          "change": -32000,
-          "sign": -32
+          "value": 24650000,
+          "change": -31000,
+          "sign": -31
         },
         {
           "time": "Un mes",
-          "value": 24877000,
-          "change": -248000,
-          "sign": -248
+          "value": 24861000,
+          "change": -242000,
+          "sign": -242
         },
         {
           "time": "Un año",
-          "value": 24660000,
-          "change": -31000,
-          "sign": -31
+          "value": 24610000,
+          "change": 9000,
+          "sign": 9
         }
       ],
       "valuesChart": {
         "points": [
-          {
-            "value": 24660000,
-            "date": "5 ago 2025"
-          },
-          {
-            "value": 24636000,
-            "date": "6 ago 2025"
-          },
           {
             "value": 24610000,
             "date": "7 ago 2025"
@@ -51170,6 +51162,14 @@
           {
             "value": 24629000,
             "date": "5 ago 2026"
+          },
+          {
+            "value": 24626000,
+            "date": "6 ago 2026"
+          },
+          {
+            "value": 24619000,
+            "date": "7 ago 2026"
           }
         ],
         "max": {
@@ -52766,17 +52766,17 @@
       "id": "59395",
       "name": "Pedro Díaz",
       "position": 3,
-      "value": 1078000,
-      "previousValue": 1043000,
+      "value": 1115000,
+      "previousValue": 1078000,
       "points": 0,
       "avg": 0,
       "clause": {
-        "floor": 1078000,
+        "floor": 1115000,
         "multiplier": 2,
-        "value": 2156000,
+        "value": 2230000,
         "percentage": 100
       },
-      "clausesRanking": 129,
+      "clausesRanking": 137,
       "pointsHistory": [
         {
           "season": "25/26",
@@ -52798,35 +52798,31 @@
       "values": [
         {
           "time": "Un día",
-          "value": 1043000,
-          "change": 35000,
-          "sign": 35
+          "value": 1078000,
+          "change": 37000,
+          "sign": 37
         },
         {
           "time": "Una semana",
-          "value": 719000,
-          "change": 359000,
-          "sign": 359
+          "value": 755000,
+          "change": 360000,
+          "sign": 360
         },
         {
           "time": "Un mes",
-          "value": 191000,
-          "change": 887000,
-          "sign": 887
+          "value": 202000,
+          "change": 913000,
+          "sign": 913
         },
         {
           "time": "Un año",
-          "value": 4805000,
-          "change": -3727000,
-          "sign": "-3.727.000"
+          "value": 4964000,
+          "change": -3849000,
+          "sign": "-3.849.000"
         }
       ],
       "valuesChart": {
         "points": [
-          {
-            "value": 4805000,
-            "date": "6 ago 2025"
-          },
           {
             "value": 4964000,
             "date": "7 ago 2025"
@@ -54286,6 +54282,10 @@
           {
             "value": 1078000,
             "date": "6 ago 2026"
+          },
+          {
+            "value": 1115000,
+            "date": "7 ago 2026"
           }
         ],
         "max": {
@@ -57464,17 +57464,17 @@
       "id": "60888",
       "name": "Roberto Fernández",
       "position": 4,
-      "value": 3518000,
-      "previousValue": 3373000,
+      "value": 3669000,
+      "previousValue": 3518000,
       "points": 0,
       "avg": 0,
       "clause": {
-        "floor": 3518000,
+        "floor": 3669000,
         "multiplier": 1.5,
-        "value": 5277000,
+        "value": 5503500,
         "percentage": 50
       },
-      "clausesRanking": 31,
+      "clausesRanking": 23,
       "pointsHistory": [
         {
           "season": "25/26",
@@ -57496,35 +57496,31 @@
       "values": [
         {
           "time": "Un día",
-          "value": 3373000,
-          "change": 145000,
-          "sign": 145
+          "value": 3518000,
+          "change": 151000,
+          "sign": 151
         },
         {
           "time": "Una semana",
-          "value": 2659000,
-          "change": 859000,
-          "sign": 859
+          "value": 2739000,
+          "change": 930000,
+          "sign": 930
         },
         {
           "time": "Un mes",
-          "value": 1540000,
-          "change": 1978000,
-          "sign": "+1.978.000"
+          "value": 1564000,
+          "change": 2105000,
+          "sign": "+2.105.000"
         },
         {
           "time": "Un año",
-          "value": 8006000,
-          "change": -4488000,
-          "sign": "-4.488.000"
+          "value": 8112000,
+          "change": -4443000,
+          "sign": "-4.443.000"
         }
       ],
       "valuesChart": {
         "points": [
-          {
-            "value": 8006000,
-            "date": "6 ago 2025"
-          },
           {
             "value": 8112000,
             "date": "7 ago 2025"
@@ -58984,6 +58980,10 @@
           {
             "value": 3518000,
             "date": "6 ago 2026"
+          },
+          {
+            "value": 3669000,
+            "date": "7 ago 2026"
           }
         ],
         "max": {
@@ -62170,17 +62170,17 @@
       "id": "64200",
       "name": "Jeremy Toljan",
       "position": 2,
-      "value": 1216000,
-      "previousValue": 1173000,
+      "value": 1260000,
+      "previousValue": 1216000,
       "points": 0,
       "avg": 0,
       "clause": {
-        "floor": 1216000,
+        "floor": 1260000,
         "multiplier": 2.5,
-        "value": 3040000,
+        "value": 3150000,
         "percentage": 150
       },
-      "clausesRanking": 114,
+      "clausesRanking": 109,
       "pointsHistory": [
         {
           "season": "25/26",
@@ -62194,35 +62194,31 @@
       "values": [
         {
           "time": "Un día",
-          "value": 1173000,
-          "change": 43000,
-          "sign": 43
+          "value": 1216000,
+          "change": 44000,
+          "sign": 44
         },
         {
           "time": "Una semana",
-          "value": 895000,
-          "change": 321000,
-          "sign": 321
+          "value": 946000,
+          "change": 314000,
+          "sign": 314
         },
         {
           "time": "Un mes",
-          "value": 241000,
-          "change": 975000,
-          "sign": 975
+          "value": 271000,
+          "change": 989000,
+          "sign": 989
         },
         {
           "time": "Un año",
-          "value": 639000,
-          "change": 577000,
-          "sign": 577
+          "value": 656000,
+          "change": 604000,
+          "sign": 604
         }
       ],
       "valuesChart": {
         "points": [
-          {
-            "value": 639000,
-            "date": "6 ago 2025"
-          },
           {
             "value": 656000,
             "date": "7 ago 2025"
@@ -63682,6 +63678,10 @@
           {
             "value": 1216000,
             "date": "6 ago 2026"
+          },
+          {
+            "value": 1260000,
+            "date": "7 ago 2026"
           }
         ],
         "max": {
@@ -63704,14 +63704,14 @@
       "id": "64364",
       "name": "Franco Mastantuono",
       "position": 3,
-      "value": 1057000,
-      "previousValue": 1043000,
+      "value": 1053000,
+      "previousValue": 1076000,
       "points": 0,
       "avg": 0,
       "clause": {
-        "floor": 1057000,
+        "floor": 1053000,
         "multiplier": 1.5,
-        "value": 1585500,
+        "value": 1579500,
         "percentage": 50
       },
       "clausesRanking": 207,
@@ -63728,47 +63728,31 @@
       "values": [
         {
           "time": "Un día",
-          "value": 1043000,
-          "change": 14000,
-          "sign": 14
+          "value": 1076000,
+          "change": -23000,
+          "sign": -23
         },
         {
           "time": "Una semana",
-          "value": 831000,
-          "change": 226000,
-          "sign": 226
+          "value": 1006000,
+          "change": 47000,
+          "sign": 47
         },
         {
           "time": "Un mes",
-          "value": 222000,
-          "change": 835000,
-          "sign": 835
+          "value": 300000,
+          "change": 753000,
+          "sign": 753
         },
         {
           "time": "Un año",
-          "value": 7901000,
-          "change": -6844000,
-          "sign": "-6.844.000"
+          "value": 8398000,
+          "change": -7345000,
+          "sign": "-7.345.000"
         }
       ],
       "valuesChart": {
         "points": [
-          {
-            "value": 7901000,
-            "date": "3 ago 2025"
-          },
-          {
-            "value": 8032000,
-            "date": "4 ago 2025"
-          },
-          {
-            "value": 8154000,
-            "date": "5 ago 2025"
-          },
-          {
-            "value": 8282000,
-            "date": "6 ago 2025"
-          },
           {
             "value": 8398000,
             "date": "7 ago 2025"
@@ -65216,6 +65200,22 @@
           {
             "value": 1057000,
             "date": "3 ago 2026"
+          },
+          {
+            "value": 1069000,
+            "date": "4 ago 2026"
+          },
+          {
+            "value": 1078000,
+            "date": "5 ago 2026"
+          },
+          {
+            "value": 1076000,
+            "date": "6 ago 2026"
+          },
+          {
+            "value": 1053000,
+            "date": "7 ago 2026"
           }
         ],
         "max": {
@@ -65238,17 +65238,17 @@
       "id": "64382",
       "name": "Gabriel Suazo",
       "position": 2,
-      "value": 1238000,
-      "previousValue": 1194000,
+      "value": 1283000,
+      "previousValue": 1238000,
       "points": 0,
       "avg": 0,
       "clause": {
-        "floor": 1238000,
+        "floor": 1283000,
         "multiplier": 2,
-        "value": 2476000,
+        "value": 2566000,
         "percentage": 100
       },
-      "clausesRanking": 107,
+      "clausesRanking": 102,
       "pointsHistory": [
         {
           "season": "25/26",
@@ -65262,35 +65262,31 @@
       "values": [
         {
           "time": "Un día",
-          "value": 1194000,
-          "change": 44000,
-          "sign": 44
+          "value": 1238000,
+          "change": 45000,
+          "sign": 45
         },
         {
           "time": "Una semana",
-          "value": 950000,
-          "change": 288000,
-          "sign": 288
+          "value": 1002000,
+          "change": 281000,
+          "sign": 281
         },
         {
           "time": "Un mes",
-          "value": 275000,
-          "change": 963000,
-          "sign": 963
+          "value": 282000,
+          "change": 1001000,
+          "sign": "+1.001.000"
         },
         {
           "time": "Un año",
-          "value": 1735000,
-          "change": -497000,
-          "sign": -497
+          "value": 1804000,
+          "change": -521000,
+          "sign": -521
         }
       ],
       "valuesChart": {
         "points": [
-          {
-            "value": 1735000,
-            "date": "6 ago 2025"
-          },
           {
             "value": 1804000,
             "date": "7 ago 2025"
@@ -66750,6 +66746,10 @@
           {
             "value": 1238000,
             "date": "6 ago 2026"
+          },
+          {
+            "value": 1283000,
+            "date": "7 ago 2026"
           }
         ],
         "max": {
@@ -67009,17 +67009,17 @@
       "id": "64458",
       "name": "Pablo Campos",
       "position": 1,
-      "value": 1188000,
-      "previousValue": 1146000,
+      "value": 1229000,
+      "previousValue": 1188000,
       "points": 0,
       "avg": 0,
       "clause": {
-        "floor": 1208582,
+        "floor": 1229000,
         "multiplier": 1.5,
-        "value": 1812873,
+        "value": 1843500,
         "percentage": 50
       },
-      "clausesRanking": 20,
+      "clausesRanking": 30,
       "pointsHistory": [
         {
           "season": "25/26",
@@ -67033,35 +67033,31 @@
       "values": [
         {
           "time": "Un día",
-          "value": 1146000,
-          "change": 42000,
-          "sign": 42
+          "value": 1188000,
+          "change": 41000,
+          "sign": 41
         },
         {
           "time": "Una semana",
-          "value": 829000,
-          "change": 359000,
-          "sign": 359
+          "value": 882000,
+          "change": 347000,
+          "sign": 347
         },
         {
           "time": "Un mes",
-          "value": 192000,
-          "change": 996000,
-          "sign": 996
+          "value": 213000,
+          "change": 1016000,
+          "sign": "+1.016.000"
         },
         {
           "time": "Un año",
-          "value": 870000,
-          "change": 318000,
-          "sign": 318
+          "value": 942000,
+          "change": 287000,
+          "sign": 287
         }
       ],
       "valuesChart": {
         "points": [
-          {
-            "value": 870000,
-            "date": "6 ago 2025"
-          },
           {
             "value": 942000,
             "date": "7 ago 2025"
@@ -68521,6 +68517,10 @@
           {
             "value": 1188000,
             "date": "6 ago 2026"
+          },
+          {
+            "value": 1229000,
+            "date": "7 ago 2026"
           }
         ],
         "max": {
@@ -71675,17 +71675,17 @@
       "id": "65111",
       "name": "Odysseas Vlachodimos",
       "position": 1,
-      "value": 5998000,
-      "previousValue": 5906000,
+      "value": 6084000,
+      "previousValue": 5998000,
       "points": 0,
       "avg": 0,
       "clause": {
-        "floor": 5998000,
+        "floor": 6144790,
         "multiplier": 1.5,
-        "value": 8997000,
+        "value": 9217185,
         "percentage": 50
       },
-      "clausesRanking": 142,
+      "clausesRanking": 149,
       "pointsHistory": [
         {
           "season": "25/26",
@@ -71699,21 +71699,21 @@
       "values": [
         {
           "time": "Un día",
-          "value": 5906000,
-          "change": 92000,
-          "sign": 92
+          "value": 5998000,
+          "change": 86000,
+          "sign": 86
         },
         {
           "time": "Una semana",
-          "value": 5390000,
-          "change": 608000,
-          "sign": 608
+          "value": 5443000,
+          "change": 641000,
+          "sign": 641
         },
         {
           "time": "Un mes",
-          "value": 3414000,
-          "change": 2584000,
-          "sign": "+2.584.000"
+          "value": 3467000,
+          "change": 2617000,
+          "sign": "+2.617.000"
         }
       ],
       "valuesChart": {
@@ -73113,6 +73113,10 @@
           {
             "value": 5998000,
             "date": "6 ago 2026"
+          },
+          {
+            "value": 6084000,
+            "date": "7 ago 2026"
           }
         ],
         "max": {
@@ -74227,17 +74231,17 @@
       "id": "65674",
       "name": "Miguel Román",
       "position": 3,
-      "value": 660000,
-      "previousValue": 609000,
+      "value": 717000,
+      "previousValue": 660000,
       "points": 0,
       "avg": 0,
       "clause": {
-        "floor": 666666.6666666666,
+        "floor": 717000,
         "multiplier": 2.5,
-        "value": 1666666.6666666665,
+        "value": 1792500,
         "percentage": 150
       },
-      "clausesRanking": 30,
+      "clausesRanking": 18,
       "pointsHistory": [
         {
           "season": "25/26",
@@ -74251,21 +74255,21 @@
       "values": [
         {
           "time": "Un día",
-          "value": 609000,
-          "change": 51000,
-          "sign": 51
+          "value": 660000,
+          "change": 57000,
+          "sign": 57
         },
         {
           "time": "Una semana",
-          "value": 310000,
-          "change": 350000,
-          "sign": 350
+          "value": 339000,
+          "change": 378000,
+          "sign": 378
         },
         {
           "time": "Un mes",
-          "value": 176000,
-          "change": 484000,
-          "sign": 484
+          "value": 171000,
+          "change": 546000,
+          "sign": 546
         }
       ],
       "valuesChart": {
@@ -75633,6 +75637,10 @@
           {
             "value": 660000,
             "date": "6 ago 2026"
+          },
+          {
+            "value": 717000,
+            "date": "7 ago 2026"
           }
         ],
         "max": {
@@ -75687,17 +75695,17 @@
       "id": "68593",
       "name": "Lucas Cepeda",
       "position": 4,
-      "value": 978000,
-      "previousValue": 585000,
+      "value": 1096000,
+      "previousValue": 1056000,
       "points": 0,
       "avg": 0,
       "clause": {
-        "floor": 978000,
+        "floor": 1644000,
         "multiplier": 1.5,
-        "value": 1467000,
+        "value": 2466000,
         "percentage": 50
       },
-      "clausesRanking": 141,
+      "clausesRanking": 48,
       "pointsHistory": [
         {
           "season": "25/26",
@@ -75711,21 +75719,21 @@
       "values": [
         {
           "time": "Un día",
-          "value": 585000,
-          "change": 30000,
-          "sign": 30
+          "value": 1056000,
+          "change": 40000,
+          "sign": 40
         },
         {
           "time": "Una semana",
-          "value": 362000,
-          "change": 253000,
-          "sign": 253
+          "value": 676000,
+          "change": 420000,
+          "sign": 420
         },
         {
           "time": "Un mes",
-          "value": 160000,
-          "change": 455000,
-          "sign": 455
+          "value": 161000,
+          "change": 935000,
+          "sign": 935
         }
       ],
       "valuesChart": {
@@ -76465,11 +76473,47 @@
           {
             "value": 615000,
             "date": "29 jul 2026"
+          },
+          {
+            "value": 644000,
+            "date": "30 jul 2026"
+          },
+          {
+            "value": 676000,
+            "date": "31 jul 2026"
+          },
+          {
+            "value": 725000,
+            "date": "1 ago 2026"
+          },
+          {
+            "value": 780000,
+            "date": "2 ago 2026"
+          },
+          {
+            "value": 841000,
+            "date": "3 ago 2026"
+          },
+          {
+            "value": 907000,
+            "date": "4 ago 2026"
+          },
+          {
+            "value": 978000,
+            "date": "5 ago 2026"
+          },
+          {
+            "value": 1056000,
+            "date": "6 ago 2026"
+          },
+          {
+            "value": 1096000,
+            "date": "7 ago 2026"
           }
         ],
         "max": {
-          "value": 797000,
-          "date": "1 feb 2026"
+          "value": 1096000,
+          "date": "7 ago 2026"
         },
         "min": {
           "value": 160000,
@@ -78067,17 +78111,17 @@
       "id": "68716",
       "name": "Buba Sangaré",
       "position": 2,
-      "value": 1074000,
-      "previousValue": 1035000,
+      "value": 1114000,
+      "previousValue": 1074000,
       "points": 0,
       "avg": 0,
       "clause": {
-        "floor": 1074000,
+        "floor": 1114000,
         "multiplier": 2,
-        "value": 2148000,
+        "value": 2228000,
         "percentage": 100
       },
-      "clausesRanking": 64,
+      "clausesRanking": 62,
       "pointsHistory": [
         {
           "season": "25/26",
@@ -78091,21 +78135,21 @@
       "values": [
         {
           "time": "Un día",
-          "value": 1035000,
-          "change": 39000,
-          "sign": 39
+          "value": 1074000,
+          "change": 40000,
+          "sign": 40
         },
         {
           "time": "Una semana",
-          "value": 681000,
-          "change": 393000,
-          "sign": 393
+          "value": 714000,
+          "change": 400000,
+          "sign": 400
         },
         {
           "time": "Un mes",
-          "value": 160000,
-          "change": 914000,
-          "sign": 914
+          "value": 165000,
+          "change": 949000,
+          "sign": 949
         }
       ],
       "valuesChart": {
@@ -78849,11 +78893,15 @@
           {
             "value": 1074000,
             "date": "6 ago 2026"
+          },
+          {
+            "value": 1114000,
+            "date": "7 ago 2026"
           }
         ],
         "max": {
-          "value": 1074000,
-          "date": "6 ago 2026"
+          "value": 1114000,
+          "date": "7 ago 2026"
         },
         "min": {
           "value": 160000,
@@ -79178,8 +79226,8 @@
       "id": "70923",
       "name": "Enzo Bardeli",
       "position": 3,
-      "value": 466000,
-      "previousValue": 427000,
+      "value": 513000,
+      "previousValue": 466000,
       "points": 0,
       "avg": 0,
       "clause": {
@@ -79193,21 +79241,21 @@
       "values": [
         {
           "time": "Un día",
-          "value": 427000,
-          "change": 39000,
-          "sign": 39
+          "value": 466000,
+          "change": 47000,
+          "sign": 47
         },
         {
           "time": "Una semana",
-          "value": 312000,
-          "change": 154000,
-          "sign": 154
+          "value": 319000,
+          "change": 194000,
+          "sign": 194
         },
         {
           "time": "Un mes",
-          "value": 841000,
-          "change": -375000,
-          "sign": -375
+          "value": 814000,
+          "change": -301000,
+          "sign": -301
         }
       ],
       "valuesChart": {
@@ -79407,6 +79455,10 @@
           {
             "value": 466000,
             "date": "6 ago 2026"
+          },
+          {
+            "value": 513000,
+            "date": "7 ago 2026"
           }
         ],
         "max": {
@@ -79429,14 +79481,14 @@
       "id": "70925",
       "name": "Simon Eriksson",
       "position": 1,
-      "value": 1501000,
-      "previousValue": 1437000,
+      "value": 1568000,
+      "previousValue": 1501000,
       "points": 0,
       "avg": 0,
       "clause": {
-        "floor": 1501000,
+        "floor": 1568000,
         "multiplier": 4,
-        "value": 6004000,
+        "value": 6272000,
         "percentage": 300
       },
       "clausesRanking": 3,
@@ -79444,21 +79496,21 @@
       "values": [
         {
           "time": "Un día",
-          "value": 1437000,
-          "change": 64000,
-          "sign": 64
+          "value": 1501000,
+          "change": 67000,
+          "sign": 67
         },
         {
           "time": "Una semana",
-          "value": 1115000,
-          "change": 386000,
-          "sign": 386
+          "value": 1152000,
+          "change": 416000,
+          "sign": 416
         },
         {
           "time": "Un mes",
-          "value": 277000,
-          "change": 1224000,
-          "sign": "+1.224.000"
+          "value": 289000,
+          "change": 1279000,
+          "sign": "+1.279.000"
         }
       ],
       "valuesChart": {
@@ -79658,11 +79710,15 @@
           {
             "value": 1501000,
             "date": "6 ago 2026"
+          },
+          {
+            "value": 1568000,
+            "date": "7 ago 2026"
           }
         ],
         "max": {
-          "value": 1501000,
-          "date": "6 ago 2026"
+          "value": 1568000,
+          "date": "7 ago 2026"
         },
         "min": {
           "value": 249000,
@@ -80179,6 +80235,253 @@
       "nextMatch": null,
       "injury": 0
     },
+    "70940": {
+      "id": "70940",
+      "name": "Zakaria Eddahchouri",
+      "position": 4,
+      "value": 1146000,
+      "previousValue": 1121000,
+      "points": 0,
+      "avg": 0,
+      "clause": {
+        "floor": 1146000,
+        "multiplier": 1.5,
+        "value": 1719000,
+        "percentage": 50
+      },
+      "clausesRanking": 160,
+      "pointsHistory": [],
+      "values": [
+        {
+          "time": "Un día",
+          "value": 1121000,
+          "change": 25000,
+          "sign": 25
+        },
+        {
+          "time": "Una semana",
+          "value": 856000,
+          "change": 290000,
+          "sign": 290
+        },
+        {
+          "time": "Un mes",
+          "value": 295000,
+          "change": 851000,
+          "sign": 851
+        }
+      ],
+      "valuesChart": {
+        "points": [
+          {
+            "value": 380000,
+            "date": "21 jun 2026"
+          },
+          {
+            "value": 367000,
+            "date": "22 jun 2026"
+          },
+          {
+            "value": 353000,
+            "date": "23 jun 2026"
+          },
+          {
+            "value": 354000,
+            "date": "24 jun 2026"
+          },
+          {
+            "value": 337000,
+            "date": "25 jun 2026"
+          },
+          {
+            "value": 314000,
+            "date": "26 jun 2026"
+          },
+          {
+            "value": 300000,
+            "date": "27 jun 2026"
+          },
+          {
+            "value": 291000,
+            "date": "28 jun 2026"
+          },
+          {
+            "value": 274000,
+            "date": "29 jun 2026"
+          },
+          {
+            "value": 257000,
+            "date": "30 jun 2026"
+          },
+          {
+            "value": 243000,
+            "date": "1 jul 2026"
+          },
+          {
+            "value": 238000,
+            "date": "2 jul 2026"
+          },
+          {
+            "value": 226000,
+            "date": "3 jul 2026"
+          },
+          {
+            "value": 249000,
+            "date": "4 jul 2026"
+          },
+          {
+            "value": 278000,
+            "date": "5 jul 2026"
+          },
+          {
+            "value": 291000,
+            "date": "6 jul 2026"
+          },
+          {
+            "value": 295000,
+            "date": "7 jul 2026"
+          },
+          {
+            "value": 305000,
+            "date": "8 jul 2026"
+          },
+          {
+            "value": 299000,
+            "date": "9 jul 2026"
+          },
+          {
+            "value": 305000,
+            "date": "10 jul 2026"
+          },
+          {
+            "value": 308000,
+            "date": "11 jul 2026"
+          },
+          {
+            "value": 317000,
+            "date": "12 jul 2026"
+          },
+          {
+            "value": 332000,
+            "date": "13 jul 2026"
+          },
+          {
+            "value": 341000,
+            "date": "14 jul 2026"
+          },
+          {
+            "value": 357000,
+            "date": "15 jul 2026"
+          },
+          {
+            "value": 385000,
+            "date": "16 jul 2026"
+          },
+          {
+            "value": 415000,
+            "date": "17 jul 2026"
+          },
+          {
+            "value": 452000,
+            "date": "18 jul 2026"
+          },
+          {
+            "value": 489000,
+            "date": "19 jul 2026"
+          },
+          {
+            "value": 539000,
+            "date": "20 jul 2026"
+          },
+          {
+            "value": 566000,
+            "date": "21 jul 2026"
+          },
+          {
+            "value": 591000,
+            "date": "22 jul 2026"
+          },
+          {
+            "value": 617000,
+            "date": "23 jul 2026"
+          },
+          {
+            "value": 640000,
+            "date": "24 jul 2026"
+          },
+          {
+            "value": 669000,
+            "date": "25 jul 2026"
+          },
+          {
+            "value": 698000,
+            "date": "26 jul 2026"
+          },
+          {
+            "value": 726000,
+            "date": "27 jul 2026"
+          },
+          {
+            "value": 759000,
+            "date": "28 jul 2026"
+          },
+          {
+            "value": 792000,
+            "date": "29 jul 2026"
+          },
+          {
+            "value": 826000,
+            "date": "30 jul 2026"
+          },
+          {
+            "value": 856000,
+            "date": "31 jul 2026"
+          },
+          {
+            "value": 905000,
+            "date": "1 ago 2026"
+          },
+          {
+            "value": 966000,
+            "date": "2 ago 2026"
+          },
+          {
+            "value": 1031000,
+            "date": "3 ago 2026"
+          },
+          {
+            "value": 1063000,
+            "date": "4 ago 2026"
+          },
+          {
+            "value": 1092000,
+            "date": "5 ago 2026"
+          },
+          {
+            "value": 1121000,
+            "date": "6 ago 2026"
+          },
+          {
+            "value": 1146000,
+            "date": "7 ago 2026"
+          }
+        ],
+        "max": {
+          "value": 1146000,
+          "date": "7 ago 2026"
+        },
+        "min": {
+          "value": 226000,
+          "date": "3 jul 2026"
+        }
+      },
+      "nextMatch": {
+        "place": "En casa",
+        "home": "Deportivo da Coruña",
+        "away": "Elche"
+      },
+      "injury": 0
+    },
     "70941": {
       "id": "70941",
       "name": "Bil Nsongo",
@@ -80199,36 +80502,36 @@
       "id": "70950",
       "name": "Giacomo Quagliata",
       "position": 2,
-      "value": 1300000,
-      "previousValue": 1252000,
+      "value": 1348000,
+      "previousValue": 1300000,
       "points": 0,
       "avg": 0,
       "clause": {
-        "floor": 1300000,
+        "floor": 1348000,
         "multiplier": 2,
-        "value": 2600000,
+        "value": 2696000,
         "percentage": 100
       },
-      "clausesRanking": 79,
+      "clausesRanking": 87,
       "pointsHistory": [],
       "values": [
         {
           "time": "Un día",
-          "value": 1252000,
+          "value": 1300000,
           "change": 48000,
           "sign": 48
         },
         {
           "time": "Una semana",
-          "value": 1006000,
-          "change": 294000,
-          "sign": 294
+          "value": 1036000,
+          "change": 312000,
+          "sign": 312
         },
         {
           "time": "Un mes",
-          "value": 259000,
-          "change": 1041000,
-          "sign": "+1.041.000"
+          "value": 273000,
+          "change": 1075000,
+          "sign": "+1.075.000"
         }
       ],
       "valuesChart": {
@@ -80420,11 +80723,15 @@
           {
             "value": 1300000,
             "date": "6 ago 2026"
+          },
+          {
+            "value": 1348000,
+            "date": "7 ago 2026"
           }
         ],
         "max": {
-          "value": 1300000,
-          "date": "6 ago 2026"
+          "value": 1348000,
+          "date": "7 ago 2026"
         },
         "min": {
           "value": 160000,
@@ -80442,36 +80749,36 @@
       "id": "70953",
       "name": "Miguel Loureiro",
       "position": 2,
-      "value": 1314000,
-      "previousValue": 1267000,
+      "value": 1362000,
+      "previousValue": 1314000,
       "points": 0,
       "avg": 0,
       "clause": {
-        "floor": 1314000,
+        "floor": 1362000,
         "multiplier": 2,
-        "value": 2628000,
+        "value": 2724000,
         "percentage": 100
       },
-      "clausesRanking": 123,
+      "clausesRanking": 120,
       "pointsHistory": [],
       "values": [
         {
           "time": "Un día",
-          "value": 1267000,
-          "change": 47000,
-          "sign": 47
+          "value": 1314000,
+          "change": 48000,
+          "sign": 48
         },
         {
           "time": "Una semana",
-          "value": 1030000,
-          "change": 284000,
-          "sign": 284
+          "value": 1057000,
+          "change": 305000,
+          "sign": 305
         },
         {
           "time": "Un mes",
-          "value": 308000,
-          "change": 1006000,
-          "sign": "+1.006.000"
+          "value": 323000,
+          "change": 1039000,
+          "sign": "+1.039.000"
         }
       ],
       "valuesChart": {
@@ -80663,11 +80970,15 @@
           {
             "value": 1314000,
             "date": "6 ago 2026"
+          },
+          {
+            "value": 1362000,
+            "date": "7 ago 2026"
           }
         ],
         "max": {
-          "value": 1314000,
-          "date": "6 ago 2026"
+          "value": 1362000,
+          "date": "7 ago 2026"
         },
         "min": {
           "value": 248000,
@@ -81628,36 +81939,36 @@
       "id": "71021",
       "name": "Alejandro Grimaldo",
       "position": 2,
-      "value": 7170000,
-      "previousValue": 7047000,
+      "value": 7301000,
+      "previousValue": 7170000,
       "points": 0,
       "avg": 0,
       "clause": {
-        "floor": 7170000,
+        "floor": 7301000,
         "multiplier": 1.5,
-        "value": 10755000,
+        "value": 10951500,
         "percentage": 50
       },
-      "clausesRanking": 108,
+      "clausesRanking": 119,
       "pointsHistory": [],
       "values": [
         {
           "time": "Un día",
-          "value": 7047000,
-          "change": 123000,
-          "sign": 123
+          "value": 7170000,
+          "change": 131000,
+          "sign": 131
         },
         {
           "time": "Una semana",
-          "value": 6322000,
-          "change": 848000,
-          "sign": 848
+          "value": 6415000,
+          "change": 886000,
+          "sign": 886
         },
         {
           "time": "Un mes",
-          "value": 4369000,
-          "change": 2801000,
-          "sign": "+2.801.000"
+          "value": 4462000,
+          "change": 2839000,
+          "sign": "+2.839.000"
         }
       ],
       "valuesChart": {
@@ -81813,11 +82124,15 @@
           {
             "value": 7170000,
             "date": "6 ago 2026"
+          },
+          {
+            "value": 7301000,
+            "date": "7 ago 2026"
           }
         ],
         "max": {
-          "value": 7170000,
-          "date": "6 ago 2026"
+          "value": 7301000,
+          "date": "7 ago 2026"
         },
         "min": {
           "value": 3980000,
@@ -82525,6 +82840,15 @@
         ]
       ]
     },
+    "185": {
+      "n": "J. Jordan",
+      "s": [
+        [
+          "2026-08-07",
+          184000
+        ]
+      ]
+    },
     "208": {
       "n": "Moi Gómez",
       "s": [
@@ -82539,6 +82863,14 @@
         [
           "2026-08-04",
           765000
+        ],
+        [
+          "2026-08-06",
+          821000
+        ],
+        [
+          "2026-08-07",
+          854000
         ]
       ]
     },
@@ -82960,6 +83292,10 @@
         [
           "2026-08-04",
           1151000
+        ],
+        [
+          "2026-08-07",
+          1258000
         ]
       ]
     },
@@ -83052,6 +83388,10 @@
         [
           "2026-08-06",
           1661000
+        ],
+        [
+          "2026-08-07",
+          1732000
         ]
       ]
     },
@@ -83128,6 +83468,10 @@
         [
           "2026-08-06",
           10070000
+        ],
+        [
+          "2026-08-07",
+          10054000
         ]
       ]
     },
@@ -83204,6 +83548,10 @@
         [
           "2026-08-04",
           551000
+        ],
+        [
+          "2026-08-06",
+          593000
         ]
       ]
     },
@@ -83247,6 +83595,10 @@
         [
           "2026-08-06",
           440000
+        ],
+        [
+          "2026-08-07",
+          467000
         ]
       ]
     },
@@ -83361,6 +83713,10 @@
         [
           "2026-08-02",
           605000
+        ],
+        [
+          "2026-08-07",
+          788000
         ]
       ]
     },
@@ -83513,6 +83869,10 @@
         [
           "2026-07-28",
           1529000
+        ],
+        [
+          "2026-08-07",
+          2098000
         ]
       ]
     },
@@ -84083,6 +84443,10 @@
         [
           "2026-08-06",
           3877000
+        ],
+        [
+          "2026-08-07",
+          4030000
         ]
       ]
     },
@@ -84092,6 +84456,10 @@
         [
           "2026-08-06",
           527000
+        ],
+        [
+          "2026-08-07",
+          550000
         ]
       ]
     },
@@ -84602,6 +84970,10 @@
         [
           "2026-08-06",
           5555000
+        ],
+        [
+          "2026-08-07",
+          5623000
         ]
       ]
     },
@@ -84657,6 +85029,10 @@
         [
           "2026-08-06",
           9616000
+        ],
+        [
+          "2026-08-07",
+          9533000
         ]
       ]
     },
@@ -84785,6 +85161,15 @@
         ]
       ]
     },
+    "33896": {
+      "n": "I. Akhomach",
+      "s": [
+        [
+          "2026-08-07",
+          906000
+        ]
+      ]
+    },
     "35434": {
       "n": "M. Pubill",
       "s": [
@@ -84908,6 +85293,10 @@
         [
           "2026-08-06",
           1474000
+        ],
+        [
+          "2026-08-07",
+          1533000
         ]
       ]
     },
@@ -85087,6 +85476,14 @@
         [
           "2026-08-05",
           583000
+        ],
+        [
+          "2026-08-06",
+          602000
+        ],
+        [
+          "2026-08-07",
+          619000
         ]
       ]
     },
@@ -85360,6 +85757,14 @@
         [
           "2026-08-04",
           1646000
+        ],
+        [
+          "2026-08-06",
+          1584000
+        ],
+        [
+          "2026-08-07",
+          1774000
         ]
       ]
     },
@@ -85488,6 +85893,10 @@
         [
           "2026-08-06",
           913000
+        ],
+        [
+          "2026-08-07",
+          976000
         ]
       ]
     },
@@ -85567,6 +85976,10 @@
         [
           "2026-08-06",
           1360000
+        ],
+        [
+          "2026-08-07",
+          1417000
         ]
       ]
     },
@@ -85643,6 +86056,14 @@
         [
           "2026-08-04",
           1012000
+        ],
+        [
+          "2026-08-06",
+          1052000
+        ],
+        [
+          "2026-08-07",
+          1063000
         ]
       ]
     },
@@ -85692,6 +86113,10 @@
         [
           "2026-08-06",
           1260000
+        ],
+        [
+          "2026-08-07",
+          1307000
         ]
       ]
     },
@@ -85797,6 +86222,10 @@
         [
           "2026-08-06",
           24626000
+        ],
+        [
+          "2026-08-07",
+          24619000
         ]
       ]
     },
@@ -85845,6 +86274,15 @@
         [
           "2026-07-31",
           182000
+        ]
+      ]
+    },
+    "59089": {
+      "n": "A. Padilla",
+      "s": [
+        [
+          "2026-08-07",
+          265000
         ]
       ]
     },
@@ -85974,6 +86412,10 @@
         [
           "2026-08-06",
           1078000
+        ],
+        [
+          "2026-08-07",
+          1115000
         ]
       ]
     },
@@ -86033,7 +86475,7 @@
       ]
     },
     "59506": {
-      "n": "Javi Rodríguez",
+      "n": "J. Rodríguez",
       "s": [
         [
           "2026-07-31",
@@ -86050,6 +86492,10 @@
         [
           "2026-08-04",
           1403000
+        ],
+        [
+          "2026-08-07",
+          1572000
         ]
       ]
     },
@@ -86154,6 +86600,10 @@
         [
           "2026-08-06",
           544000
+        ],
+        [
+          "2026-08-07",
+          547000
         ]
       ]
     },
@@ -86266,6 +86716,10 @@
         [
           "2026-08-06",
           3518000
+        ],
+        [
+          "2026-08-07",
+          3669000
         ]
       ]
     },
@@ -86369,6 +86823,15 @@
         [
           "2026-07-27",
           190000
+        ]
+      ]
+    },
+    "63784": {
+      "n": "J. Cabello",
+      "s": [
+        [
+          "2026-08-07",
+          178000
         ]
       ]
     },
@@ -86604,11 +87067,15 @@
         [
           "2026-08-06",
           1216000
+        ],
+        [
+          "2026-08-07",
+          1260000
         ]
       ]
     },
     "64364": {
-      "n": "F. Mastantuono",
+      "n": "Franco Mastantuono",
       "s": [
         [
           "2026-07-28",
@@ -86621,6 +87088,10 @@
         [
           "2026-08-02",
           1043000
+        ],
+        [
+          "2026-08-07",
+          1053000
         ]
       ]
     },
@@ -86666,6 +87137,10 @@
         [
           "2026-08-06",
           1238000
+        ],
+        [
+          "2026-08-07",
+          1283000
         ]
       ]
     },
@@ -86687,6 +87162,14 @@
         [
           "2026-08-04",
           1154000
+        ],
+        [
+          "2026-08-06",
+          1200000
+        ],
+        [
+          "2026-08-07",
+          1216000
         ]
       ]
     },
@@ -86741,6 +87224,10 @@
         [
           "2026-08-06",
           1188000
+        ],
+        [
+          "2026-08-07",
+          1229000
         ]
       ]
     },
@@ -86893,6 +87380,10 @@
         [
           "2026-08-06",
           5998000
+        ],
+        [
+          "2026-08-07",
+          6084000
         ]
       ]
     },
@@ -87023,6 +87514,10 @@
         [
           "2026-08-06",
           660000
+        ],
+        [
+          "2026-08-07",
+          717000
         ]
       ]
     },
@@ -87190,6 +87685,19 @@
         [
           "2026-08-06",
           951000
+        ],
+        [
+          "2026-08-07",
+          1023000
+        ]
+      ]
+    },
+    "68519": {
+      "n": "T. Abed",
+      "s": [
+        [
+          "2026-08-07",
+          164000
         ]
       ]
     },
@@ -87300,6 +87808,10 @@
         [
           "2026-08-06",
           1074000
+        ],
+        [
+          "2026-08-07",
+          1114000
         ]
       ]
     },
@@ -87463,6 +87975,10 @@
         [
           "2026-08-06",
           466000
+        ],
+        [
+          "2026-08-07",
+          513000
         ]
       ]
     },
@@ -87512,6 +88028,10 @@
         [
           "2026-08-06",
           1501000
+        ],
+        [
+          "2026-08-07",
+          1568000
         ]
       ]
     },
@@ -87525,6 +88045,15 @@
         [
           "2026-08-05",
           380000
+        ]
+      ]
+    },
+    "70929": {
+      "n": "J. Carlos Arana",
+      "s": [
+        [
+          "2026-08-07",
+          1139000
         ]
       ]
     },
@@ -87751,6 +88280,10 @@
         [
           "2026-08-06",
           1318000
+        ],
+        [
+          "2026-08-07",
+          1356000
         ]
       ]
     },
@@ -87782,6 +88315,10 @@
         [
           "2026-08-02",
           212000
+        ],
+        [
+          "2026-08-07",
+          310000
         ]
       ]
     },
@@ -87861,6 +88398,10 @@
         [
           "2026-08-06",
           1300000
+        ],
+        [
+          "2026-08-07",
+          1348000
         ]
       ]
     },
@@ -87919,6 +88460,10 @@
         [
           "2026-08-06",
           1314000
+        ],
+        [
+          "2026-08-07",
+          1362000
         ]
       ]
     },
@@ -88021,7 +88566,7 @@
       ]
     },
     "71002": {
-      "n": "Ramón Enríquez",
+      "n": "R. Enríquez",
       "s": [
         [
           "2026-07-30",
@@ -88042,6 +88587,10 @@
         [
           "2026-08-04",
           572000
+        ],
+        [
+          "2026-08-07",
+          600000
         ]
       ]
     },
@@ -88079,6 +88628,10 @@
         [
           "2026-08-06",
           1140000
+        ],
+        [
+          "2026-08-07",
+          1169000
         ]
       ]
     },
@@ -88109,6 +88662,10 @@
         [
           "2026-08-05",
           906000
+        ],
+        [
+          "2026-08-07",
+          1038000
         ]
       ]
     },
@@ -88168,6 +88725,19 @@
         [
           "2026-08-06",
           7170000
+        ],
+        [
+          "2026-08-07",
+          7301000
+        ]
+      ]
+    },
+    "71022": {
+      "n": "T. Gijselhart",
+      "s": [
+        [
+          "2026-08-07",
+          1087000
         ]
       ]
     },
@@ -88257,6 +88827,10 @@
         [
           "2026-07-28",
           1061000
+        ],
+        [
+          "2026-08-07",
+          1485000
         ]
       ]
     },
@@ -88337,6 +88911,10 @@
         [
           "2026-08-03",
           1118000
+        ],
+        [
+          "2026-08-07",
+          1234000
         ]
       ]
     },
@@ -88457,6 +89035,10 @@
         [
           "2026-08-06",
           160000
+        ],
+        [
+          "2026-08-07",
+          175000
         ]
       ]
     },
@@ -88470,6 +89052,24 @@
         [
           "2026-08-04",
           280000
+        ]
+      ]
+    },
+    "71639": {
+      "n": "B. Gerenabarrena",
+      "s": [
+        [
+          "2026-08-07",
+          186000
+        ]
+      ]
+    },
+    "71640": {
+      "n": "M. Sierra",
+      "s": [
+        [
+          "2026-08-07",
+          195000
         ]
       ]
     }
@@ -89276,6 +89876,17 @@
       "esClausula": true,
       "fromId": "15365364",
       "fromName": "Gabriel Aibar",
+      "toId": "14515082",
+      "toName": "Antonio Gómez"
+    },
+    "tx_464062222": {
+      "ts": 1786129942077,
+      "playerId": "68593",
+      "playerName": "Lucas Cepeda",
+      "price": 1644000,
+      "esClausula": true,
+      "fromId": "12713977",
+      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
       "toId": "14515082",
       "toName": "Antonio Gómez"
     }
@@ -95837,6 +96448,237 @@
       "toId": null,
       "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
     },
+    "tx_450484991": {
+      "ts": 1785984879664,
+      "playerId": "11697",
+      "playerName": "Lucas Boyé",
+      "price": 6895000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "José Manuel"
+    },
+    "tx_204088491": {
+      "ts": 1785984879664,
+      "playerId": "71008",
+      "playerName": "Rafita Garrido",
+      "price": 1100000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "José Manuel"
+    },
+    "tx_571911817": {
+      "ts": 1785984879664,
+      "playerId": "68652",
+      "playerName": "Ville Koski",
+      "price": 1072298,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "José Manuel"
+    },
+    "tx_2041727696": {
+      "ts": 1785963279664,
+      "playerId": "70928",
+      "playerName": "Suleiman Camara",
+      "price": 361000,
+      "esClausula": false,
+      "fromId": "14515082",
+      "fromName": "Antonio Gómez",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1971808403": {
+      "ts": 1785945279664,
+      "playerId": "63866",
+      "playerName": "Álvaro Núñez",
+      "price": 631250,
+      "esClausula": false,
+      "fromId": "12715076",
+      "fromName": "José Manuel",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_40913091": {
+      "ts": 1785945279664,
+      "playerId": "4774",
+      "playerName": "Álvaro Fernández",
+      "price": 1041310,
+      "esClausula": false,
+      "fromId": "12715076",
+      "fromName": "José Manuel",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_486376675": {
+      "ts": 1785941679664,
+      "playerId": "22668",
+      "playerName": "Lucas Torró",
+      "price": 1179360,
+      "esClausula": false,
+      "fromId": "12714005",
+      "fromName": "raulgp3",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1729285084": {
+      "ts": 1786036537055,
+      "playerId": "14791",
+      "playerName": "Gorka Guruzeta",
+      "price": 6133050,
+      "esClausula": false,
+      "fromId": "12717108",
+      "fromName": "Eduard",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1224834184": {
+      "ts": 1786032937055,
+      "playerId": "27333",
+      "playerName": "Eric García",
+      "price": 17800650,
+      "esClausula": false,
+      "fromId": "12714010",
+      "fromName": "Donbom",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1173901029": {
+      "ts": 1786032937055,
+      "playerId": "68495",
+      "playerName": "Martín Satriano",
+      "price": 5783260,
+      "esClausula": false,
+      "fromId": "12715076",
+      "fromName": "José Manuel",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_421208776": {
+      "ts": 1786032937055,
+      "playerId": "11866",
+      "playerName": "Hugo Duro",
+      "price": 5395420,
+      "esClausula": false,
+      "fromId": "12715076",
+      "fromName": "José Manuel",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1758789708": {
+      "ts": 1785996937055,
+      "playerId": "1684",
+      "playerName": "Kike García",
+      "price": 2864430,
+      "esClausula": false,
+      "fromId": "12714021",
+      "fromName": "escuriola",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_464062222": {
+      "ts": 1786129942077,
+      "playerId": "68593",
+      "playerName": "Lucas Cepeda",
+      "price": 1644000,
+      "esClausula": true,
+      "fromId": "12713977",
+      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
+      "toId": "14515082",
+      "toName": "Antonio Gómez"
+    },
+    "tx_166753356": {
+      "ts": 1786126342077,
+      "playerId": "128",
+      "playerName": "Borja Iglesias",
+      "price": 11428560,
+      "esClausula": false,
+      "fromId": "14515082",
+      "fromName": "Antonio Gómez",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_16530985": {
+      "ts": 1786083142077,
+      "playerId": "70940",
+      "playerName": "Zakaria Eddahchouri",
+      "price": 1143420,
+      "esClausula": false,
+      "fromId": "12715076",
+      "fromName": "José Manuel",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_489350898": {
+      "ts": 1786083142077,
+      "playerId": "18109",
+      "playerName": "Luis Rioja",
+      "price": 6151600,
+      "esClausula": false,
+      "fromId": "12717108",
+      "fromName": "Eduard",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_9991866": {
+      "ts": 1786075942077,
+      "playerId": "11761",
+      "playerName": "Junior Firpo",
+      "price": 622650,
+      "esClausula": false,
+      "fromId": "12714016",
+      "fromName": "Manu",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_394962507": {
+      "ts": 1786072342077,
+      "playerId": "65111",
+      "playerName": "Odysseas Vlachodimos",
+      "price": 6144790,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Eduard"
+    },
+    "tx_972194311": {
+      "ts": 1786072342077,
+      "playerId": "70998",
+      "playerName": "Izan Merino",
+      "price": 1182240,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "José Manuel"
+    },
+    "tx_1790031077": {
+      "ts": 1786072342077,
+      "playerId": "476",
+      "playerName": "Gerard Moreno",
+      "price": 14728000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Donbom"
+    },
+    "tx_1898005582": {
+      "ts": 1786072342077,
+      "playerId": "71132",
+      "playerName": "Facundo Bernal",
+      "price": 1927000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "raulgp3"
+    },
     "951222182_70928": {
       "ts": 1785726464220,
       "playerId": "70928",
@@ -98685,83 +99527,6 @@
       "fromName": "Mister",
       "toId": null,
       "toName": "Eduard"
-    },
-    "tx_450484991": {
-      "ts": 1785984879664,
-      "playerId": "11697",
-      "playerName": "Lucas Boyé",
-      "price": 6895000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "José Manuel"
-    },
-    "tx_204088491": {
-      "ts": 1785984879664,
-      "playerId": "71008",
-      "playerName": "Rafita Garrido",
-      "price": 1100000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "José Manuel"
-    },
-    "tx_571911817": {
-      "ts": 1785984879664,
-      "playerId": "68652",
-      "playerName": "Ville Koski",
-      "price": 1072298,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "José Manuel"
-    },
-    "tx_2041727696": {
-      "ts": 1785963279664,
-      "playerId": "70928",
-      "playerName": "Suleiman Camara",
-      "price": 361000,
-      "esClausula": false,
-      "fromId": "14515082",
-      "fromName": "Antonio Gómez",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1971808403": {
-      "ts": 1785945279664,
-      "playerId": "63866",
-      "playerName": "Álvaro Núñez",
-      "price": 631250,
-      "esClausula": false,
-      "fromId": "12715076",
-      "fromName": "José Manuel",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_40913091": {
-      "ts": 1785945279664,
-      "playerId": "4774",
-      "playerName": "Álvaro Fernández",
-      "price": 1041310,
-      "esClausula": false,
-      "fromId": "12715076",
-      "fromName": "José Manuel",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_486376675": {
-      "ts": 1785941679664,
-      "playerId": "22668",
-      "playerName": "Lucas Torró",
-      "price": 1179360,
-      "esClausula": false,
-      "fromId": "12714005",
-      "fromName": "raulgp3",
-      "toId": null,
-      "toName": "Mister"
     }
   },
   "rivalBalances": {
