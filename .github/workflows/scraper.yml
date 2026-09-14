@@ -21,12 +21,20 @@ jobs:
       - name: Ejecutar el scraper
         working-directory: scraper
         run: node scrape.js
-      - name: Publicar externo.json en la raiz
-        run: cp scraper/externo.json ./externo.json
+      - name: Publicar JSON en la raiz
+        run: |
+          cp scraper/externo.json ./externo.json
+          if [ -f scraper/clasificacion.json ]; then cp scraper/clasificacion.json ./clasificacion.json; fi
       - name: Commit del resultado
         run: |
           git config user.name "mistertools-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add externo.json
-          git diff --staged --quiet || git commit -m "Actualiza externo.json"
-          git push
+          git add externo.json clasificacion.json 2>/dev/null || git add externo.json
+          git diff --staged --quiet && echo "Sin cambios" && exit 0
+          git commit -m "Actualiza externo.json y clasificacion.json"
+          # Reintentar el push integrando cambios remotos (evita el rechazo fetch-first)
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin main && git push && break
+            echo "Reintento $i tras conflicto de push..."
+            sleep 3
+          done
