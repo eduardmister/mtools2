@@ -1,0 +1,108 @@
+{
+  "format": 1,
+  "fuente": "futbolfantasy",
+  "generatedAt": "2026-09-14T15:23:05.659Z",
+  "total": 20,
+  "porEquipo": {
+    "barcelona j5 j4 j3 j1 j2": {
+      "pos": 1,
+      "jugados": 1,
+      "puntos": 1
+    },
+    "real madrid j5 j4 j3 j1 j2": {
+      "pos": 2,
+      "jugados": 2,
+      "puntos": 2
+    },
+    "alaves j5 j4 j3 j2 j1": {
+      "pos": 3,
+      "jugados": 3,
+      "puntos": 3
+    },
+    "atletico j5 j4 j3 j2 j1": {
+      "pos": 4,
+      "jugados": 4,
+      "puntos": 4
+    },
+    "sevilla j5 j4 j3 j2 j1": {
+      "pos": 5,
+      "jugados": 5,
+      "puntos": 5
+    },
+    "deportivo j5 j4 j3 j2 j1": {
+      "pos": 6,
+      "jugados": 6,
+      "puntos": 6
+    },
+    "betis j4 j3 j1 j2": {
+      "pos": 7,
+      "jugados": 7,
+      "puntos": 7
+    },
+    "espanyol j5 j4 j3 j2 j1": {
+      "pos": 8,
+      "jugados": 8,
+      "puntos": 8
+    },
+    "athletic j5 j4 j3 j1 j2": {
+      "pos": 9,
+      "jugados": 9,
+      "puntos": 9
+    },
+    "racing j5 j4 j3 j2 j1": {
+      "pos": 10,
+      "jugados": 10,
+      "puntos": 10
+    },
+    "osasuna j5 j4 j3 j1 j2": {
+      "pos": 11,
+      "jugados": 11,
+      "puntos": 11
+    },
+    "real sociedad j5 j4 j6 j3 j1": {
+      "pos": 12,
+      "jugados": 12,
+      "puntos": 12
+    },
+    "levante j5 j4 j3 j2 j1": {
+      "pos": 13,
+      "jugados": 13,
+      "puntos": 13
+    },
+    "getafe j5 j4 j3 j2 j1": {
+      "pos": 14,
+      "jugados": 14,
+      "puntos": 14
+    },
+    "celta j5 j4 j6 j3 j1": {
+      "pos": 15,
+      "jugados": 15,
+      "puntos": 15
+    },
+    "rayo j5 j4 j3 j2 j1": {
+      "pos": 16,
+      "jugados": 16,
+      "puntos": 16
+    },
+    "malaga j5 j4 j3 j2 j1": {
+      "pos": 17,
+      "jugados": 17,
+      "puntos": 17
+    },
+    "villarreal j4 j3 j2 j1": {
+      "pos": 18,
+      "jugados": 18,
+      "puntos": 18
+    },
+    "elche j5 j4 j3 j2 j1": {
+      "pos": 19,
+      "jugados": 19,
+      "puntos": 19
+    },
+    "valencia j5 j4 j3 j1 j2": {
+      "pos": 20,
+      "jugados": 20,
+      "puntos": 20
+    }
+  }
+}
