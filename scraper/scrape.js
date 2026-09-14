@@ -97,6 +97,57 @@ function parseEquipo(html, equipo) {
   return out;
 }
 
+
+// Raspa la clasificación de LaLiga desde FutbolFantasy y devuelve
+// { equipoNorm: { pos, puntos, jugados } }. Tolera cambios de estructura.
+async function scrapeClasificacion() {
+  const url = 'https://www.futbolfantasy.com/laliga/clasificacion';
+  try {
+    const res = await fetch(url, { headers: { 'User-Agent': UA } });
+    if (!res.ok) { console.error('clasificación', res.status); return null; }
+    const html = await res.text();
+    const $ = cheerio.load(html);
+    const tabla = {};
+    let pos = 0;
+    // Buscar filas de la tabla de clasificación. FutbolFantasy suele usar
+    // una tabla con enlaces a cada equipo; recorremos filas y extraemos
+    // el nombre del equipo y su posición por orden de aparición.
+    $('table tr, .clasificacion tr, tr').each((i, tr) => {
+      const $tr = $(tr);
+      // Nombre del equipo: primer enlace a /laliga/equipos/ o texto de celda.
+      let equipo = null;
+      const link = $tr.find('a[href*="/equipos/"]').first();
+      if (link.length) equipo = link.text().trim();
+      if (!equipo) {
+        const celdaEquipo = $tr.find('td').eq(1);
+        if (celdaEquipo.length) equipo = celdaEquipo.text().trim();
+      }
+      if (!equipo || equipo.length < 2) return;
+      // Puntos: última celda numérica de la fila (o penúltima).
+      const nums = [];
+      $tr.find('td').each((j, td) => {
+        const n = parseInt($(td).text().trim(), 10);
+        if (!isNaN(n)) nums.push(n);
+      });
+      if (!nums.length) return;
+      pos++;
+      const equipoNorm = normalizar(equipo);
+      if (equipoNorm && !tabla[equipoNorm]) {
+        tabla[equipoNorm] = {
+          pos: pos,
+          jugados: nums[0] != null ? nums[0] : null,
+          puntos: nums[nums.length - 1] != null ? nums[nums.length - 1] : null
+        };
+      }
+    });
+    const n = Object.keys(tabla).length;
+    console.log('Clasificación: ' + n + ' equipos');
+    // Validación básica: esperamos ~20 equipos.
+    if (n < 10) { console.error('Clasificación con pocos equipos (' + n + '), posible cambio de HTML'); }
+    return tabla;
+  } catch (e) { console.error('Error raspando clasificación:', e.message); return null; }
+}
+
 async function main() {
   console.log('== Test de acceso ==');
   const t = await fetch(BASE + 'alaves', { headers: { 'User-Agent': UA } });
@@ -149,5 +200,16 @@ async function main() {
   console.log('externo.json escrito.');
   console.log('Slugs usados para equipos con alternativas:',
     JSON.stringify(slugsUsados));
+
+  // --- Clasificación de LaLiga ---
+  await sleep(600);
+  const clasificacion = await scrapeClasificacion();
+  if (clasificacion) {
+    writeFileSync('clasificacion.json', JSON.stringify({
+      format: 1, fuente: 'futbolfantasy', generatedAt: new Date().toISOString(),
+      total: Object.keys(clasificacion).length, porEquipo: clasificacion
+    }, null, 2));
+    console.log('clasificacion.json escrito.');
+  }
 }
 main();
