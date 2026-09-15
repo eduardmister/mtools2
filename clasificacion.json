@@ -1,7 +1,7 @@
 {
   "format": 1,
   "fuente": "futbolfantasy",
-  "generatedAt": "2026-09-14T15:23:05.659Z",
+  "generatedAt": "2026-09-15T11:10:10.757Z",
   "total": 20,
   "porEquipo": {
     "barcelona j5 j4 j3 j1 j2": {
@@ -9,32 +9,32 @@
       "jugados": 1,
       "puntos": 1
     },
-    "real madrid j5 j4 j3 j1 j2": {
+    "betis j5 j4 j3 j1 j2": {
       "pos": 2,
       "jugados": 2,
       "puntos": 2
     },
-    "alaves j5 j4 j3 j2 j1": {
+    "real madrid j5 j4 j3 j1 j2": {
       "pos": 3,
       "jugados": 3,
       "puntos": 3
     },
-    "atletico j5 j4 j3 j2 j1": {
+    "alaves j5 j4 j3 j2 j1": {
       "pos": 4,
       "jugados": 4,
       "puntos": 4
     },
-    "sevilla j5 j4 j3 j2 j1": {
+    "atletico j5 j4 j3 j2 j1": {
       "pos": 5,
       "jugados": 5,
       "puntos": 5
     },
-    "deportivo j5 j4 j3 j2 j1": {
+    "sevilla j5 j4 j3 j2 j1": {
       "pos": 6,
       "jugados": 6,
       "puntos": 6
     },
-    "betis j4 j3 j1 j2": {
+    "deportivo j5 j4 j3 j2 j1": {
       "pos": 7,
       "jugados": 7,
       "puntos": 7
@@ -89,7 +89,7 @@
       "jugados": 17,
       "puntos": 17
     },
-    "villarreal j4 j3 j2 j1": {
+    "villarreal j5 j4 j3 j2 j1": {
       "pos": 18,
       "jugados": 18,
       "puntos": 18
