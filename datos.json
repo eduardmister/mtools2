@@ -1,7 +1,7 @@
 {
   "format": 2,
   "generatedBy": "0.29.0",
-  "generatedAt": "2026-09-15T08:25:36.164Z",
+  "generatedAt": "2026-09-15T08:26:55.969Z",
   "community": {
     "id": 1933684,
     "name": "⚽️Hombres Blandengues",
@@ -141833,43 +141833,43 @@
   },
   "rivalBalances": {
     "12713977": {
-      "saldo": 10861265,
-      "maxBid": 38289515,
+      "saldo": 4660886,
+      "maxBid": 33911636,
       "name": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
     },
     "12714005": {
-      "saldo": -8166919,
-      "maxBid": 9036331,
+      "saldo": -7911069,
+      "maxBid": 10250181,
       "name": "raulgp3"
     },
     "12714010": {
-      "saldo": 3038660,
-      "maxBid": 21532660,
+      "saldo": 1945520,
+      "maxBid": 20631770,
       "name": "Donbom"
     },
     "12714016": {
-      "saldo": -3207461,
-      "maxBid": 15684789,
+      "saldo": -82661,
+      "maxBid": 19582839,
       "name": "Manu"
     },
     "12714021": {
-      "saldo": 158533,
-      "maxBid": 20829033,
+      "saldo": -235809,
+      "maxBid": 21522691,
       "name": "escuriola"
     },
     "12715076": {
-      "saldo": 11229524,
-      "maxBid": 28320774,
+      "saldo": 10277194,
+      "maxBid": 28687194,
       "name": "José Manuel"
     },
     "12717108": {
-      "saldo": -12386435,
-      "maxBid": 10083065,
+      "saldo": -7239215,
+      "maxBid": 14699535,
       "name": "Eduard"
     },
     "14515082": {
-      "saldo": 1368481,
-      "maxBid": 20958981,
+      "saldo": 532599,
+      "maxBid": 20269099,
       "name": "Antonio Gómez"
     }
   }
