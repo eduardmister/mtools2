@@ -1,10 +1,10 @@
 {
   "format": 2,
-  "generatedBy": "0.29.0",
-  "generatedAt": "2026-09-15T08:26:55.969Z",
+  "generatedBy": "0.30.1",
+  "generatedAt": "2026-09-16T06:45:10.989Z",
   "community": {
-    "id": 1933684,
-    "name": "⚽️Hombres Blandengues",
+    "id": null,
+    "name": null,
     "maxDebtDivisor": 4
   },
   "players": {
@@ -3384,17 +3384,17 @@
       "id": "364",
       "name": "Sergio Canales",
       "position": 3,
-      "value": 6972000,
-      "previousValue": 6884000,
+      "value": 7067000,
+      "previousValue": 6972000,
       "points": 22,
       "avg": 4.4,
       "clause": {
-        "floor": 6972000,
+        "floor": 7067000,
         "multiplier": 1.5,
-        "value": 10458000,
+        "value": 10600500,
         "percentage": 50
       },
-      "clausesRanking": 101,
+      "clausesRanking": 122,
       "pointsHistory": [
         {
           "season": "26/27",
@@ -3463,21 +3463,21 @@
       "values": [
         {
           "time": "Un día",
-          "value": 6884000,
-          "change": 88000,
-          "sign": 88
+          "value": 6972000,
+          "change": 95000,
+          "sign": 95
         },
         {
           "time": "Una semana",
-          "value": 6304000,
-          "change": 668000,
-          "sign": 668
+          "value": 6415000,
+          "change": 652000,
+          "sign": 652
         },
         {
           "time": "Un mes",
-          "value": 4313000,
-          "change": 2659000,
-          "sign": "+2.659.000"
+          "value": 4485000,
+          "change": 2582000,
+          "sign": "+2.582.000"
         }
       ],
       "valuesChart": {
@@ -3825,11 +3825,15 @@
           {
             "value": 6972000,
             "date": "15 sept 2026"
+          },
+          {
+            "value": 7067000,
+            "date": "16 sept 2026"
           }
         ],
         "max": {
-          "value": 6972000,
-          "date": "15 sept 2026"
+          "value": 7067000,
+          "date": "16 sept 2026"
         },
         "min": {
           "value": 975000,
@@ -3847,24 +3851,24 @@
       "id": "392",
       "name": "Denis Suárez",
       "position": 3,
-      "value": 1902000,
-      "previousValue": 1875000,
-      "points": 20,
-      "avg": 4,
+      "value": 1952000,
+      "previousValue": 1902000,
+      "points": 26,
+      "avg": 4.3,
       "clause": {
-        "floor": 1902000,
+        "floor": 1952000,
         "multiplier": 1.5,
-        "value": 2853000,
+        "value": 2928000,
         "percentage": 50
       },
-      "clausesRanking": 149,
+      "clausesRanking": 132,
       "pointsHistory": [
         {
           "season": "26/27",
-          "points": 20,
-          "avg": 4,
+          "points": 26,
+          "avg": 4.3333,
           "id_team": 48,
-          "last_gameweek": 5
+          "last_gameweek": 6
         },
         {
           "season": "25/26",
@@ -3947,35 +3951,31 @@
       "values": [
         {
           "time": "Un día",
-          "value": 1875000,
-          "change": 27000,
-          "sign": 27
+          "value": 1902000,
+          "change": 50000,
+          "sign": 50
         },
         {
           "time": "Una semana",
-          "value": 1687000,
-          "change": 215000,
-          "sign": 215
+          "value": 1728000,
+          "change": 224000,
+          "sign": 224
         },
         {
           "time": "Un mes",
-          "value": 1133000,
-          "change": 769000,
-          "sign": 769
+          "value": 1147000,
+          "change": 805000,
+          "sign": 805
         },
         {
           "time": "Un año",
-          "value": 1033000,
-          "change": 869000,
-          "sign": 869
+          "value": 1068000,
+          "change": 884000,
+          "sign": 884
         }
       ],
       "valuesChart": {
         "points": [
-          {
-            "value": 1033000,
-            "date": "15 sept 2025"
-          },
           {
             "value": 1068000,
             "date": "16 sept 2025"
@@ -5435,6 +5435,10 @@
           {
             "value": 1902000,
             "date": "15 sept 2026"
+          },
+          {
+            "value": 1952000,
+            "date": "16 sept 2026"
           }
         ],
         "max": {
@@ -5447,9 +5451,9 @@
         }
       },
       "nextMatch": {
-        "place": "En casa",
-        "home": "Alavés",
-        "away": "Valencia"
+        "place": "Fuera",
+        "home": "Athletic Club",
+        "away": "Alavés"
       },
       "injury": 0
     },
@@ -8692,17 +8696,17 @@
       "id": "1719",
       "name": "Aïssa Mandi",
       "position": 2,
-      "value": 5200000,
-      "previousValue": 5164000,
+      "value": 5249000,
+      "previousValue": 5200000,
       "points": 25,
       "avg": 5,
       "clause": {
-        "floor": 5200000,
+        "floor": 5249000,
         "multiplier": 1.5,
-        "value": 7800000,
+        "value": 7873500,
         "percentage": 50
       },
-      "clausesRanking": 138,
+      "clausesRanking": 142,
       "pointsHistory": [
         {
           "season": "26/27",
@@ -8771,21 +8775,21 @@
       "values": [
         {
           "time": "Un día",
-          "value": 5164000,
-          "change": 36000,
-          "sign": 36
+          "value": 5200000,
+          "change": 49000,
+          "sign": 49
         },
         {
           "time": "Una semana",
-          "value": 4699000,
-          "change": 501000,
-          "sign": 501
+          "value": 4864000,
+          "change": 385000,
+          "sign": 385
         },
         {
           "time": "Un mes",
-          "value": 2106000,
-          "change": 3094000,
-          "sign": "+3.094.000"
+          "value": 2160000,
+          "change": 3089000,
+          "sign": "+3.089.000"
         }
       ],
       "valuesChart": {
@@ -9037,11 +9041,15 @@
           {
             "value": 5200000,
             "date": "15 sept 2026"
+          },
+          {
+            "value": 5249000,
+            "date": "16 sept 2026"
           }
         ],
         "max": {
-          "value": 5200000,
-          "date": "15 sept 2026"
+          "value": 5249000,
+          "date": "16 sept 2026"
         },
         "min": {
           "value": 749000,
@@ -22996,17 +23004,17 @@
       "id": "15566",
       "name": "Yangel Herrera",
       "position": 3,
-      "value": 3359000,
-      "previousValue": 3270000,
+      "value": 3457000,
+      "previousValue": 3359000,
       "points": 25,
       "avg": 4.2,
       "clause": {
-        "floor": 3359000,
+        "floor": 3457000,
         "multiplier": 1.5,
-        "value": 5038500,
+        "value": 5185500,
         "percentage": 50
       },
-      "clausesRanking": 88,
+      "clausesRanking": 101,
       "pointsHistory": [
         {
           "season": "26/27",
@@ -23082,35 +23090,31 @@
       "values": [
         {
           "time": "Un día",
-          "value": 3270000,
-          "change": 89000,
-          "sign": 89
+          "value": 3359000,
+          "change": 98000,
+          "sign": 98
         },
         {
           "time": "Una semana",
-          "value": 2711000,
-          "change": 648000,
-          "sign": 648
+          "value": 2818000,
+          "change": 639000,
+          "sign": 639
         },
         {
           "time": "Un mes",
-          "value": 1495000,
-          "change": 1864000,
-          "sign": "+1.864.000"
+          "value": 1526000,
+          "change": 1931000,
+          "sign": "+1.931.000"
         },
         {
           "time": "Un año",
-          "value": 2820000,
-          "change": 539000,
-          "sign": 539
+          "value": 2683000,
+          "change": 774000,
+          "sign": 774
         }
       ],
       "valuesChart": {
         "points": [
-          {
-            "value": 2820000,
-            "date": "15 sept 2025"
-          },
           {
             "value": 2683000,
             "date": "16 sept 2025"
@@ -24570,11 +24574,15 @@
           {
             "value": 3359000,
             "date": "15 sept 2026"
+          },
+          {
+            "value": 3457000,
+            "date": "16 sept 2026"
           }
         ],
         "max": {
-          "value": 3359000,
-          "date": "15 sept 2026"
+          "value": 3457000,
+          "date": "16 sept 2026"
         },
         "min": {
           "value": 160000,
@@ -33482,8 +33490,8 @@
       "id": "22604",
       "name": "Iñigo Vicente",
       "position": 3,
-      "value": 8483000,
-      "previousValue": 8309000,
+      "value": 8669000,
+      "previousValue": 8483000,
       "points": 34,
       "avg": 6.8,
       "clause": {
@@ -33492,7 +33500,7 @@
         "value": 17733397.5,
         "percentage": 50
       },
-      "clausesRanking": 37,
+      "clausesRanking": 28,
       "pointsHistory": [
         {
           "season": "26/27",
@@ -33512,21 +33520,21 @@
       "values": [
         {
           "time": "Un día",
-          "value": 8309000,
-          "change": 174000,
-          "sign": 174
+          "value": 8483000,
+          "change": 186000,
+          "sign": 186
         },
         {
           "time": "Una semana",
-          "value": 7438000,
-          "change": 1045000,
-          "sign": "+1.045.000"
+          "value": 7582000,
+          "change": 1087000,
+          "sign": "+1.087.000"
         },
         {
           "time": "Un mes",
-          "value": 4829000,
-          "change": 3654000,
-          "sign": "+3.654.000"
+          "value": 5001000,
+          "change": 3668000,
+          "sign": "+3.668.000"
         }
       ],
       "valuesChart": {
@@ -33886,11 +33894,15 @@
           {
             "value": 8483000,
             "date": "15 sept 2026"
+          },
+          {
+            "value": 8669000,
+            "date": "16 sept 2026"
           }
         ],
         "max": {
-          "value": 8483000,
-          "date": "15 sept 2026"
+          "value": 8669000,
+          "date": "16 sept 2026"
         },
         "min": {
           "value": 1305000,
@@ -62887,24 +62899,24 @@
       "id": "58954",
       "name": "Kylian Mbappé",
       "position": 4,
-      "value": 24517000,
-      "previousValue": 24505000,
-      "points": 55,
-      "avg": 11,
+      "value": 24551000,
+      "previousValue": 24517000,
+      "points": 68,
+      "avg": 11.3,
       "clause": {
         "floor": 31200000,
         "multiplier": 2.5,
         "value": 78000000,
         "percentage": 150
       },
-      "clausesRanking": 24,
+      "clausesRanking": 19,
       "pointsHistory": [
         {
           "season": "26/27",
-          "points": 55,
-          "avg": 11,
+          "points": 68,
+          "avg": 11.3333,
           "id_team": 15,
-          "last_gameweek": 5
+          "last_gameweek": 6
         },
         {
           "season": "25/26",
@@ -62924,35 +62936,31 @@
       "values": [
         {
           "time": "Un día",
-          "value": 24505000,
-          "change": 12000,
-          "sign": 12
+          "value": 24517000,
+          "change": 34000,
+          "sign": 34
         },
         {
           "time": "Una semana",
-          "value": 24443000,
-          "change": 74000,
-          "sign": 74
+          "value": 24468000,
+          "change": 83000,
+          "sign": 83
         },
         {
           "time": "Un mes",
-          "value": 24502000,
-          "change": 15000,
-          "sign": 15
+          "value": 24474000,
+          "change": 77000,
+          "sign": 77
         },
         {
           "time": "Un año",
-          "value": 24244000,
-          "change": 273000,
-          "sign": 273
+          "value": 24263000,
+          "change": 288000,
+          "sign": 288
         }
       ],
       "valuesChart": {
         "points": [
-          {
-            "value": 24244000,
-            "date": "15 sept 2025"
-          },
           {
             "value": 24263000,
             "date": "16 sept 2025"
@@ -64412,6 +64420,10 @@
           {
             "value": 24517000,
             "date": "15 sept 2026"
+          },
+          {
+            "value": 24551000,
+            "date": "16 sept 2026"
           }
         ],
         "max": {
@@ -64419,13 +64431,13 @@
           "date": "25 feb 2026"
         },
         "min": {
-          "value": 24244000,
-          "date": "15 sept 2025"
+          "value": 24263000,
+          "date": "16 sept 2025"
         }
       },
       "nextMatch": {
         "place": "Fuera",
-        "home": "Elche",
+        "home": "Atlético",
         "away": "Real Madrid"
       },
       "injury": 0
@@ -70706,24 +70718,24 @@
       "id": "60888",
       "name": "Roberto Fernández",
       "position": 4,
-      "value": 9757000,
-      "previousValue": 9540000,
-      "points": 47,
-      "avg": 9.4,
+      "value": 9991000,
+      "previousValue": 9757000,
+      "points": 58,
+      "avg": 9.7,
       "clause": {
-        "floor": 9757000,
+        "floor": 9991000,
         "multiplier": 2.5,
-        "value": 24392500,
+        "value": 24977500,
         "percentage": 150
       },
-      "clausesRanking": 12,
+      "clausesRanking": 5,
       "pointsHistory": [
         {
           "season": "26/27",
-          "points": 47,
-          "avg": 9.4,
+          "points": 58,
+          "avg": 9.6667,
           "id_team": 8,
-          "last_gameweek": 5
+          "last_gameweek": 6
         },
         {
           "season": "25/26",
@@ -70743,35 +70755,31 @@
       "values": [
         {
           "time": "Un día",
-          "value": 9540000,
-          "change": 217000,
-          "sign": 217
+          "value": 9757000,
+          "change": 234000,
+          "sign": 234
         },
         {
           "time": "Una semana",
-          "value": 8428000,
-          "change": 1329000,
-          "sign": "+1.329.000"
+          "value": 8610000,
+          "change": 1381000,
+          "sign": "+1.381.000"
         },
         {
           "time": "Un mes",
-          "value": 5111000,
-          "change": 4646000,
-          "sign": "+4.646.000"
+          "value": 5180000,
+          "change": 4811000,
+          "sign": "+4.811.000"
         },
         {
           "time": "Un año",
-          "value": 7273000,
-          "change": 2484000,
-          "sign": "+2.484.000"
+          "value": 7245000,
+          "change": 2746000,
+          "sign": "+2.746.000"
         }
       ],
       "valuesChart": {
         "points": [
-          {
-            "value": 7273000,
-            "date": "15 sept 2025"
-          },
           {
             "value": 7245000,
             "date": "16 sept 2025"
@@ -72231,6 +72239,10 @@
           {
             "value": 9757000,
             "date": "15 sept 2026"
+          },
+          {
+            "value": 9991000,
+            "date": "16 sept 2026"
           }
         ],
         "max": {
@@ -72243,9 +72255,9 @@
         }
       },
       "nextMatch": {
-        "place": "Fuera",
-        "home": "Rayo Vallecano",
-        "away": "Espanyol"
+        "place": "En casa",
+        "home": "Espanyol",
+        "away": "Elche"
       },
       "injury": 0
     },
@@ -72285,17 +72297,17 @@
       "id": "63705",
       "name": "Ionuț Radu",
       "position": 1,
-      "value": 9185000,
-      "previousValue": 9101000,
+      "value": 9259000,
+      "previousValue": 9185000,
       "points": 29,
       "avg": 4.8,
       "clause": {
-        "floor": 9185000,
+        "floor": 9259000,
         "multiplier": 1.5,
-        "value": 13777500,
+        "value": 13888500,
         "percentage": 50
       },
-      "clausesRanking": 122,
+      "clausesRanking": 136,
       "pointsHistory": [
         {
           "season": "26/27",
@@ -72315,35 +72327,31 @@
       "values": [
         {
           "time": "Un día",
-          "value": 9101000,
-          "change": 84000,
-          "sign": 84
+          "value": 9185000,
+          "change": 74000,
+          "sign": 74
         },
         {
           "time": "Una semana",
-          "value": 8523000,
-          "change": 662000,
-          "sign": 662
+          "value": 8656000,
+          "change": 603000,
+          "sign": 603
         },
         {
           "time": "Un mes",
           "value": 7616000,
-          "change": 1569000,
-          "sign": "+1.569.000"
+          "change": 1643000,
+          "sign": "+1.643.000"
         },
         {
           "time": "Un año",
-          "value": 5416000,
-          "change": 3769000,
-          "sign": "+3.769.000"
+          "value": 5502000,
+          "change": 3757000,
+          "sign": "+3.757.000"
         }
       ],
       "valuesChart": {
         "points": [
-          {
-            "value": 5416000,
-            "date": "15 sept 2025"
-          },
           {
             "value": 5502000,
             "date": "16 sept 2025"
@@ -73803,6 +73811,10 @@
           {
             "value": 9185000,
             "date": "15 sept 2026"
+          },
+          {
+            "value": 9259000,
+            "date": "16 sept 2026"
           }
         ],
         "max": {
@@ -80057,17 +80069,17 @@
       "id": "64382",
       "name": "Gabriel Suazo",
       "position": 2,
-      "value": 3224000,
-      "previousValue": 3115000,
+      "value": 3346000,
+      "previousValue": 3224000,
       "points": 23,
       "avg": 4.6,
       "clause": {
-        "floor": 3224000,
+        "floor": 3346000,
         "multiplier": 2,
-        "value": 6448000,
+        "value": 6692000,
         "percentage": 100
       },
-      "clausesRanking": 72,
+      "clausesRanking": 63,
       "pointsHistory": [
         {
           "season": "26/27",
@@ -80087,35 +80099,31 @@
       "values": [
         {
           "time": "Un día",
-          "value": 3115000,
-          "change": 109000,
-          "sign": 109
+          "value": 3224000,
+          "change": 122000,
+          "sign": 122
         },
         {
           "time": "Una semana",
-          "value": 2597000,
-          "change": 627000,
-          "sign": 627
+          "value": 2663000,
+          "change": 683000,
+          "sign": 683
         },
         {
           "time": "Un mes",
-          "value": 1712000,
-          "change": 1512000,
-          "sign": "+1.512.000"
+          "value": 1761000,
+          "change": 1585000,
+          "sign": "+1.585.000"
         },
         {
           "time": "Un año",
-          "value": 3421000,
-          "change": -197000,
-          "sign": -197
+          "value": 3436000,
+          "change": -90000,
+          "sign": -90
         }
       ],
       "valuesChart": {
         "points": [
-          {
-            "value": 3421000,
-            "date": "15 sept 2025"
-          },
           {
             "value": 3436000,
             "date": "16 sept 2025"
@@ -81575,6 +81583,10 @@
           {
             "value": 3224000,
             "date": "15 sept 2026"
+          },
+          {
+            "value": 3346000,
+            "date": "16 sept 2026"
           }
         ],
         "max": {
@@ -81613,24 +81625,24 @@
       "id": "64411",
       "name": "Youssef Enríquez",
       "position": 2,
-      "value": 1872000,
-      "previousValue": 1843000,
-      "points": 20,
-      "avg": 5,
+      "value": 1910000,
+      "previousValue": 1872000,
+      "points": 22,
+      "avg": 4.4,
       "clause": {
-        "floor": 1872000,
+        "floor": 1910000,
         "multiplier": 3.5,
-        "value": 6552000,
+        "value": 6685000,
         "percentage": 250
       },
-      "clausesRanking": 83,
+      "clausesRanking": 98,
       "pointsHistory": [
         {
           "season": "26/27",
-          "points": 20,
-          "avg": 5,
+          "points": 22,
+          "avg": 4.4,
           "id_team": 48,
-          "last_gameweek": 4
+          "last_gameweek": 6
         },
         {
           "season": "25/26",
@@ -81643,35 +81655,31 @@
       "values": [
         {
           "time": "Un día",
-          "value": 1843000,
-          "change": 29000,
-          "sign": 29
+          "value": 1872000,
+          "change": 38000,
+          "sign": 38
         },
         {
           "time": "Una semana",
-          "value": 1562000,
-          "change": 310000,
-          "sign": 310
+          "value": 1621000,
+          "change": 289000,
+          "sign": 289
         },
         {
           "time": "Un mes",
-          "value": 433000,
-          "change": 1439000,
-          "sign": "+1.439.000"
+          "value": 475000,
+          "change": 1435000,
+          "sign": "+1.435.000"
         },
         {
           "time": "Un año",
           "value": 160000,
-          "change": 1712000,
-          "sign": "+1.712.000"
+          "change": 1750000,
+          "sign": "+1.750.000"
         }
       ],
       "valuesChart": {
         "points": [
-          {
-            "value": 160000,
-            "date": "15 sept 2025"
-          },
           {
             "value": 160000,
             "date": "16 sept 2025"
@@ -83131,11 +83139,15 @@
           {
             "value": 1872000,
             "date": "15 sept 2026"
+          },
+          {
+            "value": 1910000,
+            "date": "16 sept 2026"
           }
         ],
         "max": {
-          "value": 1872000,
-          "date": "15 sept 2026"
+          "value": 1910000,
+          "date": "16 sept 2026"
         },
         "min": {
           "value": 160000,
@@ -83143,9 +83155,9 @@
         }
       },
       "nextMatch": {
-        "place": "En casa",
-        "home": "Alavés",
-        "away": "Valencia"
+        "place": "Fuera",
+        "home": "Athletic Club",
+        "away": "Alavés"
       },
       "injury": 0
     },
@@ -90596,17 +90608,17 @@
       "id": "65674",
       "name": "Miguel Román",
       "position": 3,
-      "value": 3493000,
-      "previousValue": 3354000,
+      "value": 3637000,
+      "previousValue": 3493000,
       "points": 31,
       "avg": 5.2,
       "clause": {
-        "floor": 3493000,
+        "floor": 3637000,
         "multiplier": 3.5,
-        "value": 12225500,
+        "value": 12729500,
         "percentage": 250
       },
-      "clausesRanking": 53,
+      "clausesRanking": 45,
       "pointsHistory": [
         {
           "season": "26/27",
@@ -90626,35 +90638,31 @@
       "values": [
         {
           "time": "Un día",
-          "value": 3354000,
-          "change": 139000,
-          "sign": 139
+          "value": 3493000,
+          "change": 144000,
+          "sign": 144
         },
         {
           "time": "Una semana",
-          "value": 2742000,
-          "change": 751000,
-          "sign": 751
+          "value": 2848000,
+          "change": 789000,
+          "sign": 789
         },
         {
           "time": "Un mes",
-          "value": 1209000,
-          "change": 2284000,
-          "sign": "+2.284.000"
+          "value": 1236000,
+          "change": 2401000,
+          "sign": "+2.401.000"
         },
         {
           "time": "Un año",
-          "value": 184000,
-          "change": 3309000,
-          "sign": "+3.309.000"
+          "value": 160000,
+          "change": 3477000,
+          "sign": "+3.477.000"
         }
       ],
       "valuesChart": {
         "points": [
-          {
-            "value": 184000,
-            "date": "15 sept 2025"
-          },
           {
             "value": 160000,
             "date": "16 sept 2025"
@@ -92114,6 +92122,10 @@
           {
             "value": 3493000,
             "date": "15 sept 2026"
+          },
+          {
+            "value": 3637000,
+            "date": "16 sept 2026"
           }
         ],
         "max": {
@@ -96356,14 +96368,14 @@
       "id": "69889",
       "name": "Xavi Espart",
       "position": 2,
-      "value": 3116000,
-      "previousValue": 2971000,
+      "value": 3269000,
+      "previousValue": 3116000,
       "points": 30,
       "avg": 6,
       "clause": {
-        "floor": 3116000,
+        "floor": 3269000,
         "multiplier": 4,
-        "value": 12464000,
+        "value": 13076000,
         "percentage": 300
       },
       "clausesRanking": 1,
@@ -96386,21 +96398,21 @@
       "values": [
         {
           "time": "Un día",
-          "value": 2971000,
-          "change": 145000,
-          "sign": 145
+          "value": 3116000,
+          "change": 153000,
+          "sign": 153
         },
         {
           "time": "Una semana",
-          "value": 2243000,
-          "change": 873000,
-          "sign": 873
+          "value": 2353000,
+          "change": 916000,
+          "sign": 916
         },
         {
           "time": "Un mes",
-          "value": 766000,
-          "change": 2350000,
-          "sign": "+2.350.000"
+          "value": 788000,
+          "change": 2481000,
+          "sign": "+2.481.000"
         }
       ],
       "valuesChart": {
@@ -97156,11 +97168,15 @@
           {
             "value": 3116000,
             "date": "15 sept 2026"
+          },
+          {
+            "value": 3269000,
+            "date": "16 sept 2026"
           }
         ],
         "max": {
-          "value": 3116000,
-          "date": "15 sept 2026"
+          "value": 3269000,
+          "date": "16 sept 2026"
         },
         "min": {
           "value": 160000,
@@ -97485,17 +97501,17 @@
       "id": "70923",
       "name": "Enzo Bardeli",
       "position": 3,
-      "value": 1643000,
-      "previousValue": 1611000,
+      "value": 1680000,
+      "previousValue": 1643000,
       "points": 22,
       "avg": 4.4,
       "clause": {
-        "floor": 1643000,
+        "floor": 1680000,
         "multiplier": 4,
-        "value": 6572000,
+        "value": 6720000,
         "percentage": 300
       },
-      "clausesRanking": 137,
+      "clausesRanking": 148,
       "pointsHistory": [
         {
           "season": "26/27",
@@ -97508,21 +97524,21 @@
       "values": [
         {
           "time": "Un día",
-          "value": 1611000,
-          "change": 32000,
-          "sign": 32
+          "value": 1643000,
+          "change": 37000,
+          "sign": 37
         },
         {
           "time": "Una semana",
-          "value": 1405000,
-          "change": 238000,
-          "sign": 238
+          "value": 1447000,
+          "change": 233000,
+          "sign": 233
         },
         {
           "time": "Un mes",
-          "value": 735000,
-          "change": 908000,
-          "sign": 908
+          "value": 767000,
+          "change": 913000,
+          "sign": 913
         }
       ],
       "valuesChart": {
@@ -97882,11 +97898,15 @@
           {
             "value": 1643000,
             "date": "15 sept 2026"
+          },
+          {
+            "value": 1680000,
+            "date": "16 sept 2026"
           }
         ],
         "max": {
-          "value": 1643000,
-          "date": "15 sept 2026"
+          "value": 1680000,
+          "date": "16 sept 2026"
         },
         "min": {
           "value": 312000,
@@ -99269,17 +99289,17 @@
       "id": "70941",
       "name": "Bil Nsongo",
       "position": 4,
-      "value": 5032000,
-      "previousValue": 4881000,
+      "value": 5083000,
+      "previousValue": 5032000,
       "points": 17,
       "avg": 3.4,
       "clause": {
-        "floor": 5055700,
+        "floor": 5083000,
         "multiplier": 1.5,
-        "value": 7583550,
+        "value": 7624500,
         "percentage": 50
       },
-      "clausesRanking": 47,
+      "clausesRanking": 66,
       "pointsHistory": [
         {
           "season": "26/27",
@@ -99292,21 +99312,21 @@
       "values": [
         {
           "time": "Un día",
-          "value": 4881000,
-          "change": 151000,
-          "sign": 151
+          "value": 5032000,
+          "change": 51000,
+          "sign": 51
         },
         {
           "time": "Una semana",
-          "value": 3887000,
-          "change": 1145000,
-          "sign": "+1.145.000"
+          "value": 4057000,
+          "change": 1026000,
+          "sign": "+1.026.000"
         },
         {
           "time": "Un mes",
-          "value": 1818000,
-          "change": 3214000,
-          "sign": "+3.214.000"
+          "value": 1877000,
+          "change": 3206000,
+          "sign": "+3.206.000"
         }
       ],
       "valuesChart": {
@@ -99658,11 +99678,15 @@
           {
             "value": 5032000,
             "date": "15 sept 2026"
+          },
+          {
+            "value": 5083000,
+            "date": "16 sept 2026"
           }
         ],
         "max": {
-          "value": 5032000,
-          "date": "15 sept 2026"
+          "value": 5083000,
+          "date": "16 sept 2026"
         },
         "min": {
           "value": 160000,
@@ -102448,8 +102472,8 @@
           9471000
         ],
         [
-          "2026-09-01",
-          9810000
+          "2026-08-27",
+          9674000
         ]
       ]
     },
@@ -102585,8 +102609,8 @@
           9031000
         ],
         [
-          "2026-09-01",
-          8735000
+          "2026-08-19",
+          7601000
         ]
       ]
     },
@@ -103030,6 +103054,10 @@
         [
           "2026-09-15",
           6972000
+        ],
+        [
+          "2026-09-16",
+          7067000
         ]
       ]
     },
@@ -103071,6 +103099,10 @@
         [
           "2026-09-15",
           1902000
+        ],
+        [
+          "2026-09-16",
+          1952000
         ]
       ]
     },
@@ -103078,8 +103110,12 @@
       "n": "J. Cancelo",
       "s": [
         [
-          "2026-09-01",
-          13526000
+          "2026-08-31",
+          13631000
+        ],
+        [
+          "2026-09-16",
+          11719000
         ]
       ]
     },
@@ -103228,8 +103264,8 @@
           1718000
         ],
         [
-          "2026-09-03",
-          1489000
+          "2026-08-20",
+          1739000
         ]
       ]
     },
@@ -103371,6 +103407,10 @@
         [
           "2026-09-15",
           5200000
+        ],
+        [
+          "2026-09-16",
+          5249000
         ]
       ]
     },
@@ -103954,8 +103994,8 @@
           8989000
         ],
         [
-          "2026-09-13",
-          10114000
+          "2026-09-16",
+          10174000
         ]
       ]
     },
@@ -103977,11 +104017,11 @@
       ]
     },
     "8953": {
-      "n": "Pablo Maffeo",
+      "n": "P. Maffeo",
       "s": [
         [
-          "2026-09-01",
-          4066000
+          "2026-08-31",
+          4239000
         ]
       ]
     },
@@ -104587,7 +104627,7 @@
       ]
     },
     "14789": {
-      "n": "O. Sancet",
+      "n": "Oihan Sancet",
       "s": [
         [
           "2026-07-31",
@@ -104626,8 +104666,8 @@
           5482000
         ],
         [
-          "2026-09-13",
-          7878000
+          "2026-08-19",
+          6013000
         ]
       ]
     },
@@ -104704,13 +104744,13 @@
           8505000
         ],
         [
-          "2026-09-13",
-          10176000
+          "2026-08-22",
+          9067000
         ]
       ]
     },
     "14911": {
-      "n": "Á. García",
+      "n": "Álvaro García",
       "s": [
         [
           "2026-07-30",
@@ -104729,8 +104769,8 @@
           6470000
         ],
         [
-          "2026-09-03",
-          7642000
+          "2026-08-19",
+          7092000
         ]
       ]
     },
@@ -104833,8 +104873,8 @@
           7937000
         ],
         [
-          "2026-09-13",
-          7586000
+          "2026-09-16",
+          7359000
         ]
       ]
     },
@@ -104902,6 +104942,10 @@
         [
           "2026-09-15",
           3359000
+        ],
+        [
+          "2026-09-16",
+          3457000
         ]
       ]
     },
@@ -105367,8 +105411,8 @@
           198000
         ],
         [
-          "2026-09-09",
-          170000
+          "2026-08-19",
+          181000
         ]
       ]
     },
@@ -105652,12 +105696,12 @@
           1224000
         ],
         [
-          "2026-09-01",
-          2209000
+          "2026-08-19",
+          1504000
         ],
         [
-          "2026-09-13",
-          2975000
+          "2026-08-20",
+          1542000
         ]
       ]
     },
@@ -105985,6 +106029,10 @@
         [
           "2026-09-15",
           8483000
+        ],
+        [
+          "2026-09-16",
+          8669000
         ]
       ]
     },
@@ -106169,8 +106217,8 @@
           724000
         ],
         [
-          "2026-09-01",
-          2901000
+          "2026-08-19",
+          1630000
         ]
       ]
     },
@@ -106311,8 +106359,8 @@
           5718000
         ],
         [
-          "2026-09-13",
-          5564000
+          "2026-08-20",
+          5702000
         ]
       ]
     },
@@ -106624,7 +106672,7 @@
       ]
     },
     "27520": {
-      "n": "F. García",
+      "n": "Fran García",
       "s": [
         [
           "2026-07-28",
@@ -106635,8 +106683,8 @@
           2427000
         ],
         [
-          "2026-09-01",
-          4806000
+          "2026-08-19",
+          2759000
         ]
       ]
     },
@@ -106723,8 +106771,8 @@
           648000
         ],
         [
-          "2026-08-31",
-          1171000
+          "2026-08-19",
+          1178000
         ]
       ]
     },
@@ -106972,8 +107020,8 @@
       "n": "I. Romero",
       "s": [
         [
-          "2026-09-03",
-          6453000
+          "2026-08-22",
+          7291000
         ]
       ]
     },
@@ -107060,8 +107108,8 @@
           172000
         ],
         [
-          "2026-09-01",
-          1046000
+          "2026-08-19",
+          547000
         ],
         [
           "2026-09-13",
@@ -107433,8 +107481,8 @@
           9941000
         ],
         [
-          "2026-09-01",
-          10128000
+          "2026-08-19",
+          10036000
         ]
       ]
     },
@@ -108380,12 +108428,12 @@
           10845000
         ],
         [
-          "2026-09-01",
-          11527000
+          "2026-08-19",
+          10883000
         ],
         [
-          "2026-09-13",
-          11841000
+          "2026-08-22",
+          10995000
         ]
       ]
     },
@@ -108417,12 +108465,12 @@
           2640000
         ],
         [
-          "2026-09-01",
-          1639000
+          "2026-08-19",
+          3241000
         ],
         [
-          "2026-09-03",
-          5358000
+          "2026-08-22",
+          1639000
         ]
       ]
     },
@@ -108488,8 +108536,8 @@
           5193000
         ],
         [
-          "2026-09-01",
-          6595000
+          "2026-08-19",
+          5965000
         ]
       ]
     },
@@ -109114,8 +109162,8 @@
           1998000
         ],
         [
-          "2026-09-13",
-          1770000
+          "2026-08-19",
+          2449000
         ]
       ]
     },
@@ -109467,7 +109515,7 @@
       "n": "A. Boiro",
       "s": [
         [
-          "2026-09-01",
+          "2026-08-31",
           160000
         ]
       ]
@@ -109886,6 +109934,10 @@
         [
           "2026-09-15",
           24517000
+        ],
+        [
+          "2026-09-16",
+          24551000
         ]
       ]
     },
@@ -110496,6 +110548,10 @@
         [
           "2026-09-15",
           2063000
+        ],
+        [
+          "2026-09-16",
+          2063000
         ]
       ]
     },
@@ -110898,6 +110954,10 @@
         [
           "2026-09-15",
           9757000
+        ],
+        [
+          "2026-09-16",
+          9991000
         ]
       ]
     },
@@ -111031,15 +111091,15 @@
       ]
     },
     "61092": {
-      "n": "T. Buchanan",
+      "n": "Tajon Buchanan",
       "s": [
         [
           "2026-08-09",
           5858000
         ],
         [
-          "2026-09-13",
-          5172000
+          "2026-08-19",
+          5791000
         ]
       ]
     },
@@ -111157,6 +111217,10 @@
         [
           "2026-09-15",
           9185000
+        ],
+        [
+          "2026-09-16",
+          9259000
         ]
       ]
     },
@@ -111214,12 +111278,12 @@
           8531000
         ],
         [
-          "2026-09-01",
-          9270000
+          "2026-08-20",
+          8439000
         ],
         [
-          "2026-09-13",
-          8842000
+          "2026-08-31",
+          9242000
         ]
       ]
     },
@@ -111777,6 +111841,10 @@
         [
           "2026-09-15",
           3224000
+        ],
+        [
+          "2026-09-16",
+          3346000
         ]
       ]
     },
@@ -111884,6 +111952,10 @@
         [
           "2026-09-15",
           1872000
+        ],
+        [
+          "2026-09-16",
+          1910000
         ]
       ]
     },
@@ -112026,8 +112098,8 @@
           1705000
         ],
         [
-          "2026-09-01",
-          3499000
+          "2026-08-19",
+          2112000
         ]
       ]
     },
@@ -112159,8 +112231,8 @@
           1005000
         ],
         [
-          "2026-09-13",
-          1812000
+          "2026-08-19",
+          1136000
         ]
       ]
     },
@@ -112527,6 +112599,10 @@
         [
           "2026-09-15",
           3493000
+        ],
+        [
+          "2026-09-16",
+          3637000
         ]
       ]
     },
@@ -112563,8 +112639,8 @@
       "n": "D. Livakovic",
       "s": [
         [
-          "2026-09-01",
-          676000
+          "2026-08-31",
+          704000
         ]
       ]
     },
@@ -112882,12 +112958,12 @@
           978000
         ],
         [
-          "2026-09-01",
-          1096000
+          "2026-08-19",
+          1603000
         ],
         [
-          "2026-09-03",
-          1851000
+          "2026-08-31",
+          1096000
         ],
         [
           "2026-09-13",
@@ -113002,8 +113078,8 @@
           11273000
         ],
         [
-          "2026-09-01",
-          11501000
+          "2026-08-19",
+          11433000
         ]
       ]
     },
@@ -113227,6 +113303,10 @@
         [
           "2026-09-15",
           3116000
+        ],
+        [
+          "2026-09-16",
+          3269000
         ]
       ]
     },
@@ -113377,8 +113457,8 @@
           1231000
         ],
         [
-          "2026-09-01",
-          1966000
+          "2026-08-19",
+          1964000
         ]
       ]
     },
@@ -113554,6 +113634,10 @@
         [
           "2026-09-15",
           1643000
+        ],
+        [
+          "2026-09-16",
+          1680000
         ]
       ]
     },
@@ -113672,14 +113756,14 @@
       ]
     },
     "70928": {
-      "n": "Suleiman Camara",
+      "n": "S. Camara",
       "s": [
         [
           "2026-08-02",
           345000
         ],
         [
-          "2026-08-04",
+          "2026-08-05",
           380000
         ]
       ]
@@ -113865,12 +113949,12 @@
           2636000
         ],
         [
-          "2026-09-01",
-          4920000
+          "2026-08-19",
+          3288000
         ],
         [
-          "2026-09-13",
-          4508000
+          "2026-08-31",
+          4809000
         ]
       ]
     },
@@ -114181,6 +114265,10 @@
         [
           "2026-09-15",
           5032000
+        ],
+        [
+          "2026-09-16",
+          5083000
         ]
       ]
     },
@@ -115008,8 +115096,8 @@
           8330000
         ],
         [
-          "2026-09-01",
-          9718000
+          "2026-08-19",
+          8847000
         ]
       ]
     },
@@ -115109,7 +115197,7 @@
       ]
     },
     "71061": {
-      "n": "Á. Calatrava",
+      "n": "Álex Calatrava",
       "s": [
         [
           "2026-08-04",
@@ -115124,8 +115212,8 @@
           2776000
         ],
         [
-          "2026-09-13",
-          6018000
+          "2026-08-19",
+          3481000
         ]
       ]
     },
@@ -115165,8 +115253,8 @@
           8754000
         ],
         [
-          "2026-09-01",
-          9556000
+          "2026-08-27",
+          9499000
         ]
       ]
     },
@@ -115776,8 +115864,8 @@
           927000
         ],
         [
-          "2026-09-01",
-          1025000
+          "2026-08-19",
+          1081000
         ]
       ]
     },
@@ -115840,8 +115928,8 @@
           697000
         ],
         [
-          "2026-08-31",
-          195000
+          "2026-08-20",
+          484000
         ]
       ]
     },
@@ -117012,52 +117100,8 @@
       "toId": "12717108",
       "toName": "Eduard"
     },
-    "tx_152372514": {
-      "ts": 1787988432553,
-      "playerId": "27907",
-      "playerName": "Roger Brugué",
-      "price": 1000000,
-      "esClausula": true,
-      "fromId": "12714021",
-      "fromName": "escuriola",
-      "toId": "12713977",
-      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
-    },
-    "tx_519541392": {
-      "ts": 1787988432553,
-      "playerId": "68716",
-      "playerName": "Buba Sangaré",
-      "price": 3494000,
-      "esClausula": true,
-      "fromId": "12717108",
-      "fromName": "Eduard",
-      "toId": "14515082",
-      "toName": "Antonio Gómez"
-    },
-    "tx_2099008672": {
-      "ts": 1787988432553,
-      "playerId": "118",
-      "playerName": "Jonny Otto",
-      "price": 4362000,
-      "esClausula": true,
-      "fromId": "14515082",
-      "fromName": "Antonio Gómez",
-      "toId": "12714005",
-      "toName": "raulgp3"
-    },
-    "tx_1091538942": {
-      "ts": 1787902032553,
-      "playerId": "71616",
-      "playerName": "Yassir Zabiri",
-      "price": 4488000,
-      "esClausula": true,
-      "fromId": "12714010",
-      "fromName": "Donbom",
-      "toId": "12714016",
-      "toName": "Manu"
-    },
     "tx_694729570": {
-      "ts": 1787384609165,
+      "ts": 1787364219327,
       "playerId": "63",
       "playerName": "Marc Bartra",
       "price": 4026000,
@@ -117068,7 +117112,7 @@
       "toName": "Manu"
     },
     "tx_868152720": {
-      "ts": 1787298209165,
+      "ts": 1787256219327,
       "playerId": "3060",
       "playerName": "Mariano Díaz",
       "price": 4692000,
@@ -117077,6 +117121,61 @@
       "fromName": "Manu",
       "toId": "12715076",
       "toName": "José Manuel"
+    },
+    "tx_152372514": {
+      "ts": 1788012469930,
+      "playerId": "27907",
+      "playerName": "Roger Brugué",
+      "price": 1000000,
+      "esClausula": true,
+      "fromId": "12714021",
+      "fromName": "escuriola",
+      "toId": "12713977",
+      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
+    },
+    "tx_519541392": {
+      "ts": 1788012469930,
+      "playerId": "68716",
+      "playerName": "Buba Sangaré",
+      "price": 3494000,
+      "esClausula": true,
+      "fromId": "12717108",
+      "fromName": "Eduard",
+      "toId": "14515082",
+      "toName": "Antonio Gómez"
+    },
+    "tx_2099008672": {
+      "ts": 1787926069930,
+      "playerId": "118",
+      "playerName": "Jonny Otto",
+      "price": 4362000,
+      "esClausula": true,
+      "fromId": "14515082",
+      "fromName": "Antonio Gómez",
+      "toId": "12714005",
+      "toName": "raulgp3"
+    },
+    "tx_1091538942": {
+      "ts": 1787926069930,
+      "playerId": "71616",
+      "playerName": "Yassir Zabiri",
+      "price": 4488000,
+      "esClausula": true,
+      "fromId": "12714010",
+      "fromName": "Donbom",
+      "toId": "12714016",
+      "toName": "Manu"
+    },
+    "tx_53514666": {
+      "ts": 1789220315065,
+      "playerId": "71616",
+      "playerName": "Yassir Zabiri",
+      "price": 6732000,
+      "esClausula": true,
+      "fromId": "12714016",
+      "fromName": "Manu",
+      "toId": "12714010",
+      "toName": "Donbom"
     },
     "tx_1818143451": {
       "ts": 1788683821632,
@@ -117111,16 +117210,27 @@
       "toId": "12715076",
       "toName": "José Manuel"
     },
-    "tx_53514666": {
-      "ts": 1789219301472,
-      "playerId": "71616",
-      "playerName": "Yassir Zabiri",
-      "price": 6732000,
+    "tx_868371781": {
+      "ts": 1789454504353,
+      "playerId": "71649",
+      "playerName": "Péter Gulácsi",
+      "price": 4592000,
+      "esClausula": true,
+      "fromId": "12714021",
+      "fromName": "escuriola",
+      "toId": "12714016",
+      "toName": "Manu"
+    },
+    "tx_1050020088": {
+      "ts": 1789454504353,
+      "playerId": "96",
+      "playerName": "Dani Ceballos",
+      "price": 2449500,
       "esClausula": true,
       "fromId": "12714016",
       "fromName": "Manu",
-      "toId": "12714010",
-      "toName": "Donbom"
+      "toId": "12713977",
+      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
     },
     "tx_1858928732": {
       "ts": 1789220315065,
@@ -118012,28 +118122,6 @@
       "fromName": "raulgp3",
       "toId": "12715076",
       "toName": "José Manuel"
-    },
-    "tx_868371781": {
-      "ts": 1789421097394,
-      "playerId": "71649",
-      "playerName": "Péter Gulácsi",
-      "price": 4592000,
-      "esClausula": true,
-      "fromId": "12714021",
-      "fromName": "escuriola",
-      "toId": "12714016",
-      "toName": "Manu"
-    },
-    "tx_1050020088": {
-      "ts": 1789417497394,
-      "playerId": "96",
-      "playerName": "Dani Ceballos",
-      "price": 2449500,
-      "esClausula": true,
-      "fromId": "12714016",
-      "fromName": "Manu",
-      "toId": "12713977",
-      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
     },
     "tx_1858928731": {
       "ts": 1789201502035,
@@ -122503,6 +122591,215 @@
       "toId": "15365364",
       "toName": "Gabriel Aibar"
     },
+    "tx_194952103": {
+      "ts": 1785810641066,
+      "playerId": "64491",
+      "playerName": "Valentín Gómez",
+      "price": 427570,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Antonio Gómez"
+    },
+    "tx_524927081": {
+      "ts": 1785810641066,
+      "playerId": "68716",
+      "playerName": "Buba Sangaré",
+      "price": 1003330,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Eduard"
+    },
+    "tx_1004825080": {
+      "ts": 1785810641066,
+      "playerId": "56578",
+      "playerName": "Johnny Cardoso",
+      "price": 741000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Eduard"
+    },
+    "tx_228407058": {
+      "ts": 1785810641066,
+      "playerId": "4774",
+      "playerName": "Álvaro Fernández",
+      "price": 926000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "José Manuel"
+    },
+    "tx_410689022": {
+      "ts": 1785810641067,
+      "playerId": "28791",
+      "playerName": "Jesús Vázquez",
+      "price": 257000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "escuriola"
+    },
+    "tx_1825260903": {
+      "ts": 1785735041067,
+      "playerId": "70928",
+      "playerName": "Suleiman Camara",
+      "price": 458840,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Antonio Gómez"
+    },
+    "tx_496473306": {
+      "ts": 1785735041067,
+      "playerId": "208",
+      "playerName": "Moi Gómez",
+      "price": 697100,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Manu"
+    },
+    "tx_2024673194": {
+      "ts": 1785735041067,
+      "playerId": "361",
+      "playerName": "Yuri Berchiche",
+      "price": 3610000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "raulgp3"
+    },
+    "tx_2007516562": {
+      "ts": 1785735041067,
+      "playerId": "71124",
+      "playerName": "Denzel Dumfries",
+      "price": 7560000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
+    },
+    "tx_286099152": {
+      "ts": 1785648641067,
+      "playerId": "70940",
+      "playerName": "Zakaria Eddahchouri",
+      "price": 907720,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "José Manuel"
+    },
+    "tx_1856024791": {
+      "ts": 1785648641067,
+      "playerId": "55045",
+      "playerName": "Hugo Sotelo",
+      "price": 810000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "José Manuel"
+    },
+    "tx_520394022": {
+      "ts": 1785648641067,
+      "playerId": "63866",
+      "playerName": "Álvaro Núñez",
+      "price": 495000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "José Manuel"
+    },
+    "tx_758831214": {
+      "ts": 1785648641068,
+      "playerId": "12946",
+      "playerName": "Santi Comesaña",
+      "price": 8355000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
+    },
+    "tx_1409853009": {
+      "ts": 1785562241068,
+      "playerId": "52375",
+      "playerName": "Lamine Yamal",
+      "price": 40000088,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "José Manuel"
+    },
+    "tx_1588630113": {
+      "ts": 1785562241068,
+      "playerId": "29",
+      "playerName": "Iñaki Williams",
+      "price": 5358888,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "José Manuel"
+    },
+    "tx_1413815376": {
+      "ts": 1785562241068,
+      "playerId": "20131",
+      "playerName": "Manu Sánchez",
+      "price": 594000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "José Manuel"
+    },
+    "tx_1043295346": {
+      "ts": 1785562241068,
+      "playerId": "64124",
+      "playerName": "Kervin Arriaga",
+      "price": 1276000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "escuriola"
+    },
+    "tx_781669485": {
+      "ts": 1785562241068,
+      "playerId": "28784",
+      "playerName": "José Ángel Carmona",
+      "price": 990000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "raulgp3"
+    },
+    "tx_1407771465": {
+      "ts": 1785821941581,
+      "playerId": "20346",
+      "playerName": "Guido Rodríguez",
+      "price": 10642800,
+      "esClausula": false,
+      "fromId": "12713977",
+      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
+      "toId": null,
+      "toName": "Mister"
+    },
     "tx_224145534": {
       "ts": 1783679403223,
       "playerId": "49033",
@@ -122557,149 +122854,6 @@
       "fromName": "Mister",
       "toId": null,
       "toName": "Eduard"
-    },
-    "tx_1825260903": {
-      "ts": 1785725739646,
-      "playerId": "70928",
-      "playerName": "Suleiman Camara",
-      "price": 458840,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Antonio Gómez"
-    },
-    "tx_496473306": {
-      "ts": 1785725739646,
-      "playerId": "208",
-      "playerName": "Moi Gómez",
-      "price": 697100,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Manu"
-    },
-    "tx_2024673194": {
-      "ts": 1785725739646,
-      "playerId": "361",
-      "playerName": "Yuri Berchiche",
-      "price": 3610000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "raulgp3"
-    },
-    "tx_2007516562": {
-      "ts": 1785725739646,
-      "playerId": "71124",
-      "playerName": "Denzel Dumfries",
-      "price": 7560000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
-    },
-    "tx_286099152": {
-      "ts": 1785678939646,
-      "playerId": "70940",
-      "playerName": "Zakaria Eddahchouri",
-      "price": 907720,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "José Manuel"
-    },
-    "tx_1856024791": {
-      "ts": 1785678939646,
-      "playerId": "55045",
-      "playerName": "Hugo Sotelo",
-      "price": 810000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "José Manuel"
-    },
-    "tx_520394022": {
-      "ts": 1785678939646,
-      "playerId": "63866",
-      "playerName": "Álvaro Núñez",
-      "price": 495000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "José Manuel"
-    },
-    "tx_758831214": {
-      "ts": 1785678939646,
-      "playerId": "12946",
-      "playerName": "Santi Comesaña",
-      "price": 8355000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
-    },
-    "tx_1409853009": {
-      "ts": 1785592539646,
-      "playerId": "52375",
-      "playerName": "Lamine Yamal",
-      "price": 40000088,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "José Manuel"
-    },
-    "tx_1588630113": {
-      "ts": 1785592539646,
-      "playerId": "29",
-      "playerName": "Iñaki Williams",
-      "price": 5358888,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "José Manuel"
-    },
-    "tx_1413815376": {
-      "ts": 1785592539646,
-      "playerId": "20131",
-      "playerName": "Manu Sánchez",
-      "price": 594000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "José Manuel"
-    },
-    "tx_1043295346": {
-      "ts": 1785592539646,
-      "playerId": "64124",
-      "playerName": "Kervin Arriaga",
-      "price": 1276000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "escuriola"
-    },
-    "tx_781669485": {
-      "ts": 1785592539646,
-      "playerId": "28784",
-      "playerName": "José Ángel Carmona",
-      "price": 990000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "raulgp3"
     },
     "tx_1784117346": {
       "ts": 1785506139647,
@@ -122766,72 +122920,6 @@
       "fromName": "Mister",
       "toId": null,
       "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
-    },
-    "tx_1407771465": {
-      "ts": 1785822771828,
-      "playerId": "20346",
-      "playerName": "Guido Rodríguez",
-      "price": 10642800,
-      "esClausula": false,
-      "fromId": "12713977",
-      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_194952103": {
-      "ts": 1785811851828,
-      "playerId": "64491",
-      "playerName": "Valentín Gómez",
-      "price": 427570,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Antonio Gómez"
-    },
-    "tx_524927081": {
-      "ts": 1785811851828,
-      "playerId": "68716",
-      "playerName": "Buba Sangaré",
-      "price": 1003330,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Eduard"
-    },
-    "tx_1004825080": {
-      "ts": 1785811851828,
-      "playerId": "56578",
-      "playerName": "Johnny Cardoso",
-      "price": 741000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Eduard"
-    },
-    "tx_228407058": {
-      "ts": 1785811851828,
-      "playerId": "4774",
-      "playerName": "Álvaro Fernández",
-      "price": 926000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "José Manuel"
-    },
-    "tx_410689022": {
-      "ts": 1785811851828,
-      "playerId": "28791",
-      "playerName": "Jesús Vázquez",
-      "price": 257000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "escuriola"
     },
     "tx_2124762301": {
       "ts": 1785394272711,
@@ -124055,7 +124143,7 @@
       "toName": "Mister"
     },
     "tx_815720156": {
-      "ts": 1785897148306,
+      "ts": 1785898860685,
       "playerId": "22956",
       "playerName": "Sergio Gómez",
       "price": 4004847,
@@ -124066,7 +124154,7 @@
       "toName": "Eduard"
     },
     "tx_908062064": {
-      "ts": 1785897148306,
+      "ts": 1785898860685,
       "playerId": "11866",
       "playerName": "Hugo Duro",
       "price": 5350000,
@@ -124077,7 +124165,7 @@
       "toName": "José Manuel"
     },
     "tx_239541140": {
-      "ts": 1785897148306,
+      "ts": 1785898860685,
       "playerId": "58986",
       "playerName": "Abel Bretones",
       "price": 1198600,
@@ -124088,7 +124176,7 @@
       "toName": "José Manuel"
     },
     "tx_1173491995": {
-      "ts": 1785897148306,
+      "ts": 1785898860685,
       "playerId": "27333",
       "playerName": "Eric García",
       "price": 17174000,
@@ -124099,7 +124187,7 @@
       "toName": "Donbom"
     },
     "tx_1748684411": {
-      "ts": 1785897148306,
+      "ts": 1785898860686,
       "playerId": "70999",
       "playerName": "Dani Lorenzo",
       "price": 1555600,
@@ -124110,7 +124198,7 @@
       "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
     },
     "tx_798280922": {
-      "ts": 1785875548306,
+      "ts": 1785877260686,
       "playerId": "49329",
       "playerName": "Pep Chavarría",
       "price": 5508000,
@@ -124120,19 +124208,8 @@
       "toId": null,
       "toName": "Mister"
     },
-    "tx_1837793918": {
-      "ts": 1785997911368,
-      "playerId": "1684",
-      "playerName": "Kike García",
-      "price": 2864430,
-      "esClausula": false,
-      "fromId": "12714021",
-      "fromName": "escuriola",
-      "toId": null,
-      "toName": "Mister"
-    },
     "tx_588125809": {
-      "ts": 1785983511368,
+      "ts": 1785984879664,
       "playerId": "11697",
       "playerName": "Lucas Boyé",
       "price": 6895000,
@@ -124143,7 +124220,7 @@
       "toName": "José Manuel"
     },
     "tx_1108480285": {
-      "ts": 1785983511368,
+      "ts": 1785984879664,
       "playerId": "71008",
       "playerName": "Rafita Garrido",
       "price": 1100000,
@@ -124154,7 +124231,7 @@
       "toName": "José Manuel"
     },
     "tx_1790297833": {
-      "ts": 1785983511368,
+      "ts": 1785984879664,
       "playerId": "68652",
       "playerName": "Ville Koski",
       "price": 1072298,
@@ -124165,7 +124242,7 @@
       "toName": "José Manuel"
     },
     "tx_1300468026": {
-      "ts": 1785961911368,
+      "ts": 1785963279664,
       "playerId": "70928",
       "playerName": "Suleiman Camara",
       "price": 361000,
@@ -124176,7 +124253,7 @@
       "toName": "Mister"
     },
     "tx_1230260957": {
-      "ts": 1785943911368,
+      "ts": 1785945279664,
       "playerId": "63866",
       "playerName": "Álvaro Núñez",
       "price": 631250,
@@ -124187,7 +124264,7 @@
       "toName": "Mister"
     },
     "tx_1301140679": {
-      "ts": 1785943911368,
+      "ts": 1785945279664,
       "playerId": "4774",
       "playerName": "Álvaro Fernández",
       "price": 1041310,
@@ -124198,7 +124275,7 @@
       "toName": "Mister"
     },
     "tx_801614099": {
-      "ts": 1785943911368,
+      "ts": 1785941679664,
       "playerId": "22668",
       "playerName": "Lucas Torró",
       "price": 1179360,
@@ -124249,6 +124326,17 @@
       "esClausula": false,
       "fromId": "12715076",
       "fromName": "José Manuel",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1837793918": {
+      "ts": 1785996937055,
+      "playerId": "1684",
+      "playerName": "Kike García",
+      "price": 2864430,
+      "esClausula": false,
+      "fromId": "12714021",
+      "fromName": "escuriola",
       "toId": null,
       "toName": "Mister"
     },
@@ -125781,6 +125869,1315 @@
       "toId": null,
       "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
     },
+    "tx_1135890080": {
+      "ts": 1787152203993,
+      "playerId": "68248",
+      "playerName": "Oso",
+      "price": 5145900,
+      "esClausula": false,
+      "fromId": "12714010",
+      "fromName": "Donbom",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_111465751": {
+      "ts": 1787152203993,
+      "playerId": "53107",
+      "playerName": "Sergi Cardona",
+      "price": 1817640,
+      "esClausula": false,
+      "fromId": "12714005",
+      "fromName": "raulgp3",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1527119057": {
+      "ts": 1787152203993,
+      "playerId": "6065",
+      "playerName": "Pere Milla",
+      "price": 2739800,
+      "esClausula": false,
+      "fromId": "12717108",
+      "fromName": "Eduard",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_13695765": {
+      "ts": 1787152203993,
+      "playerId": "63406",
+      "playerName": "Trent Alexander-Arnold",
+      "price": 6678880,
+      "esClausula": false,
+      "fromId": "12717108",
+      "fromName": "Eduard",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_59375065": {
+      "ts": 1787152203993,
+      "playerId": "71124",
+      "playerName": "Denzel Dumfries",
+      "price": 9274650,
+      "esClausula": false,
+      "fromId": "12713977",
+      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_504971555": {
+      "ts": 1787123403993,
+      "playerId": "11186",
+      "playerName": "Dani Raba",
+      "price": 905000,
+      "esClausula": false,
+      "fromId": "12714021",
+      "fromName": "escuriola",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_192420013": {
+      "ts": 1787112603993,
+      "playerId": "15109",
+      "playerName": "Giovani Lo Celso",
+      "price": 7647720,
+      "esClausula": false,
+      "fromId": "12714016",
+      "fromName": "Manu",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_87252565": {
+      "ts": 1787109003993,
+      "playerId": "17623",
+      "playerName": "Ferland Mendy",
+      "price": 160000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "José Manuel"
+    },
+    "tx_1219486370": {
+      "ts": 1787109003993,
+      "playerId": "71132",
+      "playerName": "Facundo Bernal",
+      "price": 2904099,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "escuriola"
+    },
+    "tx_2082216213": {
+      "ts": 1787109003993,
+      "playerId": "52162",
+      "playerName": "Pape Gueye",
+      "price": 11145000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
+    },
+    "tx_2128541829": {
+      "ts": 1787087403993,
+      "playerId": "60210",
+      "playerName": "Pau Navarro",
+      "price": 2066880,
+      "esClausula": false,
+      "fromId": "14515082",
+      "fromName": "Antonio Gómez",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1968645932": {
+      "ts": 1787087403993,
+      "playerId": "60872",
+      "playerName": "Rubén Vargas",
+      "price": 6899550,
+      "esClausula": false,
+      "fromId": "12713977",
+      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1855537720": {
+      "ts": 1787087403993,
+      "playerId": "29163",
+      "playerName": "Omar El Hilali",
+      "price": 2700000,
+      "esClausula": false,
+      "fromId": "12714016",
+      "fromName": "Manu",
+      "toId": "12714021",
+      "toName": "escuriola"
+    },
+    "tx_1905934338": {
+      "ts": 1787087403993,
+      "playerId": "20141",
+      "playerName": "Germán Valera",
+      "price": 10969000,
+      "esClausula": false,
+      "fromId": "12715076",
+      "fromName": "José Manuel",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1071749425": {
+      "ts": 1787207583094,
+      "playerId": "54817",
+      "playerName": "Arda Güler",
+      "price": 12691860,
+      "esClausula": false,
+      "fromId": "12713977",
+      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_677676214": {
+      "ts": 1787207583094,
+      "playerId": "71037",
+      "playerName": "Facundo González",
+      "price": 2378250,
+      "esClausula": false,
+      "fromId": "12713977",
+      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1042862508": {
+      "ts": 1787203983094,
+      "playerId": "70953",
+      "playerName": "Miguel Loureiro",
+      "price": 1741000,
+      "esClausula": false,
+      "fromId": "12717108",
+      "fromName": "Eduard",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_881242368": {
+      "ts": 1787203983094,
+      "playerId": "78751",
+      "playerName": "Facundo Buonanotte",
+      "price": 2933040,
+      "esClausula": false,
+      "fromId": "12717108",
+      "fromName": "Eduard",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_596594606": {
+      "ts": 1787203983094,
+      "playerId": "27865",
+      "playerName": "Jesús Areso",
+      "price": 1213340,
+      "esClausula": false,
+      "fromId": "12714021",
+      "fromName": "escuriola",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1602155983": {
+      "ts": 1787203983094,
+      "playerId": "19927",
+      "playerName": "Raúl García de Haro",
+      "price": 1448000,
+      "esClausula": false,
+      "fromId": "12714021",
+      "fromName": "escuriola",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1018383935": {
+      "ts": 1787193183094,
+      "playerId": "64411",
+      "playerName": "Youssef Enríquez",
+      "price": 611060,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Eduard"
+    },
+    "tx_399116210": {
+      "ts": 1787193183094,
+      "playerId": "12915",
+      "playerName": "Cucho Hernández",
+      "price": 10922010,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
+    },
+    "tx_1460003639": {
+      "ts": 1787407419327,
+      "playerId": "476",
+      "playerName": "Gerard Moreno",
+      "price": 13659840,
+      "esClausula": false,
+      "fromId": "12714010",
+      "fromName": "Donbom",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1475165045": {
+      "ts": 1787382219327,
+      "playerId": "12915",
+      "playerName": "Cucho Hernández",
+      "price": 11315850,
+      "esClausula": false,
+      "fromId": "12713977",
+      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_682823285": {
+      "ts": 1787367819327,
+      "playerId": "65704",
+      "playerName": "Georges Mikautadze",
+      "price": 14045306,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Antonio Gómez"
+    },
+    "tx_1608783629": {
+      "ts": 1787367819327,
+      "playerId": "68606",
+      "playerName": "Ángel Pérez",
+      "price": 3910009,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "escuriola"
+    },
+    "tx_753997914": {
+      "ts": 1787367819327,
+      "playerId": "1255969",
+      "playerName": "Jorge Domínguez",
+      "price": 216000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "raulgp3"
+    },
+    "tx_1198799938": {
+      "ts": 1787367819327,
+      "playerId": "6065",
+      "playerName": "Pere Milla",
+      "price": 2905000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
+    },
+    "tx_1778790318": {
+      "ts": 1787367819327,
+      "playerId": "15566",
+      "playerName": "Yangel Herrera",
+      "price": 2105000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
+    },
+    "tx_694729570": {
+      "ts": 1787364219327,
+      "playerId": "63",
+      "playerName": "Marc Bartra",
+      "price": 4026000,
+      "esClausula": true,
+      "fromId": "12714021",
+      "fromName": "escuriola",
+      "toId": "12714016",
+      "toName": "Manu"
+    },
+    "tx_1082507079": {
+      "ts": 1787342619327,
+      "playerId": "20449",
+      "playerName": "Fer Niño",
+      "price": 1970000,
+      "esClausula": false,
+      "fromId": "12715076",
+      "fromName": "José Manuel",
+      "toId": "12714021",
+      "toName": "escuriola"
+    },
+    "tx_753273847": {
+      "ts": 1787342619327,
+      "playerId": "70939",
+      "playerName": "Yeremay Hernández",
+      "price": 8408880,
+      "esClausula": false,
+      "fromId": "12713977",
+      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1870084297": {
+      "ts": 1787342619327,
+      "playerId": "23664",
+      "playerName": "Sergio Carreira",
+      "price": 5382300,
+      "esClausula": false,
+      "fromId": "12717108",
+      "fromName": "Eduard",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_868152720": {
+      "ts": 1787256219327,
+      "playerId": "3060",
+      "playerName": "Mariano Díaz",
+      "price": 4692000,
+      "esClausula": true,
+      "fromId": "12714016",
+      "fromName": "Manu",
+      "toId": "12715076",
+      "toName": "José Manuel"
+    },
+    "tx_1133377422": {
+      "ts": 1787256219327,
+      "playerId": "29167",
+      "playerName": "Ángel Fortuño",
+      "price": 206000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Eduard"
+    },
+    "tx_847294023": {
+      "ts": 1787256219327,
+      "playerId": "29",
+      "playerName": "Iñaki Williams",
+      "price": 6898000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "José Manuel"
+    },
+    "tx_963154964": {
+      "ts": 1787256219327,
+      "playerId": "5917",
+      "playerName": "Igor Zubeldia",
+      "price": 1958000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "José Manuel"
+    },
+    "tx_1438968336": {
+      "ts": 1787256219327,
+      "playerId": "607",
+      "playerName": "Borja Mayoral",
+      "price": 1813450,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Manu"
+    },
+    "tx_589692691": {
+      "ts": 1787256219327,
+      "playerId": "48203",
+      "playerName": "Ramón Terrats",
+      "price": 2205000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
+    },
+    "tx_1097353079": {
+      "ts": 1787256219327,
+      "playerId": "17623",
+      "playerName": "Ferland Mendy",
+      "price": 166260,
+      "esClausula": false,
+      "fromId": "12715076",
+      "fromName": "José Manuel",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1723089633": {
+      "ts": 1787256219327,
+      "playerId": "29169",
+      "playerName": "Pablo Ibáñez",
+      "price": 1920000,
+      "esClausula": false,
+      "fromId": "12714005",
+      "fromName": "raulgp3",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_492513813": {
+      "ts": 1787256219327,
+      "playerId": "56583",
+      "playerName": "Augusto Batalla",
+      "price": 7670950,
+      "esClausula": false,
+      "fromId": "12714005",
+      "fromName": "raulgp3",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1509800852": {
+      "ts": 1787843681422,
+      "playerId": "59789",
+      "playerName": "Orri Óskarsson",
+      "price": 5033160,
+      "esClausula": false,
+      "fromId": "12714010",
+      "fromName": "Donbom",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1247016332": {
+      "ts": 1787842901422,
+      "playerId": "432",
+      "playerName": "José Luis Gayà",
+      "price": 3039920,
+      "esClausula": false,
+      "fromId": "12713977",
+      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_159457939": {
+      "ts": 1787801021422,
+      "playerId": "68248",
+      "playerName": "Oso",
+      "price": 5378010,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "José Manuel"
+    },
+    "tx_515284252": {
+      "ts": 1787801021422,
+      "playerId": "476",
+      "playerName": "Gerard Moreno",
+      "price": 13969000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Donbom"
+    },
+    "tx_1700709041": {
+      "ts": 1787801021422,
+      "playerId": "60218",
+      "playerName": "Peio Canales",
+      "price": 2906000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Donbom"
+    },
+    "tx_1210938736": {
+      "ts": 1787801021422,
+      "playerId": "56971",
+      "playerName": "Hector Fort",
+      "price": 1684000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Donbom"
+    },
+    "tx_950475289": {
+      "ts": 1787801021422,
+      "playerId": "70993",
+      "playerName": "Haitam Abaida",
+      "price": 484000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Donbom"
+    },
+    "tx_2123513412": {
+      "ts": 1787801021422,
+      "playerId": "70922",
+      "playerName": "Ibrahima Konaté",
+      "price": 10065010,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
+    },
+    "tx_1790178671": {
+      "ts": 1787801021422,
+      "playerId": "63780",
+      "playerName": "Carlos Espí",
+      "price": 8888000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
+    },
+    "tx_815926763": {
+      "ts": 1787757821422,
+      "playerId": "56924",
+      "playerName": "Etta Eyong",
+      "price": 4317040,
+      "esClausula": false,
+      "fromId": "12714005",
+      "fromName": "raulgp3",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1464241295": {
+      "ts": 1787757821422,
+      "playerId": "55439",
+      "playerName": "Hugo González",
+      "price": 1022040,
+      "esClausula": false,
+      "fromId": "12714005",
+      "fromName": "raulgp3",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1025602655": {
+      "ts": 1787757821422,
+      "playerId": "54832",
+      "playerName": "Santiago Mouriño",
+      "price": 7365530,
+      "esClausula": false,
+      "fromId": "12714010",
+      "fromName": "Donbom",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_779810322": {
+      "ts": 1787757821422,
+      "playerId": "28777",
+      "playerName": "Carlos Álvarez",
+      "price": 4212700,
+      "esClausula": false,
+      "fromId": "12713977",
+      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1362255998": {
+      "ts": 1787671421422,
+      "playerId": "130",
+      "playerName": "Iago Aspas",
+      "price": 4550009,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "escuriola"
+    },
+    "tx_480265694": {
+      "ts": 1787671421422,
+      "playerId": "70932",
+      "playerName": "Sergio Martinez",
+      "price": 1010000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Manu"
+    },
+    "tx_1569761140": {
+      "ts": 1787671421422,
+      "playerId": "392",
+      "playerName": "Denis Suárez",
+      "price": 1355000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "raulgp3"
+    },
+    "tx_1684564370": {
+      "ts": 1787671421422,
+      "playerId": "56502",
+      "playerName": "Mikel Jauregizar",
+      "price": 2860080,
+      "esClausula": false,
+      "fromId": "12714021",
+      "fromName": "escuriola",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_752718610": {
+      "ts": 1787671421422,
+      "playerId": "14811",
+      "playerName": "Unai Simón",
+      "price": 9566550,
+      "esClausula": false,
+      "fromId": "12717108",
+      "fromName": "Eduard",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1057451547": {
+      "ts": 1787671421422,
+      "playerId": "56925",
+      "playerName": "Jon Aramburu",
+      "price": 4985200,
+      "esClausula": false,
+      "fromId": "12714010",
+      "fromName": "Donbom",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1725086598": {
+      "ts": 1787671421422,
+      "playerId": "35059",
+      "playerName": "Ferran Jutglà",
+      "price": 8502180,
+      "esClausula": false,
+      "fromId": "12714005",
+      "fromName": "raulgp3",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1210054797": {
+      "ts": 1787931103939,
+      "playerId": "607",
+      "playerName": "Borja Mayoral",
+      "price": 1753060,
+      "esClausula": false,
+      "fromId": "12714016",
+      "fromName": "Manu",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_527775340": {
+      "ts": 1787931043939,
+      "playerId": "70938",
+      "playerName": "Álvaro Mantilla",
+      "price": 1778040,
+      "esClausula": false,
+      "fromId": "12714016",
+      "fromName": "Manu",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1220367859": {
+      "ts": 1787929363939,
+      "playerId": "6065",
+      "playerName": "Pere Milla",
+      "price": 3373650,
+      "esClausula": false,
+      "fromId": "12713977",
+      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1181996887": {
+      "ts": 1787929303939,
+      "playerId": "71124",
+      "playerName": "Denzel Dumfries",
+      "price": 9708360,
+      "esClausula": false,
+      "fromId": "12717108",
+      "fromName": "Eduard",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1783050423": {
+      "ts": 1787884603939,
+      "playerId": "59533",
+      "playerName": "Gerard Martín",
+      "price": 10359100,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Eduard"
+    },
+    "tx_1836631614": {
+      "ts": 1787884603939,
+      "playerId": "63871",
+      "playerName": "Marc Aguado",
+      "price": 3590009,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "escuriola"
+    },
+    "tx_315503015": {
+      "ts": 1787884603939,
+      "playerId": "27907",
+      "playerName": "Roger Brugué",
+      "price": 459009,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "escuriola"
+    },
+    "tx_580788985": {
+      "ts": 1787884603939,
+      "playerId": "65727",
+      "playerName": "Alemão",
+      "price": 2100460,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Manu"
+    },
+    "tx_440808714": {
+      "ts": 1787884603939,
+      "playerId": "64562",
+      "playerName": "Nelson Deossa",
+      "price": 1286070,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Manu"
+    },
+    "tx_1248387300": {
+      "ts": 1787884603939,
+      "playerId": "67942",
+      "playerName": "Íñigo Arguibide",
+      "price": 712010,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Manu"
+    },
+    "tx_2006616137": {
+      "ts": 1787884603939,
+      "playerId": "10",
+      "playerName": "Aymeric Laporte",
+      "price": 9592000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Donbom"
+    },
+    "tx_1619254136": {
+      "ts": 1787863003939,
+      "playerId": "22527",
+      "playerName": "Aimar Oroz",
+      "price": 5808400,
+      "esClausula": false,
+      "fromId": "12713977",
+      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1269432987": {
+      "ts": 1787855803939,
+      "playerId": "70941",
+      "playerName": "Bil Nsongo",
+      "price": 2700740,
+      "esClausula": false,
+      "fromId": "12714021",
+      "fromName": "escuriola",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_988409971": {
+      "ts": 1788160069930,
+      "playerId": "55088",
+      "playerName": "Carl Starfelt",
+      "price": 2478600,
+      "esClausula": false,
+      "fromId": "12714005",
+      "fromName": "raulgp3",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_336088627": {
+      "ts": 1788145669930,
+      "playerId": "15342",
+      "playerName": "Ander Barrenetxea",
+      "price": 7693000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Eduard"
+    },
+    "tx_652740132": {
+      "ts": 1788145669930,
+      "playerId": "63868",
+      "playerName": "Rodrigo Mendoza",
+      "price": 1199000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "José Manuel"
+    },
+    "tx_1574178936": {
+      "ts": 1788145669930,
+      "playerId": "78751",
+      "playerName": "Facundo Buonanotte",
+      "price": 2539000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Donbom"
+    },
+    "tx_2072780169": {
+      "ts": 1788127669930,
+      "playerId": "61093",
+      "playerName": "Maroan Sannadi",
+      "price": 184140,
+      "esClausula": false,
+      "fromId": "12714005",
+      "fromName": "raulgp3",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_152003100": {
+      "ts": 1788102469930,
+      "playerId": "27516",
+      "playerName": "Andrés Martín",
+      "price": 7288320,
+      "esClausula": false,
+      "fromId": "12715076",
+      "fromName": "José Manuel",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_2083352138": {
+      "ts": 1788102469930,
+      "playerId": "52162",
+      "playerName": "Pape Gueye",
+      "price": 12034050,
+      "esClausula": false,
+      "fromId": "12713977",
+      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1899748820": {
+      "ts": 1788102469930,
+      "playerId": "55664",
+      "playerName": "Unai Marrero",
+      "price": 388620,
+      "esClausula": false,
+      "fromId": "12717108",
+      "fromName": "Eduard",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1356048858": {
+      "ts": 1788098869930,
+      "playerId": "63705",
+      "playerName": "Ionuț Radu",
+      "price": 8000000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Eduard"
+    },
+    "tx_1235324909": {
+      "ts": 1788098869930,
+      "playerId": "69744",
+      "playerName": "Julio Díaz",
+      "price": 1133000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Donbom"
+    },
+    "tx_2429610": {
+      "ts": 1788098869930,
+      "playerId": "59789",
+      "playerName": "Orri Óskarsson",
+      "price": 5100000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "raulgp3"
+    },
+    "tx_152372514": {
+      "ts": 1788012469930,
+      "playerId": "27907",
+      "playerName": "Roger Brugué",
+      "price": 1000000,
+      "esClausula": true,
+      "fromId": "12714021",
+      "fromName": "escuriola",
+      "toId": "12713977",
+      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
+    },
+    "tx_2012546039": {
+      "ts": 1788012469930,
+      "playerId": "70931",
+      "playerName": "Maguette Gueye",
+      "price": 1873740,
+      "esClausula": false,
+      "fromId": "12717108",
+      "fromName": "Eduard",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_519541392": {
+      "ts": 1788012469930,
+      "playerId": "68716",
+      "playerName": "Buba Sangaré",
+      "price": 3494000,
+      "esClausula": true,
+      "fromId": "12717108",
+      "fromName": "Eduard",
+      "toId": "14515082",
+      "toName": "Antonio Gómez"
+    },
+    "tx_1902931462": {
+      "ts": 1788012469930,
+      "playerId": "78750",
+      "playerName": "Orel Mangala",
+      "price": 2940000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "raulgp3"
+    },
+    "tx_1367225885": {
+      "ts": 1788012469930,
+      "playerId": "58958",
+      "playerName": "Pelayo Fernández",
+      "price": 420000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "raulgp3"
+    },
+    "tx_73896333": {
+      "ts": 1788012469930,
+      "playerId": "61093",
+      "playerName": "Maroan Sannadi",
+      "price": 167000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "raulgp3"
+    },
+    "tx_2099008672": {
+      "ts": 1787926069930,
+      "playerId": "118",
+      "playerName": "Jonny Otto",
+      "price": 4362000,
+      "esClausula": true,
+      "fromId": "14515082",
+      "fromName": "Antonio Gómez",
+      "toId": "12714005",
+      "toName": "raulgp3"
+    },
+    "tx_462630890": {
+      "ts": 1787926069930,
+      "playerId": "64038",
+      "playerName": "José Salinas",
+      "price": 1157210,
+      "esClausula": false,
+      "fromId": "12714010",
+      "fromName": "Donbom",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1091538942": {
+      "ts": 1787926069930,
+      "playerId": "71616",
+      "playerName": "Yassir Zabiri",
+      "price": 4488000,
+      "esClausula": true,
+      "fromId": "12714010",
+      "fromName": "Donbom",
+      "toId": "12714016",
+      "toName": "Manu"
+    },
+    "tx_40568033": {
+      "ts": 1788012721494,
+      "playerId": "58125",
+      "playerName": "Mario Martín",
+      "price": 1828860,
+      "esClausula": false,
+      "fromId": "12717108",
+      "fromName": "Eduard",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_126578719": {
+      "ts": 1789285115065,
+      "playerId": "523868",
+      "playerName": "Robbie Ure",
+      "price": 3238560,
+      "esClausula": false,
+      "fromId": "12714010",
+      "fromName": "Donbom",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_947302282": {
+      "ts": 1789281515065,
+      "playerId": "36046",
+      "playerName": "Gonzalo Villar",
+      "price": 3884160,
+      "esClausula": false,
+      "fromId": "12715076",
+      "fromName": "José Manuel",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_479890953": {
+      "ts": 1789267115065,
+      "playerId": "4836189",
+      "playerName": "Harvey Elliott",
+      "price": 5116000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Eduard"
+    },
+    "tx_1007937176": {
+      "ts": 1789267115065,
+      "playerId": "70941",
+      "playerName": "Bil Nsongo",
+      "price": 5055700,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Eduard"
+    },
+    "tx_601780156": {
+      "ts": 1789267115065,
+      "playerId": "56632",
+      "playerName": "Isaac Romero",
+      "price": 4105000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "raulgp3"
+    },
+    "tx_1167754908": {
+      "ts": 1789223915065,
+      "playerId": "17615",
+      "playerName": "Sergio Herrera",
+      "price": 7880000,
+      "esClausula": false,
+      "fromId": "12715076",
+      "fromName": "José Manuel",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_53514666": {
+      "ts": 1789220315065,
+      "playerId": "71616",
+      "playerName": "Yassir Zabiri",
+      "price": 6732000,
+      "esClausula": true,
+      "fromId": "12714016",
+      "fromName": "Manu",
+      "toId": "12714010",
+      "toName": "Donbom"
+    },
+    "tx_370896386": {
+      "ts": 1789202315065,
+      "playerId": "55664",
+      "playerName": "Unai Marrero",
+      "price": 652988,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Antonio Gómez"
+    },
+    "tx_1047612110": {
+      "ts": 1789202315065,
+      "playerId": "28612",
+      "playerName": "Mathew Ryan",
+      "price": 10580000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "José Manuel"
+    },
+    "tx_45727614": {
+      "ts": 1789202315065,
+      "playerId": "24",
+      "playerName": "Unai López",
+      "price": 4830000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Manu"
+    },
+    "tx_979724174": {
+      "ts": 1789202315065,
+      "playerId": "5916",
+      "playerName": "Jon Guridi",
+      "price": 4529000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
+    },
+    "tx_22539807": {
+      "ts": 1789115915065,
+      "playerId": "25621",
+      "playerName": "Andrei Rațiu",
+      "price": 6953000,
+      "esClausula": false,
+      "fromId": "12717108",
+      "fromName": "Eduard",
+      "toId": "12713977",
+      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
+    },
+    "tx_29046565": {
+      "ts": 1789115915065,
+      "playerId": "25630",
+      "playerName": "Victor Chust",
+      "price": 3069000,
+      "esClausula": false,
+      "fromId": "12713977",
+      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_529871389": {
+      "ts": 1789115915065,
+      "playerId": "69744",
+      "playerName": "Julio Díaz",
+      "price": 527100,
+      "esClausula": false,
+      "fromId": "12714010",
+      "fromName": "Donbom",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_933471545": {
+      "ts": 1789115915065,
+      "playerId": "64562",
+      "playerName": "Nelson Deossa",
+      "price": 1426000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "José Manuel"
+    },
+    "tx_385265126": {
+      "ts": 1789115915065,
+      "playerId": "71149",
+      "playerName": "Gabriel Moscardo",
+      "price": 1176000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "José Manuel"
+    },
+    "tx_234886139": {
+      "ts": 1789115915065,
+      "playerId": "59534",
+      "playerName": "David Otorbi",
+      "price": 315380,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "José Manuel"
+    },
+    "tx_1328387698": {
+      "ts": 1789115915065,
+      "playerId": "71791",
+      "playerName": "Pedro Felipe",
+      "price": 301000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
+    },
+    "tx_1001429399": {
+      "ts": 1789115915065,
+      "playerId": "70950",
+      "playerName": "Giacomo Quagliata",
+      "price": 3600000,
+      "esClausula": false,
+      "fromId": "12714005",
+      "fromName": "raulgp3",
+      "toId": "12713977",
+      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
+    },
+    "tx_2000276097": {
+      "ts": 1789115915065,
+      "playerId": "68652",
+      "playerName": "Ville Koski",
+      "price": 2758350,
+      "esClausula": false,
+      "fromId": "12714005",
+      "fromName": "raulgp3",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1187804601": {
+      "ts": 1789029515065,
+      "playerId": "22956",
+      "playerName": "Sergio Gómez",
+      "price": 6004950,
+      "esClausula": false,
+      "fromId": "12717108",
+      "fromName": "Eduard",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_818794183": {
+      "ts": 1789029515065,
+      "playerId": "29223",
+      "playerName": "Mario Soriano",
+      "price": 5637190,
+      "esClausula": false,
+      "fromId": "12714005",
+      "fromName": "raulgp3",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_261127111": {
+      "ts": 1789029515065,
+      "playerId": "19524",
+      "playerName": "Iker Losada",
+      "price": 176800,
+      "esClausula": false,
+      "fromId": "12714010",
+      "fromName": "Donbom",
+      "toId": null,
+      "toName": "Mister"
+    },
     "tx_1248710240": {
       "ts": 1788244026585,
       "playerId": "58436",
@@ -125946,237 +127343,6 @@
       "toId": null,
       "toName": "Mister"
     },
-    "tx_40568033": {
-      "ts": 1788186426586,
-      "playerId": "58125",
-      "playerName": "Mario Martín",
-      "price": 1828860,
-      "esClausula": false,
-      "fromId": "12717108",
-      "fromName": "Eduard",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_988409971": {
-      "ts": 1788161226586,
-      "playerId": "55088",
-      "playerName": "Carl Starfelt",
-      "price": 2478600,
-      "esClausula": false,
-      "fromId": "12714005",
-      "fromName": "raulgp3",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_336088627": {
-      "ts": 1788161226586,
-      "playerId": "15342",
-      "playerName": "Ander Barrenetxea",
-      "price": 7693000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Eduard"
-    },
-    "tx_652740132": {
-      "ts": 1788161226586,
-      "playerId": "63868",
-      "playerName": "Rodrigo Mendoza",
-      "price": 1199000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "José Manuel"
-    },
-    "tx_1574178936": {
-      "ts": 1788161226586,
-      "playerId": "78751",
-      "playerName": "Facundo Buonanotte",
-      "price": 2539000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Donbom"
-    },
-    "tx_2072780169": {
-      "ts": 1788161226586,
-      "playerId": "61093",
-      "playerName": "Maroan Sannadi",
-      "price": 184140,
-      "esClausula": false,
-      "fromId": "12714005",
-      "fromName": "raulgp3",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_152003100": {
-      "ts": 1788074826586,
-      "playerId": "27516",
-      "playerName": "Andrés Martín",
-      "price": 7288320,
-      "esClausula": false,
-      "fromId": "12715076",
-      "fromName": "José Manuel",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_2083352138": {
-      "ts": 1788074826586,
-      "playerId": "52162",
-      "playerName": "Pape Gueye",
-      "price": 12034050,
-      "esClausula": false,
-      "fromId": "12713977",
-      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1899748820": {
-      "ts": 1788074826586,
-      "playerId": "55664",
-      "playerName": "Unai Marrero",
-      "price": 388620,
-      "esClausula": false,
-      "fromId": "12717108",
-      "fromName": "Eduard",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1356048858": {
-      "ts": 1788074832553,
-      "playerId": "63705",
-      "playerName": "Ionuț Radu",
-      "price": 8000000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Eduard"
-    },
-    "tx_1235324909": {
-      "ts": 1788074832553,
-      "playerId": "69744",
-      "playerName": "Julio Díaz",
-      "price": 1133000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Donbom"
-    },
-    "tx_2429610": {
-      "ts": 1788074832553,
-      "playerId": "59789",
-      "playerName": "Orri Óskarsson",
-      "price": 5100000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "raulgp3"
-    },
-    "tx_152372514": {
-      "ts": 1787988432553,
-      "playerId": "27907",
-      "playerName": "Roger Brugué",
-      "price": 1000000,
-      "esClausula": true,
-      "fromId": "12714021",
-      "fromName": "escuriola",
-      "toId": "12713977",
-      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
-    },
-    "tx_2012546039": {
-      "ts": 1787988432553,
-      "playerId": "70931",
-      "playerName": "Maguette Gueye",
-      "price": 1873740,
-      "esClausula": false,
-      "fromId": "12717108",
-      "fromName": "Eduard",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_519541392": {
-      "ts": 1787988432553,
-      "playerId": "68716",
-      "playerName": "Buba Sangaré",
-      "price": 3494000,
-      "esClausula": true,
-      "fromId": "12717108",
-      "fromName": "Eduard",
-      "toId": "14515082",
-      "toName": "Antonio Gómez"
-    },
-    "tx_1902931462": {
-      "ts": 1787988432553,
-      "playerId": "78750",
-      "playerName": "Orel Mangala",
-      "price": 2940000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "raulgp3"
-    },
-    "tx_1367225885": {
-      "ts": 1787988432553,
-      "playerId": "58958",
-      "playerName": "Pelayo Fernández",
-      "price": 420000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "raulgp3"
-    },
-    "tx_73896333": {
-      "ts": 1787988432553,
-      "playerId": "61093",
-      "playerName": "Maroan Sannadi",
-      "price": 167000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "raulgp3"
-    },
-    "tx_2099008672": {
-      "ts": 1787988432553,
-      "playerId": "118",
-      "playerName": "Jonny Otto",
-      "price": 4362000,
-      "esClausula": true,
-      "fromId": "14515082",
-      "fromName": "Antonio Gómez",
-      "toId": "12714005",
-      "toName": "raulgp3"
-    },
-    "tx_462630890": {
-      "ts": 1787988432553,
-      "playerId": "64038",
-      "playerName": "José Salinas",
-      "price": 1157210,
-      "esClausula": false,
-      "fromId": "12714010",
-      "fromName": "Donbom",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1091538942": {
-      "ts": 1787902032553,
-      "playerId": "71616",
-      "playerName": "Yassir Zabiri",
-      "price": 4488000,
-      "esClausula": true,
-      "fromId": "12714010",
-      "fromName": "Donbom",
-      "toId": "12714016",
-      "toName": "Manu"
-    },
     "tx_1017063954": {
       "ts": 1787902032553,
       "playerId": "68248",
@@ -126185,369 +127351,6 @@
       "esClausula": false,
       "fromId": "12715076",
       "fromName": "José Manuel",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1210054797": {
-      "ts": 1787902032553,
-      "playerId": "607",
-      "playerName": "Borja Mayoral",
-      "price": 1753060,
-      "esClausula": false,
-      "fromId": "12714016",
-      "fromName": "Manu",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_527775340": {
-      "ts": 1787902032553,
-      "playerId": "70938",
-      "playerName": "Álvaro Mantilla",
-      "price": 1778040,
-      "esClausula": false,
-      "fromId": "12714016",
-      "fromName": "Manu",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1220367859": {
-      "ts": 1787902032553,
-      "playerId": "6065",
-      "playerName": "Pere Milla",
-      "price": 3373650,
-      "esClausula": false,
-      "fromId": "12713977",
-      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1181996887": {
-      "ts": 1787902032553,
-      "playerId": "71124",
-      "playerName": "Denzel Dumfries",
-      "price": 9708360,
-      "esClausula": false,
-      "fromId": "12717108",
-      "fromName": "Eduard",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1783050423": {
-      "ts": 1787902036817,
-      "playerId": "59533",
-      "playerName": "Gerard Martín",
-      "price": 10359100,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Eduard"
-    },
-    "tx_1836631614": {
-      "ts": 1787902036817,
-      "playerId": "63871",
-      "playerName": "Marc Aguado",
-      "price": 3590009,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "escuriola"
-    },
-    "tx_315503015": {
-      "ts": 1787902036817,
-      "playerId": "27907",
-      "playerName": "Roger Brugué",
-      "price": 459009,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "escuriola"
-    },
-    "tx_580788985": {
-      "ts": 1787902036817,
-      "playerId": "65727",
-      "playerName": "Alemão",
-      "price": 2100460,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Manu"
-    },
-    "tx_440808714": {
-      "ts": 1787902036817,
-      "playerId": "64562",
-      "playerName": "Nelson Deossa",
-      "price": 1286070,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Manu"
-    },
-    "tx_1248387300": {
-      "ts": 1787902036818,
-      "playerId": "67942",
-      "playerName": "Íñigo Arguibide",
-      "price": 712010,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Manu"
-    },
-    "tx_2006616137": {
-      "ts": 1787902036818,
-      "playerId": "10",
-      "playerName": "Aymeric Laporte",
-      "price": 9592000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Donbom"
-    },
-    "tx_1619254136": {
-      "ts": 1787902036818,
-      "playerId": "22527",
-      "playerName": "Aimar Oroz",
-      "price": 5808400,
-      "esClausula": false,
-      "fromId": "12713977",
-      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1269432987": {
-      "ts": 1787815636818,
-      "playerId": "70941",
-      "playerName": "Bil Nsongo",
-      "price": 2700740,
-      "esClausula": false,
-      "fromId": "12714021",
-      "fromName": "escuriola",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1509800852": {
-      "ts": 1787815636818,
-      "playerId": "59789",
-      "playerName": "Orri Óskarsson",
-      "price": 5033160,
-      "esClausula": false,
-      "fromId": "12714010",
-      "fromName": "Donbom",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1247016332": {
-      "ts": 1787815636818,
-      "playerId": "432",
-      "playerName": "José Luis Gayà",
-      "price": 3039920,
-      "esClausula": false,
-      "fromId": "12713977",
-      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_159457939": {
-      "ts": 1787815636818,
-      "playerId": "68248",
-      "playerName": "Oso",
-      "price": 5378010,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "José Manuel"
-    },
-    "tx_515284252": {
-      "ts": 1787815636818,
-      "playerId": "476",
-      "playerName": "Gerard Moreno",
-      "price": 13969000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Donbom"
-    },
-    "tx_1700709041": {
-      "ts": 1787815636818,
-      "playerId": "60218",
-      "playerName": "Peio Canales",
-      "price": 2906000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Donbom"
-    },
-    "tx_1210938736": {
-      "ts": 1787815636818,
-      "playerId": "56971",
-      "playerName": "Hector Fort",
-      "price": 1684000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Donbom"
-    },
-    "tx_950475289": {
-      "ts": 1787815636818,
-      "playerId": "70993",
-      "playerName": "Haitam Abaida",
-      "price": 484000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Donbom"
-    },
-    "tx_2123513412": {
-      "ts": 1787815636818,
-      "playerId": "70922",
-      "playerName": "Ibrahima Konaté",
-      "price": 10065010,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
-    },
-    "tx_1790178671": {
-      "ts": 1787815636818,
-      "playerId": "63780",
-      "playerName": "Carlos Espí",
-      "price": 8888000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
-    },
-    "tx_815926763": {
-      "ts": 1787729236818,
-      "playerId": "56924",
-      "playerName": "Etta Eyong",
-      "price": 4317040,
-      "esClausula": false,
-      "fromId": "12714005",
-      "fromName": "raulgp3",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1464241295": {
-      "ts": 1787729236818,
-      "playerId": "55439",
-      "playerName": "Hugo González",
-      "price": 1022040,
-      "esClausula": false,
-      "fromId": "12714005",
-      "fromName": "raulgp3",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1025602655": {
-      "ts": 1787729236818,
-      "playerId": "54832",
-      "playerName": "Santiago Mouriño",
-      "price": 7365530,
-      "esClausula": false,
-      "fromId": "12714010",
-      "fromName": "Donbom",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_779810322": {
-      "ts": 1787729236818,
-      "playerId": "28777",
-      "playerName": "Carlos Álvarez",
-      "price": 4212700,
-      "esClausula": false,
-      "fromId": "12713977",
-      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1362255998": {
-      "ts": 1787729236818,
-      "playerId": "130",
-      "playerName": "Iago Aspas",
-      "price": 4550009,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "escuriola"
-    },
-    "tx_480265694": {
-      "ts": 1787729236818,
-      "playerId": "70932",
-      "playerName": "Sergio Martinez",
-      "price": 1010000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Manu"
-    },
-    "tx_1569761140": {
-      "ts": 1787729236818,
-      "playerId": "392",
-      "playerName": "Denis Suárez",
-      "price": 1355000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "raulgp3"
-    },
-    "tx_1684564370": {
-      "ts": 1787729236818,
-      "playerId": "56502",
-      "playerName": "Mikel Jauregizar",
-      "price": 2860080,
-      "esClausula": false,
-      "fromId": "12714021",
-      "fromName": "escuriola",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_752718610": {
-      "ts": 1787729239996,
-      "playerId": "14811",
-      "playerName": "Unai Simón",
-      "price": 9566550,
-      "esClausula": false,
-      "fromId": "12717108",
-      "fromName": "Eduard",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1057451547": {
-      "ts": 1787642839996,
-      "playerId": "56925",
-      "playerName": "Jon Aramburu",
-      "price": 4985200,
-      "esClausula": false,
-      "fromId": "12714010",
-      "fromName": "Donbom",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1725086598": {
-      "ts": 1787642839996,
-      "playerId": "35059",
-      "playerName": "Ferran Jutglà",
-      "price": 8502180,
-      "esClausula": false,
-      "fromId": "12714005",
-      "fromName": "raulgp3",
       "toId": null,
       "toName": "Mister"
     },
@@ -126793,204 +127596,6 @@
       "toId": null,
       "toName": "Mister"
     },
-    "tx_1460003639": {
-      "ts": 1787384609165,
-      "playerId": "476",
-      "playerName": "Gerard Moreno",
-      "price": 13659840,
-      "esClausula": false,
-      "fromId": "12714010",
-      "fromName": "Donbom",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1475165045": {
-      "ts": 1787384609165,
-      "playerId": "12915",
-      "playerName": "Cucho Hernández",
-      "price": 11315850,
-      "esClausula": false,
-      "fromId": "12713977",
-      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_682823285": {
-      "ts": 1787384609165,
-      "playerId": "65704",
-      "playerName": "Georges Mikautadze",
-      "price": 14045306,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Antonio Gómez"
-    },
-    "tx_1608783629": {
-      "ts": 1787384609165,
-      "playerId": "68606",
-      "playerName": "Ángel Pérez",
-      "price": 3910009,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "escuriola"
-    },
-    "tx_753997914": {
-      "ts": 1787384609165,
-      "playerId": "1255969",
-      "playerName": "Jorge Domínguez",
-      "price": 216000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "raulgp3"
-    },
-    "tx_1198799938": {
-      "ts": 1787384609165,
-      "playerId": "6065",
-      "playerName": "Pere Milla",
-      "price": 2905000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
-    },
-    "tx_1778790318": {
-      "ts": 1787384609165,
-      "playerId": "15566",
-      "playerName": "Yangel Herrera",
-      "price": 2105000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
-    },
-    "tx_694729570": {
-      "ts": 1787384609165,
-      "playerId": "63",
-      "playerName": "Marc Bartra",
-      "price": 4026000,
-      "esClausula": true,
-      "fromId": "12714021",
-      "fromName": "escuriola",
-      "toId": "12714016",
-      "toName": "Manu"
-    },
-    "tx_1082507079": {
-      "ts": 1787298209165,
-      "playerId": "20449",
-      "playerName": "Fer Niño",
-      "price": 1970000,
-      "esClausula": false,
-      "fromId": "12715076",
-      "fromName": "José Manuel",
-      "toId": "12714021",
-      "toName": "escuriola"
-    },
-    "tx_753273847": {
-      "ts": 1787298209165,
-      "playerId": "70939",
-      "playerName": "Yeremay Hernández",
-      "price": 8408880,
-      "esClausula": false,
-      "fromId": "12713977",
-      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1870084297": {
-      "ts": 1787298209165,
-      "playerId": "23664",
-      "playerName": "Sergio Carreira",
-      "price": 5382300,
-      "esClausula": false,
-      "fromId": "12717108",
-      "fromName": "Eduard",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_868152720": {
-      "ts": 1787298209165,
-      "playerId": "3060",
-      "playerName": "Mariano Díaz",
-      "price": 4692000,
-      "esClausula": true,
-      "fromId": "12714016",
-      "fromName": "Manu",
-      "toId": "12715076",
-      "toName": "José Manuel"
-    },
-    "tx_1133377422": {
-      "ts": 1787298209165,
-      "playerId": "29167",
-      "playerName": "Ángel Fortuño",
-      "price": 206000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Eduard"
-    },
-    "tx_847294023": {
-      "ts": 1787298209165,
-      "playerId": "29",
-      "playerName": "Iñaki Williams",
-      "price": 6898000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "José Manuel"
-    },
-    "tx_963154964": {
-      "ts": 1787298209165,
-      "playerId": "5917",
-      "playerName": "Igor Zubeldia",
-      "price": 1958000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "José Manuel"
-    },
-    "tx_1438968336": {
-      "ts": 1787298209165,
-      "playerId": "607",
-      "playerName": "Borja Mayoral",
-      "price": 1813450,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Manu"
-    },
-    "tx_589692691": {
-      "ts": 1787298209165,
-      "playerId": "48203",
-      "playerName": "Ramón Terrats",
-      "price": 2205000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
-    },
-    "tx_1097353079": {
-      "ts": 1787211809165,
-      "playerId": "17623",
-      "playerName": "Ferland Mendy",
-      "price": 166260,
-      "esClausula": false,
-      "fromId": "12715076",
-      "fromName": "José Manuel",
-      "toId": null,
-      "toName": "Mister"
-    },
     "tx_2073153178": {
       "ts": 1788253466912,
       "playerId": "24789",
@@ -126999,270 +127604,6 @@
       "esClausula": false,
       "fromId": "12714016",
       "fromName": "Manu",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1723089633": {
-      "ts": 1787220285456,
-      "playerId": "29169",
-      "playerName": "Pablo Ibáñez",
-      "price": 1920000,
-      "esClausula": false,
-      "fromId": "12714005",
-      "fromName": "raulgp3",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_492513813": {
-      "ts": 1787220285456,
-      "playerId": "56583",
-      "playerName": "Augusto Batalla",
-      "price": 7670950,
-      "esClausula": false,
-      "fromId": "12714005",
-      "fromName": "raulgp3",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1071749425": {
-      "ts": 1787220285456,
-      "playerId": "54817",
-      "playerName": "Arda Güler",
-      "price": 12691860,
-      "esClausula": false,
-      "fromId": "12713977",
-      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_677676214": {
-      "ts": 1787220285456,
-      "playerId": "71037",
-      "playerName": "Facundo González",
-      "price": 2378250,
-      "esClausula": false,
-      "fromId": "12713977",
-      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1042862508": {
-      "ts": 1787220285456,
-      "playerId": "70953",
-      "playerName": "Miguel Loureiro",
-      "price": 1741000,
-      "esClausula": false,
-      "fromId": "12717108",
-      "fromName": "Eduard",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_881242368": {
-      "ts": 1787220285456,
-      "playerId": "78751",
-      "playerName": "Facundo Buonanotte",
-      "price": 2933040,
-      "esClausula": false,
-      "fromId": "12717108",
-      "fromName": "Eduard",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_596594606": {
-      "ts": 1787220285456,
-      "playerId": "27865",
-      "playerName": "Jesús Areso",
-      "price": 1213340,
-      "esClausula": false,
-      "fromId": "12714021",
-      "fromName": "escuriola",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1602155983": {
-      "ts": 1787220285456,
-      "playerId": "19927",
-      "playerName": "Raúl García de Haro",
-      "price": 1448000,
-      "esClausula": false,
-      "fromId": "12714021",
-      "fromName": "escuriola",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1018383935": {
-      "ts": 1787220285456,
-      "playerId": "64411",
-      "playerName": "Youssef Enríquez",
-      "price": 611060,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Eduard"
-    },
-    "tx_399116210": {
-      "ts": 1787220285456,
-      "playerId": "12915",
-      "playerName": "Cucho Hernández",
-      "price": 10922010,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
-    },
-    "tx_1135890080": {
-      "ts": 1787133887053,
-      "playerId": "68248",
-      "playerName": "Oso",
-      "price": 5145900,
-      "esClausula": false,
-      "fromId": "12714010",
-      "fromName": "Donbom",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_111465751": {
-      "ts": 1787133887053,
-      "playerId": "53107",
-      "playerName": "Sergi Cardona",
-      "price": 1817640,
-      "esClausula": false,
-      "fromId": "12714005",
-      "fromName": "raulgp3",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1527119057": {
-      "ts": 1787133887053,
-      "playerId": "6065",
-      "playerName": "Pere Milla",
-      "price": 2739800,
-      "esClausula": false,
-      "fromId": "12717108",
-      "fromName": "Eduard",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_13695765": {
-      "ts": 1787133887053,
-      "playerId": "63406",
-      "playerName": "Trent Alexander-Arnold",
-      "price": 6678880,
-      "esClausula": false,
-      "fromId": "12717108",
-      "fromName": "Eduard",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_59375065": {
-      "ts": 1787133887053,
-      "playerId": "71124",
-      "playerName": "Denzel Dumfries",
-      "price": 9274650,
-      "esClausula": false,
-      "fromId": "12713977",
-      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_504971555": {
-      "ts": 1787133887053,
-      "playerId": "11186",
-      "playerName": "Dani Raba",
-      "price": 905000,
-      "esClausula": false,
-      "fromId": "12714021",
-      "fromName": "escuriola",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_192420013": {
-      "ts": 1787133887053,
-      "playerId": "15109",
-      "playerName": "Giovani Lo Celso",
-      "price": 7647720,
-      "esClausula": false,
-      "fromId": "12714016",
-      "fromName": "Manu",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_87252565": {
-      "ts": 1787133887053,
-      "playerId": "17623",
-      "playerName": "Ferland Mendy",
-      "price": 160000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "José Manuel"
-    },
-    "tx_1219486370": {
-      "ts": 1787133887053,
-      "playerId": "71132",
-      "playerName": "Facundo Bernal",
-      "price": 2904099,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "escuriola"
-    },
-    "tx_2082216213": {
-      "ts": 1787133887053,
-      "playerId": "52162",
-      "playerName": "Pape Gueye",
-      "price": 11145000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
-    },
-    "tx_2128541829": {
-      "ts": 1787047487053,
-      "playerId": "60210",
-      "playerName": "Pau Navarro",
-      "price": 2066880,
-      "esClausula": false,
-      "fromId": "14515082",
-      "fromName": "Antonio Gómez",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1968645932": {
-      "ts": 1787047487053,
-      "playerId": "60872",
-      "playerName": "Rubén Vargas",
-      "price": 6899550,
-      "esClausula": false,
-      "fromId": "12713977",
-      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1855537720": {
-      "ts": 1787047487053,
-      "playerId": "29163",
-      "playerName": "Omar El Hilali",
-      "price": 2700000,
-      "esClausula": false,
-      "fromId": "12714016",
-      "fromName": "Manu",
-      "toId": "12714021",
-      "toName": "escuriola"
-    },
-    "tx_1905934338": {
-      "ts": 1787047487053,
-      "playerId": "20141",
-      "playerName": "Germán Valera",
-      "price": 10969000,
-      "esClausula": false,
-      "fromId": "12715076",
-      "fromName": "José Manuel",
       "toId": null,
       "toName": "Mister"
     },
@@ -128278,28 +128619,6 @@
       "toId": null,
       "toName": "Mister"
     },
-    "tx_818794183": {
-      "ts": 1789026299069,
-      "playerId": "29223",
-      "playerName": "Mario Soriano",
-      "price": 5637190,
-      "esClausula": false,
-      "fromId": "12714005",
-      "fromName": "raulgp3",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_261127111": {
-      "ts": 1789020719069,
-      "playerId": "19524",
-      "playerName": "Iker Losada",
-      "price": 176800,
-      "esClausula": false,
-      "fromId": "12714010",
-      "fromName": "Donbom",
-      "toId": null,
-      "toName": "Mister"
-    },
     "tx_26600522": {
       "ts": 1789009919069,
       "playerId": "25621",
@@ -128366,234 +128685,245 @@
       "toId": null,
       "toName": "Mister"
     },
-    "tx_126578719": {
-      "ts": 1789284101472,
-      "playerId": "523868",
-      "playerName": "Robbie Ure",
-      "price": 3238560,
-      "esClausula": false,
-      "fromId": "12714010",
-      "fromName": "Donbom",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_947302282": {
-      "ts": 1789280501472,
-      "playerId": "36046",
-      "playerName": "Gonzalo Villar",
-      "price": 3884160,
-      "esClausula": false,
-      "fromId": "12715076",
-      "fromName": "José Manuel",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_479890953": {
-      "ts": 1789269701472,
-      "playerId": "4836189",
-      "playerName": "Harvey Elliott",
-      "price": 5116000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Eduard"
-    },
-    "tx_1007937176": {
-      "ts": 1789269701472,
-      "playerId": "70941",
-      "playerName": "Bil Nsongo",
-      "price": 5055700,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Eduard"
-    },
-    "tx_601780156": {
-      "ts": 1789269701472,
-      "playerId": "56632",
-      "playerName": "Isaac Romero",
-      "price": 4105000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "raulgp3"
-    },
-    "tx_1167754908": {
-      "ts": 1789226501472,
-      "playerId": "17615",
-      "playerName": "Sergio Herrera",
-      "price": 7880000,
-      "esClausula": false,
-      "fromId": "12715076",
-      "fromName": "José Manuel",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_53514666": {
-      "ts": 1789219301472,
-      "playerId": "71616",
-      "playerName": "Yassir Zabiri",
-      "price": 6732000,
-      "esClausula": true,
-      "fromId": "12714016",
-      "fromName": "Manu",
-      "toId": "12714010",
-      "toName": "Donbom"
-    },
-    "tx_370896386": {
-      "ts": 1789201301472,
-      "playerId": "55664",
-      "playerName": "Unai Marrero",
-      "price": 652988,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Antonio Gómez"
-    },
-    "tx_1047612110": {
-      "ts": 1789201301472,
-      "playerId": "28612",
-      "playerName": "Mathew Ryan",
-      "price": 10580000,
+    "tx_597834340": {
+      "ts": 1789526504353,
+      "playerId": "1385821",
+      "playerName": "Cristian Romero",
+      "price": 8898000,
       "esClausula": false,
       "fromId": null,
       "fromName": "Mister",
       "toId": null,
       "toName": "José Manuel"
     },
-    "tx_45727614": {
-      "ts": 1789201301473,
-      "playerId": "24",
-      "playerName": "Unai López",
-      "price": 4830000,
+    "tx_450619668": {
+      "ts": 1789526504353,
+      "playerId": "60858",
+      "playerName": "Pablo Ramón",
+      "price": 2373009,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "escuriola"
+    },
+    "tx_1945532728": {
+      "ts": 1789526504353,
+      "playerId": "19927",
+      "playerName": "Raúl García de Haro",
+      "price": 1863160,
       "esClausula": false,
       "fromId": null,
       "fromName": "Mister",
       "toId": null,
       "toName": "Manu"
     },
-    "tx_979724174": {
-      "ts": 1789201301473,
-      "playerId": "5916",
-      "playerName": "Jon Guridi",
-      "price": 4529000,
+    "tx_210690774": {
+      "ts": 1789526504353,
+      "playerId": "28780",
+      "playerName": "Luismi Cruz",
+      "price": 4105000,
       "esClausula": false,
       "fromId": null,
       "fromName": "Mister",
       "toId": null,
       "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
     },
-    "tx_22539807": {
-      "ts": 1789114901473,
-      "playerId": "25621",
-      "playerName": "Andrei Rațiu",
-      "price": 6953000,
+    "tx_1479797450": {
+      "ts": 1789486904353,
+      "playerId": "71139",
+      "playerName": "Bright Ede",
+      "price": 1217000,
       "esClausula": false,
-      "fromId": "12717108",
-      "fromName": "Eduard",
-      "toId": "12713977",
-      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
+      "fromId": "14515082",
+      "fromName": "Antonio Gómez",
+      "toId": null,
+      "toName": "Mister"
     },
-    "tx_29046565": {
-      "ts": 1789114901473,
-      "playerId": "25630",
-      "playerName": "Victor Chust",
-      "price": 3069000,
+    "tx_560934488": {
+      "ts": 1789486904353,
+      "playerId": "56632",
+      "playerName": "Isaac Romero",
+      "price": 4249780,
+      "esClausula": false,
+      "fromId": "12714005",
+      "fromName": "raulgp3",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1195838156": {
+      "ts": 1789483304353,
+      "playerId": "70999",
+      "playerName": "Dani Lorenzo",
+      "price": 5208570,
       "esClausula": false,
       "fromId": "12713977",
       "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
       "toId": null,
       "toName": "Mister"
     },
-    "tx_529871389": {
-      "ts": 1789114901473,
-      "playerId": "69744",
-      "playerName": "Julio Díaz",
-      "price": 527100,
+    "tx_1549609747": {
+      "ts": 1789483304353,
+      "playerId": "51135",
+      "playerName": "Pablo Barrios",
+      "price": 11745300,
+      "esClausula": false,
+      "fromId": "12713977",
+      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1884895524": {
+      "ts": 1789454504353,
+      "playerId": "65090",
+      "playerName": "Filip Ugrinic",
+      "price": 1873200,
       "esClausula": false,
       "fromId": "12714010",
       "fromName": "Donbom",
       "toId": null,
       "toName": "Mister"
     },
-    "tx_933471545": {
-      "ts": 1789114901473,
-      "playerId": "64562",
-      "playerName": "Nelson Deossa",
-      "price": 1426000,
+    "tx_441972569": {
+      "ts": 1789454504353,
+      "playerId": "70939",
+      "playerName": "Yeremay Hernández",
+      "price": 7984560,
       "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "José Manuel"
-    },
-    "tx_385265126": {
-      "ts": 1789114901473,
-      "playerId": "71149",
-      "playerName": "Gabriel Moscardo",
-      "price": 1176000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "José Manuel"
-    },
-    "tx_234886139": {
-      "ts": 1789114901473,
-      "playerId": "59534",
-      "playerName": "David Otorbi",
-      "price": 315380,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "José Manuel"
-    },
-    "tx_1328387698": {
-      "ts": 1789114901473,
-      "playerId": "71791",
-      "playerName": "Pedro Felipe",
-      "price": 301000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
-    },
-    "tx_1001429399": {
-      "ts": 1789114901473,
-      "playerId": "70950",
-      "playerName": "Giacomo Quagliata",
-      "price": 3600000,
-      "esClausula": false,
-      "fromId": "12714005",
-      "fromName": "raulgp3",
-      "toId": "12713977",
-      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
-    },
-    "tx_2000276097": {
-      "ts": 1789114901473,
-      "playerId": "68652",
-      "playerName": "Ville Koski",
-      "price": 2758350,
-      "esClausula": false,
-      "fromId": "12714005",
-      "fromName": "raulgp3",
+      "fromId": "12713977",
+      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
       "toId": null,
       "toName": "Mister"
     },
-    "tx_1187804601": {
-      "ts": 1789028501473,
-      "playerId": "22956",
-      "playerName": "Sergio Gómez",
-      "price": 6004950,
+    "tx_797636104": {
+      "ts": 1789454504353,
+      "playerId": "59484",
+      "playerName": "Marc Bernal",
+      "price": 10662560,
+      "esClausula": false,
+      "fromId": "12713977",
+      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1718493697": {
+      "ts": 1789454504353,
+      "playerId": "65179",
+      "playerName": "Andrés Castrín",
+      "price": 2768000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "José Manuel"
+    },
+    "tx_911613656": {
+      "ts": 1789454504353,
+      "playerId": "23664",
+      "playerName": "Sergio Carreira",
+      "price": 5520009,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "escuriola"
+    },
+    "tx_365730164": {
+      "ts": 1789454504353,
+      "playerId": "11697",
+      "playerName": "Lucas Boyé",
+      "price": 8505000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
+    },
+    "tx_1550679295": {
+      "ts": 1789454504353,
+      "playerId": "4836172",
+      "playerName": "Lucas Stassin",
+      "price": 4705000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
+    },
+    "tx_868371781": {
+      "ts": 1789454504353,
+      "playerId": "71649",
+      "playerName": "Péter Gulácsi",
+      "price": 4592000,
+      "esClausula": true,
+      "fromId": "12714021",
+      "fromName": "escuriola",
+      "toId": "12714016",
+      "toName": "Manu"
+    },
+    "tx_1050020088": {
+      "ts": 1789454504353,
+      "playerId": "96",
+      "playerName": "Dani Ceballos",
+      "price": 2449500,
+      "esClausula": true,
+      "fromId": "12714016",
+      "fromName": "Manu",
+      "toId": "12713977",
+      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
+    },
+    "tx_1830676127": {
+      "ts": 1789368104353,
+      "playerId": "4836189",
+      "playerName": "Harvey Elliott",
+      "price": 5214560,
       "esClausula": false,
       "fromId": "12717108",
       "fromName": "Eduard",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_480648348": {
+      "ts": 1789368104353,
+      "playerId": "69281",
+      "playerName": "Nacho Pérez",
+      "price": 1270080,
+      "esClausula": false,
+      "fromId": "14515082",
+      "fromName": "Antonio Gómez",
+      "toId": null,
+      "toName": "Mister"
+    },
+    "tx_1660387418": {
+      "ts": 1789368104353,
+      "playerId": "4836184",
+      "playerName": "Jeanuël Belocian",
+      "price": 2193841,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "Antonio Gómez"
+    },
+    "tx_2147359070": {
+      "ts": 1789368104353,
+      "playerId": "22495",
+      "playerName": "Giorgi Kochorashvili",
+      "price": 1405000,
+      "esClausula": false,
+      "fromId": null,
+      "fromName": "Mister",
+      "toId": null,
+      "toName": "raulgp3"
+    },
+    "tx_222508442": {
+      "ts": 1789281704353,
+      "playerId": "71791",
+      "playerName": "Pedro Felipe",
+      "price": 277000,
+      "esClausula": false,
+      "fromId": "12713977",
+      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
       "toId": null,
       "toName": "Mister"
     },
@@ -141621,105 +141951,6 @@
       "toId": null,
       "toName": "Mister"
     },
-    "tx_1884895524": {
-      "ts": 1789449897394,
-      "playerId": "65090",
-      "playerName": "Filip Ugrinic",
-      "price": 1873200,
-      "esClausula": false,
-      "fromId": "12714010",
-      "fromName": "Donbom",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_441972569": {
-      "ts": 1789449897394,
-      "playerId": "70939",
-      "playerName": "Yeremay Hernández",
-      "price": 7984560,
-      "esClausula": false,
-      "fromId": "12713977",
-      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_797636104": {
-      "ts": 1789449897394,
-      "playerId": "59484",
-      "playerName": "Marc Bernal",
-      "price": 10662560,
-      "esClausula": false,
-      "fromId": "12713977",
-      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1718493697": {
-      "ts": 1789442697394,
-      "playerId": "65179",
-      "playerName": "Andrés Castrín",
-      "price": 2768000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "José Manuel"
-    },
-    "tx_911613656": {
-      "ts": 1789442697394,
-      "playerId": "23664",
-      "playerName": "Sergio Carreira",
-      "price": 5520009,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "escuriola"
-    },
-    "tx_365730164": {
-      "ts": 1789442697394,
-      "playerId": "11697",
-      "playerName": "Lucas Boyé",
-      "price": 8505000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
-    },
-    "tx_1550679295": {
-      "ts": 1789442697394,
-      "playerId": "4836172",
-      "playerName": "Lucas Stassin",
-      "price": 4705000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
-    },
-    "tx_868371781": {
-      "ts": 1789421097394,
-      "playerId": "71649",
-      "playerName": "Péter Gulácsi",
-      "price": 4592000,
-      "esClausula": true,
-      "fromId": "12714021",
-      "fromName": "escuriola",
-      "toId": "12714016",
-      "toName": "Manu"
-    },
-    "tx_1050020088": {
-      "ts": 1789417497394,
-      "playerId": "96",
-      "playerName": "Dani Ceballos",
-      "price": 2449500,
-      "esClausula": true,
-      "fromId": "12714016",
-      "fromName": "Manu",
-      "toId": "12713977",
-      "toName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️"
-    },
     "tx_1830676128": {
       "ts": 1789399497394,
       "playerId": "4836189",
@@ -141739,39 +141970,6 @@
       "esClausula": false,
       "fromId": "14515082",
       "fromName": "Antonio Gómez",
-      "toId": null,
-      "toName": "Mister"
-    },
-    "tx_1660387418": {
-      "ts": 1789374297394,
-      "playerId": "4836184",
-      "playerName": "Jeanuël Belocian",
-      "price": 2193841,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "Antonio Gómez"
-    },
-    "tx_2147359070": {
-      "ts": 1789374297394,
-      "playerId": "22495",
-      "playerName": "Giorgi Kochorashvili",
-      "price": 1405000,
-      "esClausula": false,
-      "fromId": null,
-      "fromName": "Mister",
-      "toId": null,
-      "toName": "raulgp3"
-    },
-    "tx_222508442": {
-      "ts": 1789287897394,
-      "playerId": "71791",
-      "playerName": "Pedro Felipe",
-      "price": 277000,
-      "esClausula": false,
-      "fromId": "12713977",
-      "fromName": "ᴊᴏʀɢᴇᴅɪʜᴇ ⚜️",
       "toId": null,
       "toName": "Mister"
     },
