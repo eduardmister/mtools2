@@ -1,10 +1,10 @@
 {
   "format": 1,
   "fuente": "futbolfantasy",
-  "generatedAt": "2026-09-16T10:54:25.806Z",
+  "generatedAt": "2026-09-17T11:02:03.943Z",
   "total": 20,
   "porEquipo": {
-    "barcelona j5 j4 j3 j1 j2": {
+    "barcelona j6 j5 j4 j3 j1": {
       "pos": 1,
       "jugados": 1,
       "puntos": 1
@@ -14,27 +14,27 @@
       "jugados": 2,
       "puntos": 2
     },
-    "betis j5 j4 j3 j1 j2": {
+    "atletico j6 j5 j4 j3 j2": {
       "pos": 3,
       "jugados": 3,
       "puntos": 3
     },
-    "alaves j6 j5 j4 j3 j2": {
+    "sevilla j6 j5 j4 j3 j2": {
       "pos": 4,
       "jugados": 4,
       "puntos": 4
     },
-    "atletico j5 j4 j3 j2 j1": {
+    "betis j5 j4 j3 j1 j2": {
       "pos": 5,
       "jugados": 5,
       "puntos": 5
     },
-    "sevilla j5 j4 j3 j2 j1": {
+    "alaves j6 j5 j4 j3 j2": {
       "pos": 6,
       "jugados": 6,
       "puntos": 6
     },
-    "deportivo j5 j4 j3 j2 j1": {
+    "deportivo j6 j5 j4 j3 j2": {
       "pos": 7,
       "jugados": 7,
       "puntos": 7
@@ -49,22 +49,22 @@
       "jugados": 9,
       "puntos": 9
     },
-    "racing j5 j4 j3 j2 j1": {
+    "racing j6 j5 j4 j3 j2": {
       "pos": 10,
       "jugados": 10,
       "puntos": 10
     },
-    "osasuna j5 j4 j3 j1 j2": {
+    "rayo j6 j5 j4 j3 j2": {
       "pos": 11,
       "jugados": 11,
       "puntos": 11
     },
-    "rayo j6 j5 j4 j3 j2": {
+    "real sociedad j5 j4 j6 j3 j1": {
       "pos": 12,
       "jugados": 12,
       "puntos": 12
     },
-    "real sociedad j5 j4 j6 j3 j1": {
+    "osasuna j6 j5 j4 j3 j1": {
       "pos": 13,
       "jugados": 13,
       "puntos": 13
