@@ -1,7 +1,7 @@
 {
   "format": 1,
   "fuente": "futbolfantasy",
-  "generatedAt": "2026-09-20T10:42:12.000Z",
+  "generatedAt": "2026-09-21T12:05:40.684Z",
   "total": 20,
   "porEquipo": {
     "barcelona j7 j6 j5 j4 j3": {
@@ -9,17 +9,17 @@
       "jugados": 1,
       "puntos": 1
     },
-    "betis j6 j5 j4 j3 j1": {
+    "atletico j7 j6 j5 j4 j3": {
       "pos": 2,
       "jugados": 2,
       "puntos": 2
     },
-    "real madrid j6 j5 j4 j3 j1": {
+    "betis j7 j6 j5 j4 j3": {
       "pos": 3,
       "jugados": 3,
       "puntos": 3
     },
-    "atletico j6 j5 j4 j3 j2": {
+    "real madrid j7 j6 j5 j4 j3": {
       "pos": 4,
       "jugados": 4,
       "puntos": 4
@@ -34,57 +34,57 @@
       "jugados": 6,
       "puntos": 6
     },
-    "deportivo j6 j5 j4 j3 j2": {
+    "deportivo j7 j6 j5 j4 j3": {
       "pos": 7,
       "jugados": 7,
       "puntos": 7
     },
-    "athletic j7 j5 j4 j3 j1": {
+    "real sociedad j7 j5 j4 j6 j3": {
       "pos": 8,
       "jugados": 8,
       "puntos": 8
     },
-    "rayo j7 j6 j5 j4 j3": {
+    "villarreal j7 j6 j5 j4 j3": {
       "pos": 9,
       "jugados": 9,
       "puntos": 9
     },
-    "osasuna j7 j6 j5 j4 j3": {
+    "athletic j7 j5 j4 j3 j1": {
       "pos": 10,
       "jugados": 10,
       "puntos": 10
     },
-    "celta j7 j5 j4 j6 j3": {
+    "getafe j7 j6 j5 j4 j3": {
       "pos": 11,
       "jugados": 11,
       "puntos": 11
     },
-    "espanyol j7 j6 j5 j4 j3": {
+    "rayo j7 j6 j5 j4 j3": {
       "pos": 12,
       "jugados": 12,
       "puntos": 12
     },
-    "real sociedad j5 j4 j6 j3 j1": {
+    "osasuna j7 j6 j5 j4 j3": {
       "pos": 13,
       "jugados": 13,
       "puntos": 13
     },
-    "racing j7 j6 j5 j4 j3": {
+    "celta j7 j5 j4 j6 j3": {
       "pos": 14,
       "jugados": 14,
       "puntos": 14
     },
-    "villarreal j6 j5 j4 j3 j2": {
+    "espanyol j7 j6 j5 j4 j3": {
       "pos": 15,
       "jugados": 15,
       "puntos": 15
     },
-    "levante j5 j4 j3 j2 j1": {
+    "racing j7 j6 j5 j4 j3": {
       "pos": 16,
       "jugados": 16,
       "puntos": 16
     },
-    "getafe j6 j5 j4 j3 j2": {
+    "levante j7 j5 j4 j3 j2": {
       "pos": 17,
       "jugados": 17,
       "puntos": 17
@@ -94,12 +94,12 @@
       "jugados": 18,
       "puntos": 18
     },
-    "valencia j6 j5 j4 j3 j1": {
+    "valencia j7 j6 j5 j4 j3": {
       "pos": 19,
       "jugados": 19,
       "puntos": 19
     },
-    "malaga j6 j5 j4 j3 j2": {
+    "malaga j7 j6 j5 j4 j3": {
       "pos": 20,
       "jugados": 20,
       "puntos": 20
