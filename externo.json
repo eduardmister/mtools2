@@ -1,7 +1,7 @@
 {
   "format": 2,
   "fuente": "futbolfantasy",
-  "generatedAt": "2026-09-24T11:10:46.291Z",
+  "generatedAt": "2026-09-25T11:14:46.541Z",
   "total": 515,
   "porNombre": {
     "nahuel tenaglia": {
@@ -1957,7 +1957,7 @@
       "estado": "Rotación",
       "rival": "RSO",
       "local": false,
-      "edad": 28,
+      "edad": 29,
       "lesionado": false
     },
     "miguel loureiro": {
