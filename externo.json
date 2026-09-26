@@ -1,7 +1,7 @@
 {
   "format": 2,
   "fuente": "futbolfantasy",
-  "generatedAt": "2026-09-25T11:14:46.541Z",
+  "generatedAt": "2026-09-26T10:52:55.405Z",
   "total": 515,
   "porNombre": {
     "nahuel tenaglia": {
@@ -1468,18 +1468,6 @@
       "edad": 30,
       "lesionado": false
     },
-    "jose antonio morante": {
-      "slug": "jose-antonio-morante",
-      "ffId": "16154",
-      "nombreNorm": "jose antonio morante",
-      "equipo": "betis",
-      "probabilidad": 0,
-      "estado": "Reserva",
-      "rival": "OSA",
-      "local": null,
-      "edad": 19,
-      "lesionado": false
-    },
     "manu gonzalez": {
       "slug": "manu-gonzalez",
       "ffId": "14135",
@@ -1487,6 +1475,18 @@
       "equipo": "betis",
       "probabilidad": 0,
       "estado": null,
+      "rival": "OSA",
+      "local": null,
+      "edad": 19,
+      "lesionado": false
+    },
+    "jose antonio morante": {
+      "slug": "jose-antonio-morante",
+      "ffId": "16154",
+      "nombreNorm": "jose antonio morante",
+      "equipo": "betis",
+      "probabilidad": 0,
+      "estado": "Reserva",
       "rival": "OSA",
       "local": null,
       "edad": 19,
@@ -4864,18 +4864,6 @@
       "edad": 28,
       "lesionado": false
     },
-    "thiago pitarch": {
-      "slug": "thiago-pitarch",
-      "ffId": "16237",
-      "nombreNorm": "thiago pitarch",
-      "equipo": "real-madrid",
-      "probabilidad": 0,
-      "estado": "Reserva",
-      "rival": "VIL",
-      "local": null,
-      "edad": 19,
-      "lesionado": false
-    },
     "ferland mendy": {
       "slug": "ferland-mendy",
       "ffId": "6158",
@@ -4898,6 +4886,18 @@
       "rival": "VIL",
       "local": null,
       "edad": 21,
+      "lesionado": false
+    },
+    "thiago pitarch": {
+      "slug": "thiago-pitarch",
+      "ffId": "16237",
+      "nombreNorm": "thiago pitarch",
+      "equipo": "real-madrid",
+      "probabilidad": 0,
+      "estado": "Reserva",
+      "rival": "VIL",
+      "local": null,
+      "edad": 19,
       "lesionado": false
     },
     "rodrygo goes": {
@@ -5200,18 +5200,6 @@
       "edad": 25,
       "lesionado": false
     },
-    "alex marchal": {
-      "slug": "alex-marchal",
-      "ffId": "14881",
-      "nombreNorm": "alex marchal",
-      "equipo": "real-sociedad",
-      "probabilidad": 0,
-      "estado": "Revulsivo",
-      "rival": "DEP",
-      "local": null,
-      "edad": 19,
-      "lesionado": false
-    },
     "orri steinn oskarsson": {
       "slug": "orri-steinn-skarsson",
       "ffId": "10660",
@@ -5234,6 +5222,18 @@
       "rival": "DEP",
       "local": null,
       "edad": 30,
+      "lesionado": false
+    },
+    "alex marchal": {
+      "slug": "alex-marchal",
+      "ffId": "14881",
+      "nombreNorm": "alex marchal",
+      "equipo": "real-sociedad",
+      "probabilidad": 0,
+      "estado": "Revulsivo",
+      "rival": "DEP",
+      "local": null,
+      "edad": 19,
       "lesionado": false
     },
     "youssouf fofana": {
