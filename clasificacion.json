@@ -1,7 +1,7 @@
 {
   "format": 1,
   "fuente": "futbolfantasy",
-  "generatedAt": "2026-10-09T12:38:25.427Z",
+  "generatedAt": "2026-10-10T11:58:26.562Z",
   "total": 20,
   "porEquipo": {
     "barcelona j7 j6 j5 j4 j3": {
@@ -54,27 +54,27 @@
       "jugados": 10,
       "puntos": 10
     },
-    "getafe j7 j6 j5 j4 j3": {
+    "espanyol j8 j7 j6 j5 j4": {
       "pos": 11,
       "jugados": 11,
       "puntos": 11
     },
-    "rayo j7 j6 j5 j4 j3": {
+    "getafe j7 j6 j5 j4 j3": {
       "pos": 12,
       "jugados": 12,
       "puntos": 12
     },
-    "osasuna j7 j6 j5 j4 j3": {
+    "rayo j7 j6 j5 j4 j3": {
       "pos": 13,
       "jugados": 13,
       "puntos": 13
     },
-    "celta j7 j5 j4 j6 j3": {
+    "osasuna j7 j6 j5 j4 j3": {
       "pos": 14,
       "jugados": 14,
       "puntos": 14
     },
-    "espanyol j7 j6 j5 j4 j3": {
+    "celta j7 j5 j4 j6 j3": {
       "pos": 15,
       "jugados": 15,
       "puntos": 15
@@ -99,7 +99,7 @@
       "jugados": 19,
       "puntos": 19
     },
-    "malaga j7 j6 j5 j4 j3": {
+    "malaga j8 j7 j6 j5 j4": {
       "pos": 20,
       "jugados": 20,
       "puntos": 20
