@@ -1,20 +1,20 @@
 {
   "format": 1,
   "fuente": "futbolfantasy",
-  "generatedAt": "2026-10-17T10:12:06.983Z",
+  "generatedAt": "2026-10-18T10:28:19.235Z",
   "total": 20,
   "porEquipo": {
-    "barcelona j8 j7 j6 j5 j4": {
+    "barcelona j9 j8 j7 j6 j5": {
       "pos": 1,
       "jugados": 1,
       "puntos": 1
     },
-    "atletico j8 j7 j6 j5 j4": {
+    "atletico j9 j8 j7 j6 j5": {
       "pos": 2,
       "jugados": 2,
       "puntos": 2
     },
-    "betis j8 j7 j6 j5 j4": {
+    "betis j9 j8 j7 j6 j5": {
       "pos": 3,
       "jugados": 3,
       "puntos": 3
@@ -44,27 +44,27 @@
       "jugados": 8,
       "puntos": 8
     },
-    "athletic j8 j7 j5 j4 j3": {
+    "athletic j9 j8 j7 j5 j4": {
       "pos": 9,
       "jugados": 9,
       "puntos": 9
     },
-    "rayo j8 j7 j6 j5 j4": {
+    "villarreal j9 j8 j7 j6 j5": {
       "pos": 10,
       "jugados": 10,
       "puntos": 10
     },
-    "celta j8 j7 j5 j4 j6": {
+    "rayo j8 j7 j6 j5 j4": {
       "pos": 11,
       "jugados": 11,
       "puntos": 11
     },
-    "villarreal j8 j7 j6 j5 j4": {
+    "celta j8 j7 j5 j4 j6": {
       "pos": 12,
       "jugados": 12,
       "puntos": 12
     },
-    "espanyol j8 j7 j6 j5 j4": {
+    "espanyol j9 j8 j7 j6 j5": {
       "pos": 13,
       "jugados": 13,
       "puntos": 13
@@ -89,12 +89,12 @@
       "jugados": 17,
       "puntos": 17
     },
-    "elche j8 j7 j6 j5 j4": {
+    "elche j9 j8 j7 j6 j5": {
       "pos": 18,
       "jugados": 18,
       "puntos": 18
     },
-    "valencia j8 j7 j6 j5 j4": {
+    "valencia j9 j8 j7 j6 j5": {
       "pos": 19,
       "jugados": 19,
       "puntos": 19
