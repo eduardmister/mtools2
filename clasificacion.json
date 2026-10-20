@@ -1,7 +1,7 @@
 {
   "format": 1,
   "fuente": "futbolfantasy",
-  "generatedAt": "2026-10-19T12:14:40.340Z",
+  "generatedAt": "2026-10-20T10:58:40.035Z",
   "total": 20,
   "porEquipo": {
     "barcelona j9 j8 j7 j6 j5": {
@@ -59,22 +59,22 @@
       "jugados": 11,
       "puntos": 11
     },
-    "villarreal j9 j8 j7 j6 j5": {
+    "rayo j9 j8 j7 j6 j5": {
       "pos": 12,
       "jugados": 12,
       "puntos": 12
     },
-    "rayo j8 j7 j6 j5 j4": {
+    "villarreal j9 j8 j7 j6 j5": {
       "pos": 13,
       "jugados": 13,
       "puntos": 13
     },
-    "espanyol j9 j8 j7 j6 j5": {
+    "getafe j9 j8 j7 j6 j5": {
       "pos": 14,
       "jugados": 14,
       "puntos": 14
     },
-    "getafe j8 j7 j6 j5 j4": {
+    "espanyol j9 j8 j7 j6 j5": {
       "pos": 15,
       "jugados": 15,
       "puntos": 15
