@@ -1,20 +1,20 @@
 {
   "format": 1,
   "fuente": "futbolfantasy",
-  "generatedAt": "2026-10-24T10:21:16.072Z",
+  "generatedAt": "2026-10-25T10:48:26.329Z",
   "total": 21,
   "porEquipo": {
     "10": {
       "pos": 21,
-      "jugados": 12,
-      "puntos": 3
+      "jugados": 25,
+      "puntos": 12
     },
     "barcelona j9 j8 j7 j6 j5": {
       "pos": 1,
       "jugados": 1,
       "puntos": 1
     },
-    "atletico j9 j8 j7 j6 j5": {
+    "atletico j10 j9 j8 j7 j6": {
       "pos": 2,
       "jugados": 2,
       "puntos": 2
@@ -44,62 +44,62 @@
       "jugados": 7,
       "puntos": 7
     },
-    "celta j9 j8 j7 j5 j4": {
+    "villarreal j10 j9 j8 j7 j6": {
       "pos": 8,
       "jugados": 8,
       "puntos": 8
     },
-    "deportivo j9 j8 j7 j6 j5": {
+    "celta j9 j8 j7 j5 j4": {
       "pos": 9,
       "jugados": 9,
       "puntos": 9
     },
-    "osasuna j9 j8 j7 j6 j5": {
+    "deportivo j10 j9 j8 j7 j6": {
       "pos": 10,
       "jugados": 10,
       "puntos": 10
     },
-    "athletic j6 j9 j8 j7 j5": {
+    "osasuna j9 j8 j7 j6 j5": {
       "pos": 11,
       "jugados": 11,
       "puntos": 11
     },
-    "levante j6 j9 j8 j7 j5": {
+    "racing j10 j9 j8 j7 j6": {
       "pos": 12,
       "jugados": 12,
       "puntos": 12
     },
-    "rayo j9 j8 j7 j6 j5": {
+    "athletic j6 j9 j8 j7 j5": {
       "pos": 13,
       "jugados": 13,
       "puntos": 13
     },
-    "villarreal j9 j8 j7 j6 j5": {
+    "levante j6 j9 j8 j7 j5": {
       "pos": 14,
       "jugados": 14,
       "puntos": 14
     },
-    "getafe j9 j8 j7 j6 j5": {
+    "elche j10 j9 j8 j7 j6": {
       "pos": 15,
       "jugados": 15,
       "puntos": 15
     },
-    "espanyol j9 j8 j7 j6 j5": {
+    "rayo j10 j9 j8 j7 j6": {
       "pos": 16,
       "jugados": 16,
       "puntos": 16
     },
-    "racing j9 j8 j7 j6 j5": {
+    "getafe j9 j8 j7 j6 j5": {
       "pos": 17,
       "jugados": 17,
       "puntos": 17
     },
-    "elche j9 j8 j7 j6 j5": {
+    "espanyol j10 j9 j8 j7 j6": {
       "pos": 18,
       "jugados": 18,
       "puntos": 18
     },
-    "valencia j9 j8 j7 j6 j5": {
+    "valencia j10 j9 j8 j7 j6": {
       "pos": 19,
       "jugados": 19,
       "puntos": 19
