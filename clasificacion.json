@@ -1,15 +1,15 @@
 {
   "format": 1,
   "fuente": "futbolfantasy",
-  "generatedAt": "2026-10-25T10:48:26.329Z",
+  "generatedAt": "2026-10-26T12:19:28.783Z",
   "total": 21,
   "porEquipo": {
     "10": {
       "pos": 21,
-      "jugados": 25,
-      "puntos": 12
+      "jugados": 27,
+      "puntos": 29
     },
-    "barcelona j9 j8 j7 j6 j5": {
+    "barcelona j10 j9 j8 j7 j6": {
       "pos": 1,
       "jugados": 1,
       "puntos": 1
@@ -19,17 +19,17 @@
       "jugados": 2,
       "puntos": 2
     },
-    "real madrid j9 j8 j7 j6 j5": {
+    "real madrid j10 j9 j8 j7 j6": {
       "pos": 3,
       "jugados": 3,
       "puntos": 3
     },
-    "betis j9 j8 j7 j6 j5": {
+    "betis j10 j9 j8 j7 j6": {
       "pos": 4,
       "jugados": 4,
       "puntos": 4
     },
-    "real sociedad j9 j8 j7 j5 j4": {
+    "real sociedad j10 j9 j8 j7 j5": {
       "pos": 5,
       "jugados": 5,
       "puntos": 5
@@ -39,42 +39,42 @@
       "jugados": 6,
       "puntos": 6
     },
-    "alaves j10 j9 j8 j7 j6": {
+    "athletic j10 j6 j9 j8 j7": {
       "pos": 7,
       "jugados": 7,
       "puntos": 7
     },
-    "villarreal j10 j9 j8 j7 j6": {
+    "alaves j10 j9 j8 j7 j6": {
       "pos": 8,
       "jugados": 8,
       "puntos": 8
     },
-    "celta j9 j8 j7 j5 j4": {
+    "celta j10 j9 j8 j7 j5": {
       "pos": 9,
       "jugados": 9,
       "puntos": 9
     },
-    "deportivo j10 j9 j8 j7 j6": {
+    "villarreal j10 j9 j8 j7 j6": {
       "pos": 10,
       "jugados": 10,
       "puntos": 10
     },
-    "osasuna j9 j8 j7 j6 j5": {
+    "deportivo j10 j9 j8 j7 j6": {
       "pos": 11,
       "jugados": 11,
       "puntos": 11
     },
-    "racing j10 j9 j8 j7 j6": {
+    "osasuna j9 j8 j7 j6 j5": {
       "pos": 12,
       "jugados": 12,
       "puntos": 12
     },
-    "athletic j6 j9 j8 j7 j5": {
+    "racing j10 j9 j8 j7 j6": {
       "pos": 13,
       "jugados": 13,
       "puntos": 13
     },
-    "levante j6 j9 j8 j7 j5": {
+    "levante j10 j6 j9 j8 j7": {
       "pos": 14,
       "jugados": 14,
       "puntos": 14
@@ -89,7 +89,7 @@
       "jugados": 16,
       "puntos": 16
     },
-    "getafe j9 j8 j7 j6 j5": {
+    "getafe j10 j9 j8 j7 j6": {
       "pos": 17,
       "jugados": 17,
       "puntos": 17
