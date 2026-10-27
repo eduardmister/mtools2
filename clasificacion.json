@@ -1,7 +1,7 @@
 {
   "format": 1,
   "fuente": "futbolfantasy",
-  "generatedAt": "2026-10-26T12:19:28.783Z",
+  "generatedAt": "2026-10-27T11:39:33.815Z",
   "total": 21,
   "porEquipo": {
     "10": {
@@ -34,7 +34,7 @@
       "jugados": 5,
       "puntos": 5
     },
-    "sevilla j9 j8 j7 j6 j5": {
+    "sevilla j10 j9 j8 j7 j6": {
       "pos": 6,
       "jugados": 6,
       "puntos": 6
@@ -64,7 +64,7 @@
       "jugados": 11,
       "puntos": 11
     },
-    "osasuna j9 j8 j7 j6 j5": {
+    "osasuna j10 j9 j8 j7 j6": {
       "pos": 12,
       "jugados": 12,
       "puntos": 12
