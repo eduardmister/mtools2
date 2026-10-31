@@ -1,13 +1,18 @@
 {
   "format": 1,
   "fuente": "futbolfantasy",
-  "generatedAt": "2026-10-30T12:12:15.739Z",
-  "total": 21,
+  "generatedAt": "2026-10-31T11:44:55.154Z",
+  "total": 22,
   "porEquipo": {
     "10": {
       "pos": 21,
       "jugados": 27,
       "puntos": 29
+    },
+    "11": {
+      "pos": 30,
+      "jugados": 12,
+      "puntos": 0
     },
     "barcelona j10 j9 j8 j7 j6": {
       "pos": 1,
@@ -54,7 +59,7 @@
       "jugados": 9,
       "puntos": 9
     },
-    "villarreal j10 j9 j8 j7 j6": {
+    "villarreal j11 j10 j9 j8 j7": {
       "pos": 10,
       "jugados": 10,
       "puntos": 10
@@ -64,37 +69,37 @@
       "jugados": 11,
       "puntos": 11
     },
-    "osasuna j10 j9 j8 j7 j6": {
+    "espanyol j11 j10 j9 j8 j7": {
       "pos": 12,
       "jugados": 12,
       "puntos": 12
     },
-    "racing j10 j9 j8 j7 j6": {
+    "osasuna j10 j9 j8 j7 j6": {
       "pos": 13,
       "jugados": 13,
       "puntos": 13
     },
-    "levante j10 j6 j9 j8 j7": {
+    "racing j10 j9 j8 j7 j6": {
       "pos": 14,
       "jugados": 14,
       "puntos": 14
     },
-    "elche j10 j9 j8 j7 j6": {
+    "levante j10 j6 j9 j8 j7": {
       "pos": 15,
       "jugados": 15,
       "puntos": 15
     },
-    "rayo j10 j9 j8 j7 j6": {
+    "elche j10 j9 j8 j7 j6": {
       "pos": 16,
       "jugados": 16,
       "puntos": 16
     },
-    "getafe j10 j9 j8 j7 j6": {
+    "rayo j10 j9 j8 j7 j6": {
       "pos": 17,
       "jugados": 17,
       "puntos": 17
     },
-    "espanyol j10 j9 j8 j7 j6": {
+    "getafe j10 j9 j8 j7 j6": {
       "pos": 18,
       "jugados": 18,
       "puntos": 18
