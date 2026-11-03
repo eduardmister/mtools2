@@ -1,14 +1,9 @@
 {
   "format": 1,
   "fuente": "futbolfantasy",
-  "generatedAt": "2026-11-02T14:51:18.333Z",
-  "total": 22,
+  "generatedAt": "2026-11-03T13:41:22.064Z",
+  "total": 21,
   "porEquipo": {
-    "10": {
-      "pos": 33,
-      "jugados": 11,
-      "puntos": 0
-    },
     "11": {
       "pos": 21,
       "jugados": 30,
@@ -49,32 +44,32 @@
       "jugados": 7,
       "puntos": 7
     },
-    "rayo j11 j10 j9 j8 j7": {
+    "deportivo j11 j10 j9 j8 j7": {
       "pos": 8,
       "jugados": 8,
       "puntos": 8
     },
-    "villarreal j11 j10 j9 j8 j7": {
+    "rayo j11 j10 j9 j8 j7": {
       "pos": 9,
       "jugados": 9,
       "puntos": 9
     },
-    "celta j11 j10 j9 j8 j7": {
+    "villarreal j11 j10 j9 j8 j7": {
       "pos": 10,
       "jugados": 10,
       "puntos": 10
     },
-    "alaves j11 j10 j9 j8 j7": {
+    "celta j11 j10 j9 j8 j7": {
       "pos": 11,
       "jugados": 11,
       "puntos": 11
     },
-    "getafe j11 j10 j9 j8 j7": {
+    "alaves j11 j10 j9 j8 j7": {
       "pos": 12,
       "jugados": 12,
       "puntos": 12
     },
-    "deportivo j10 j9 j8 j7 j6": {
+    "getafe j11 j10 j9 j8 j7": {
       "pos": 13,
       "jugados": 13,
       "puntos": 13
@@ -84,7 +79,7 @@
       "jugados": 14,
       "puntos": 14
     },
-    "osasuna j10 j9 j8 j7 j6": {
+    "osasuna j11 j10 j9 j8 j7": {
       "pos": 15,
       "jugados": 15,
       "puntos": 15
