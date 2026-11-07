@@ -1,13 +1,18 @@
 {
   "format": 1,
   "fuente": "futbolfantasy",
-  "generatedAt": "2026-11-06T13:47:21.088Z",
-  "total": 21,
+  "generatedAt": "2026-11-07T12:31:19.988Z",
+  "total": 22,
   "porEquipo": {
     "11": {
       "pos": 21,
       "jugados": 30,
       "puntos": 34
+    },
+    "12": {
+      "pos": 26,
+      "jugados": 18,
+      "puntos": -2
     },
     "barcelona j11 j10 j9 j8 j7": {
       "pos": 1,
@@ -34,7 +39,7 @@
       "jugados": 5,
       "puntos": 5
     },
-    "sevilla j11 j10 j9 j8 j7": {
+    "sevilla j12 j11 j10 j9 j8": {
       "pos": 6,
       "jugados": 6,
       "puntos": 6
@@ -49,22 +54,22 @@
       "jugados": 8,
       "puntos": 8
     },
-    "rayo j11 j10 j9 j8 j7": {
+    "alaves j12 j11 j10 j9 j8": {
       "pos": 9,
       "jugados": 9,
       "puntos": 9
     },
-    "villarreal j11 j10 j9 j8 j7": {
+    "rayo j11 j10 j9 j8 j7": {
       "pos": 10,
       "jugados": 10,
       "puntos": 10
     },
-    "celta j11 j10 j9 j8 j7": {
+    "villarreal j11 j10 j9 j8 j7": {
       "pos": 11,
       "jugados": 11,
       "puntos": 11
     },
-    "alaves j11 j10 j9 j8 j7": {
+    "celta j11 j10 j9 j8 j7": {
       "pos": 12,
       "jugados": 12,
       "puntos": 12
