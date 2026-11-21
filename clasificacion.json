@@ -1,13 +1,18 @@
 {
   "format": 1,
   "fuente": "futbolfantasy",
-  "generatedAt": "2026-11-20T14:56:38.738Z",
-  "total": 21,
+  "generatedAt": "2026-11-21T14:16:36.374Z",
+  "total": 22,
   "porEquipo": {
     "12": {
       "pos": 21,
       "jugados": 33,
       "puntos": 35
+    },
+    "13": {
+      "pos": 27,
+      "jugados": 17,
+      "puntos": 3
     },
     "barcelona j12 j11 j10 j9 j8": {
       "pos": 1,
@@ -39,52 +44,52 @@
       "jugados": 6,
       "puntos": 6
     },
-    "athletic j12 j11 j10 j6 j9": {
+    "athletic j13 j12 j11 j10 j6": {
       "pos": 7,
       "jugados": 7,
       "puntos": 7
     },
-    "deportivo j12 j11 j10 j9 j8": {
+    "villarreal j12 j11 j10 j9 j8": {
       "pos": 8,
       "jugados": 8,
       "puntos": 8
     },
-    "villarreal j12 j11 j10 j9 j8": {
+    "deportivo j13 j12 j11 j10 j9": {
       "pos": 9,
       "jugados": 9,
       "puntos": 9
     },
-    "racing j12 j11 j10 j9 j8": {
+    "espanyol j13 j12 j11 j10 j9": {
       "pos": 10,
       "jugados": 10,
       "puntos": 10
     },
-    "celta j12 j11 j10 j9 j8": {
+    "racing j12 j11 j10 j9 j8": {
       "pos": 11,
       "jugados": 11,
       "puntos": 11
     },
-    "alaves j12 j11 j10 j9 j8": {
+    "celta j12 j11 j10 j9 j8": {
       "pos": 12,
       "jugados": 12,
       "puntos": 12
     },
-    "rayo j12 j11 j10 j9 j8": {
+    "alaves j13 j12 j11 j10 j9": {
       "pos": 13,
       "jugados": 13,
       "puntos": 13
     },
-    "espanyol j12 j11 j10 j9 j8": {
+    "rayo j12 j11 j10 j9 j8": {
       "pos": 14,
       "jugados": 14,
       "puntos": 14
     },
-    "getafe j12 j11 j10 j9 j8": {
+    "osasuna j12 j11 j10 j9 j8": {
       "pos": 15,
       "jugados": 15,
       "puntos": 15
     },
-    "osasuna j12 j11 j10 j9 j8": {
+    "getafe j12 j11 j10 j9 j8": {
       "pos": 16,
       "jugados": 16,
       "puntos": 16
