@@ -1,30 +1,30 @@
 {
   "format": 1,
   "fuente": "futbolfantasy",
-  "generatedAt": "2026-11-22T14:06:38.810Z",
+  "generatedAt": "2026-11-23T17:28:59.408Z",
   "total": 22,
   "porEquipo": {
     "12": {
-      "pos": 22,
-      "jugados": 33,
-      "puntos": 35
+      "pos": 38,
+      "jugados": 11,
+      "puntos": -5
     },
     "13": {
       "pos": 21,
-      "jugados": 33,
-      "puntos": 22
+      "jugados": 36,
+      "puntos": 36
     },
-    "real madrid j13 j12 j11 j10 j9": {
+    "barcelona j13 j12 j11 j10 j9": {
       "pos": 1,
       "jugados": 1,
       "puntos": 1
     },
-    "barcelona j13 j12 j11 j10 j9": {
+    "real madrid j13 j12 j11 j10 j9": {
       "pos": 2,
       "jugados": 2,
       "puntos": 2
     },
-    "atletico j12 j11 j10 j9 j8": {
+    "atletico j13 j12 j11 j10 j9": {
       "pos": 3,
       "jugados": 3,
       "puntos": 3
@@ -34,7 +34,7 @@
       "jugados": 4,
       "puntos": 4
     },
-    "real sociedad j12 j11 j10 j9 j8": {
+    "real sociedad j13 j12 j11 j10 j9": {
       "pos": 5,
       "jugados": 5,
       "puntos": 5
@@ -49,52 +49,52 @@
       "jugados": 7,
       "puntos": 7
     },
-    "alaves j13 j12 j11 j10 j9": {
+    "racing j13 j12 j11 j10 j9": {
       "pos": 8,
       "jugados": 8,
       "puntos": 8
     },
-    "villarreal j13 j12 j11 j10 j9": {
+    "alaves j13 j12 j11 j10 j9": {
       "pos": 9,
       "jugados": 9,
       "puntos": 9
     },
-    "espanyol j13 j12 j11 j10 j9": {
+    "villarreal j13 j12 j11 j10 j9": {
       "pos": 10,
       "jugados": 10,
       "puntos": 10
     },
-    "deportivo j13 j12 j11 j10 j9": {
+    "espanyol j13 j12 j11 j10 j9": {
       "pos": 11,
       "jugados": 11,
       "puntos": 11
     },
-    "racing j12 j11 j10 j9 j8": {
+    "deportivo j13 j12 j11 j10 j9": {
       "pos": 12,
       "jugados": 12,
       "puntos": 12
     },
-    "rayo j13 j12 j11 j10 j9": {
+    "osasuna j13 j12 j11 j10 j9": {
       "pos": 13,
       "jugados": 13,
       "puntos": 13
     },
-    "celta j13 j12 j11 j10 j9": {
+    "rayo j13 j12 j11 j10 j9": {
       "pos": 14,
       "jugados": 14,
       "puntos": 14
     },
-    "getafe j12 j11 j10 j9 j8": {
+    "celta j13 j12 j11 j10 j9": {
       "pos": 15,
       "jugados": 15,
       "puntos": 15
     },
-    "osasuna j12 j11 j10 j9 j8": {
+    "valencia j13 j12 j11 j10 j9": {
       "pos": 16,
       "jugados": 16,
       "puntos": 16
     },
-    "valencia j13 j12 j11 j10 j9": {
+    "getafe j13 j12 j11 j10 j9": {
       "pos": 17,
       "jugados": 17,
       "puntos": 17
@@ -109,7 +109,7 @@
       "jugados": 19,
       "puntos": 19
     },
-    "malaga j12 j11 j10 j9 j8": {
+    "malaga j13 j12 j11 j10 j9": {
       "pos": 20,
       "jugados": 20,
       "puntos": 20
