@@ -1,13 +1,18 @@
 {
   "format": 1,
   "fuente": "futbolfantasy",
-  "generatedAt": "2026-11-27T16:13:00.050Z",
-  "total": 21,
+  "generatedAt": "2026-11-28T15:06:02.519Z",
+  "total": 22,
   "porEquipo": {
     "13": {
       "pos": 21,
       "jugados": 36,
       "puntos": 36
+    },
+    "14": {
+      "pos": 24,
+      "jugados": 27,
+      "puntos": 4
     },
     "barcelona j13 j12 j11 j10 j9": {
       "pos": 1,
@@ -24,7 +29,7 @@
       "jugados": 3,
       "puntos": 3
     },
-    "betis j13 j12 j11 j10 j9": {
+    "betis j14 j13 j12 j11 j10": {
       "pos": 4,
       "jugados": 4,
       "puntos": 4
@@ -34,17 +39,17 @@
       "jugados": 5,
       "puntos": 5
     },
-    "sevilla j13 j12 j11 j10 j9": {
+    "racing j14 j13 j12 j11 j10": {
       "pos": 6,
       "jugados": 6,
       "puntos": 6
     },
-    "athletic j13 j12 j11 j10 j6": {
+    "sevilla j13 j12 j11 j10 j9": {
       "pos": 7,
       "jugados": 7,
       "puntos": 7
     },
-    "racing j13 j12 j11 j10 j9": {
+    "athletic j13 j12 j11 j10 j6": {
       "pos": 8,
       "jugados": 8,
       "puntos": 8
@@ -54,27 +59,27 @@
       "jugados": 9,
       "puntos": 9
     },
-    "villarreal j13 j12 j11 j10 j9": {
+    "rayo j14 j13 j12 j11 j10": {
       "pos": 10,
       "jugados": 10,
       "puntos": 10
     },
-    "espanyol j13 j12 j11 j10 j9": {
+    "villarreal j13 j12 j11 j10 j9": {
       "pos": 11,
       "jugados": 11,
       "puntos": 11
     },
-    "deportivo j13 j12 j11 j10 j9": {
+    "espanyol j13 j12 j11 j10 j9": {
       "pos": 12,
       "jugados": 12,
       "puntos": 12
     },
-    "osasuna j13 j12 j11 j10 j9": {
+    "deportivo j13 j12 j11 j10 j9": {
       "pos": 13,
       "jugados": 13,
       "puntos": 13
     },
-    "rayo j13 j12 j11 j10 j9": {
+    "osasuna j13 j12 j11 j10 j9": {
       "pos": 14,
       "jugados": 14,
       "puntos": 14
@@ -84,7 +89,7 @@
       "jugados": 15,
       "puntos": 15
     },
-    "levante j13 j12 j11 j10 j6": {
+    "levante j14 j13 j12 j11 j10": {
       "pos": 16,
       "jugados": 16,
       "puntos": 16
